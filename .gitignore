@@ -1,0 +1,39 @@
+# ignore all files in the obj folder, and the executables
+obj/
+epidemic
+singlehost
+parametersweep
+
+# ignore all temp files
+*~
+*.backup
+*.bak
+
+# ignore hidden files, but include this file
+.*
+!.gitignore
+
+# ignore documents, figures, pdfs, (zipped) xml files, sas databases
+*.png
+*.pdf
+*.docx
+*.doc
+*.ods
+*.xml
+
+# ignore latex auxilliary files
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+
+# compiled code, dependencies
+*.pyc
+*.o
+*.d
+
+# make exceptions for the examples
+!examples/*.ipynb
+!examples/*.png
+!examples/data/*.xml

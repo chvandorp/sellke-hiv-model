@@ -1,0 +1,1399 @@
+<stable_dist_sample VLMAX='6.64' LAMBDA1='1' LAMBDA2='0.1' LAMBDA3='0.5' PREV='0.35' PESC='1' SIGMA='0.2' PHI='0.07' PEPTIDES_N='300' NONEPITOPE_M='0' MEAN_K='15' STANDARD_DEV_K='5' R0='0' >
+<single_host_simulation >
+<whed_simulation TOI='0' TOD='7.707' spVLmin='3.99' spVLtav='4.46635' k='11' >
+<within_host_history >
+<within_host_statesummary time='0' V='3.59' beta='2.76' > <virus e='1' f='14' d='0' SpVL='3.59' ImResp='10' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.125702' V='3.72' beta='2.76' > <virus e='2' f='14' d='0' SpVL='3.72' ImResp='9' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.137875' V='3.79' beta='2.76' > <virus e='2' f='13' d='0' SpVL='3.79' ImResp='9' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.143983' V='3.86' beta='2.76' > <virus e='2' f='12' d='0' SpVL='3.86' ImResp='9' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.22317' V='3.99' beta='2.76' > <virus e='3' f='12' d='0' SpVL='3.99' ImResp='8' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.24' V='3.99' beta='0.130108' > <virus e='3' f='12' d='0' SpVL='3.99' ImResp='8' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.368765' V='4.12' beta='0.153997' > <virus e='4' f='12' d='0' SpVL='4.12' ImResp='7' />  </within_host_statesummary > 
+ <within_host_statesummary time='2.09465' V='4.19' beta='0.167016' > <virus e='4' f='11' d='0' SpVL='4.19' ImResp='7' />  </within_host_statesummary > 
+ <within_host_statesummary time='3.18902' V='4.32' beta='0.190764' > <virus e='5' f='11' d='0' SpVL='4.32' ImResp='6' />  </within_host_statesummary > 
+ <within_host_statesummary time='3.85234' V='4.45' beta='0.213092' > <virus e='6' f='11' d='0' SpVL='4.45' ImResp='5' />  </within_host_statesummary > 
+ <within_host_statesummary time='4.55189' V='4.52' beta='0.224234' > <virus e='6' f='10' d='0' SpVL='4.52' ImResp='5' />  </within_host_statesummary > 
+ <within_host_statesummary time='5.29834' V='4.59' beta='0.234644' > <virus e='6' f='9' d='0' SpVL='4.59' ImResp='5' />  </within_host_statesummary > 
+ <within_host_statesummary time='5.67017' V='4.66' beta='0.244265' > <virus e='6' f='8' d='0' SpVL='4.66' ImResp='5' />  </within_host_statesummary > 
+ <within_host_statesummary time='6.03502' V='4.79' beta='0.259959' > <virus e='7' f='8' d='0' SpVL='4.79' ImResp='4' />  </within_host_statesummary > 
+ <within_host_statesummary time='6.52345' V='4.92' beta='0.272878' > <virus e='8' f='8' d='0' SpVL='4.92' ImResp='3' />  </within_host_statesummary > 
+ <within_host_statesummary time='6.957' V='4.92' beta='0.76' > <virus e='8' f='8' d='0' SpVL='4.92' ImResp='3' />  </within_host_statesummary > 
+ <within_host_statesummary time='7.45882' V='4.99' beta='0.76' > <virus e='8' f='7' d='0' SpVL='4.99' ImResp='3' />  </within_host_statesummary > 
+ <within_host_statesummary time='7.65029' V='5.06' beta='0.76' > <virus e='8' f='6' d='0' SpVL='5.06' ImResp='3' />  </within_host_statesummary > 
+ <within_host_statesummary time='7.707' V='5.06' beta='0' > <virus e='8' f='6' d='0' SpVL='5.06' ImResp='3' />  </within_host_statesummary > 
+ </within_host_history >
+</whed_simulation >
+<transmitted_virus number='1' > <virus e='7' f='8' d='0' SpVL='4.79' ImResp='4' />  </transmitted_virus >
+</single_host_simulation >
+<single_host_simulation >
+<whed_simulation TOI='0' TOD='10.4041' spVLmin='2.32' spVLtav='3.02588' k='19' >
+<within_host_history >
+<within_host_statesummary time='0' V='1.99' beta='2.76' > <virus e='1' f='14' d='0' SpVL='1.99' ImResp='18' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.119273' V='2.12' beta='2.76' > <virus e='2' f='14' d='0' SpVL='2.12' ImResp='17' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.175299' V='2.25' beta='2.76' > <virus e='3' f='14' d='0' SpVL='2.25' ImResp='16' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.223999' V='2.32' beta='2.76' > <virus e='3' f='13' d='0' SpVL='2.32' ImResp='16' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.24' V='2.32' beta='0.00430953' > <virus e='3' f='13' d='0' SpVL='2.32' ImResp='16' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.270032' V='2.45' beta='0.00582006' > <virus e='4' f='13' d='0' SpVL='2.45' ImResp='15' />  </within_host_statesummary > 
+ <within_host_statesummary time='3.71098' V='2.58' beta='0.00784674' > <virus e='5' f='13' d='0' SpVL='2.58' ImResp='14' />  </within_host_statesummary > 
+ <within_host_statesummary time='3.77069' V='2.71' beta='0.0105552' > <virus e='6' f='13' d='0' SpVL='2.71' ImResp='13' />  </within_host_statesummary > 
+ <within_host_statesummary time='4.47423' V='2.84' beta='0.0141558' > <virus e='7' f='13' d='0' SpVL='2.84' ImResp='12' />  </within_host_statesummary > 
+ <within_host_statesummary time='4.91788' V='2.97' beta='0.0189088' > <virus e='8' f='13' d='0' SpVL='2.97' ImResp='11' />  </within_host_statesummary > 
+ <within_host_statesummary time='6.6293' V='3.1' beta='0.0251253' > <virus e='9' f='13' d='0' SpVL='3.1' ImResp='10' />  </within_host_statesummary > 
+ <within_host_statesummary time='7.39021' V='3.23' beta='0.0331583' > <virus e='10' f='13' d='0' SpVL='3.23' ImResp='9' />  </within_host_statesummary > 
+ <within_host_statesummary time='7.71877' V='3.36' beta='0.0433777' > <virus e='11' f='13' d='0' SpVL='3.36' ImResp='8' />  </within_host_statesummary > 
+ <within_host_statesummary time='9.15769' V='3.49' beta='0.0561241' > <virus e='12' f='13' d='0' SpVL='3.49' ImResp='7' />  </within_host_statesummary > 
+ <within_host_statesummary time='9.29977' V='3.62' beta='0.0716354' > <virus e='13' f='13' d='0' SpVL='3.62' ImResp='6' />  </within_host_statesummary > 
+ <within_host_statesummary time='9.65409' V='3.62' beta='0.76' > <virus e='13' f='13' d='0' SpVL='3.62' ImResp='6' />  </within_host_statesummary > 
+ <within_host_statesummary time='9.72982' V='3.75' beta='0.76' > <virus e='14' f='13' d='0' SpVL='3.75' ImResp='5' />  </within_host_statesummary > 
+ <within_host_statesummary time='9.73746' V='3.88' beta='0.76' > <virus e='15' f='13' d='0' SpVL='3.88' ImResp='4' />  </within_host_statesummary > 
+ <within_host_statesummary time='10.0497' V='3.95' beta='0.76' > <virus e='15' f='12' d='0' SpVL='3.95' ImResp='4' />  </within_host_statesummary > 
+ <within_host_statesummary time='10.0594' V='4.08' beta='0.76' > <virus e='16' f='12' d='0' SpVL='4.08' ImResp='3' />  </within_host_statesummary > 
+ <within_host_statesummary time='10.4041' V='4.08' beta='0' > <virus e='16' f='12' d='0' SpVL='4.08' ImResp='3' />  </within_host_statesummary > 
+ </within_host_history >
+</whed_simulation >
+<transmitted_virus number='2' > <virus e='11' f='13' d='0' SpVL='3.36' ImResp='8' />  <virus e='13' f='13' d='0' SpVL='3.62' ImResp='6' />  </transmitted_virus >
+</single_host_simulation >
+<single_host_simulation >
+<whed_simulation TOI='0' TOD='2.67549' spVLmin='5.05' spVLtav='5.05' k='5' >
+<within_host_history >
+<within_host_statesummary time='0' V='4.59' beta='2.76' > <virus e='0' f='15' d='0' SpVL='4.59' ImResp='5' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.0248834' V='4.72' beta='2.76' > <virus e='1' f='15' d='0' SpVL='4.72' ImResp='4' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.0262657' V='4.85' beta='2.76' > <virus e='2' f='15' d='0' SpVL='4.85' ImResp='3' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.0843306' V='4.92' beta='2.76' > <virus e='2' f='14' d='0' SpVL='4.92' ImResp='3' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.180335' V='5.05' beta='2.76' > <virus e='3' f='14' d='0' SpVL='5.05' ImResp='2' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.24' V='5.05' beta='0.283251' > <virus e='3' f='14' d='0' SpVL='5.05' ImResp='2' />  </within_host_statesummary > 
+ <within_host_statesummary time='1.92549' V='5.05' beta='0.76' > <virus e='3' f='14' d='0' SpVL='5.05' ImResp='2' />  </within_host_statesummary > 
+ <within_host_statesummary time='2.21684' V='5.12' beta='0.76' > <virus e='3' f='13' d='0' SpVL='5.12' ImResp='2' />  </within_host_statesummary > 
+ <within_host_statesummary time='2.25828' V='5.19' beta='0.76' > <virus e='3' f='12' d='0' SpVL='5.19' ImResp='2' />  </within_host_statesummary > 
+ <within_host_statesummary time='2.67549' V='5.19' beta='0' > <virus e='3' f='12' d='0' SpVL='5.19' ImResp='2' />  </within_host_statesummary > 
+ </within_host_history >
+</whed_simulation >
+<transmitted_virus number='1' > <virus e='3' f='14' d='0' SpVL='5.05' ImResp='2' />  </transmitted_virus >
+</single_host_simulation >
+<single_host_simulation >
+<whed_simulation TOI='0' TOD='4.66576' spVLmin='4.11' spVLtav='4.23218' k='12' >
+<within_host_history >
+<within_host_statesummary time='0' V='3.19' beta='2.76' > <virus e='0' f='15' d='0' SpVL='3.19' ImResp='12' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.020198' V='3.32' beta='2.76' > <virus e='1' f='15' d='0' SpVL='3.32' ImResp='11' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.0550776' V='3.45' beta='2.76' > <virus e='2' f='15' d='0' SpVL='3.45' ImResp='10' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.0971598' V='3.52' beta='2.76' > <virus e='2' f='14' d='0' SpVL='3.52' ImResp='10' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.0972192' V='3.65' beta='2.76' > <virus e='3' f='14' d='0' SpVL='3.65' ImResp='9' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.111142' V='3.78' beta='2.76' > <virus e='4' f='14' d='0' SpVL='3.78' ImResp='8' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.11223' V='3.91' beta='2.76' > <virus e='5' f='14' d='0' SpVL='3.91' ImResp='7' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.142883' V='4.04' beta='2.76' > <virus e='6' f='14' d='0' SpVL='4.04' ImResp='6' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.220993' V='4.11' beta='2.76' > <virus e='6' f='13' d='0' SpVL='4.11' ImResp='6' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.24' V='4.11' beta='0.152138' > <virus e='6' f='13' d='0' SpVL='4.11' ImResp='6' />  </within_host_statesummary > 
+ <within_host_statesummary time='1.07709' V='4.24' beta='0.176256' > <virus e='7' f='13' d='0' SpVL='4.24' ImResp='5' />  </within_host_statesummary > 
+ <within_host_statesummary time='3.05252' V='4.31' beta='0.188976' > <virus e='7' f='12' d='0' SpVL='4.31' ImResp='5' />  </within_host_statesummary > 
+ <within_host_statesummary time='3.91576' V='4.31' beta='0.76' > <virus e='7' f='12' d='0' SpVL='4.31' ImResp='5' />  </within_host_statesummary > 
+ <within_host_statesummary time='4.21458' V='4.38' beta='0.76' > <virus e='7' f='11' d='0' SpVL='4.38' ImResp='5' />  </within_host_statesummary > 
+ <within_host_statesummary time='4.39364' V='4.51' beta='0.76' > <virus e='8' f='11' d='0' SpVL='4.51' ImResp='4' />  </within_host_statesummary > 
+ <within_host_statesummary time='4.66576' V='4.51' beta='0' > <virus e='8' f='11' d='0' SpVL='4.51' ImResp='4' />  </within_host_statesummary > 
+ </within_host_history >
+</whed_simulation >
+<transmitted_virus number='0' > </transmitted_virus >
+</single_host_simulation >
+<single_host_simulation >
+<whed_simulation TOI='0' TOD='15.1228' spVLmin='3.12' spVLtav='4.00606' k='15' >
+<within_host_history >
+<within_host_statesummary time='0' V='2.59' beta='2.76' > <virus e='0' f='15' d='0' SpVL='2.59' ImResp='15' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.00969837' V='2.72' beta='2.76' > <virus e='1' f='15' d='0' SpVL='2.72' ImResp='14' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.0636814' V='2.79' beta='2.76' > <virus e='1' f='14' d='0' SpVL='2.79' ImResp='14' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.0981319' V='2.92' beta='2.76' > <virus e='2' f='14' d='0' SpVL='2.92' ImResp='13' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.136207' V='3.05' beta='2.76' > <virus e='3' f='14' d='0' SpVL='3.05' ImResp='12' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.232274' V='3.12' beta='2.76' > <virus e='3' f='13' d='0' SpVL='3.12' ImResp='12' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.24' V='3.12' beta='0.0262337' > <virus e='3' f='13' d='0' SpVL='3.12' ImResp='12' />  </within_host_statesummary > 
+ <within_host_statesummary time='1.50047' V='3.25' beta='0.034579' > <virus e='4' f='13' d='0' SpVL='3.25' ImResp='11' />  </within_host_statesummary > 
+ <within_host_statesummary time='1.72567' V='3.38' beta='0.0451667' > <virus e='5' f='13' d='0' SpVL='3.38' ImResp='10' />  </within_host_statesummary > 
+ <within_host_statesummary time='2.01355' V='3.51' beta='0.0583267' > <virus e='6' f='13' d='0' SpVL='3.51' ImResp='9' />  </within_host_statesummary > 
+ <within_host_statesummary time='2.88208' V='3.58' beta='0.0665607' > <virus e='6' f='12' d='0' SpVL='3.58' ImResp='9' />  </within_host_statesummary > 
+ <within_host_statesummary time='2.9428' V='3.65' beta='0.0756174' > <virus e='6' f='11' d='0' SpVL='3.65' ImResp='9' />  </within_host_statesummary > 
+ <within_host_statesummary time='7.22262' V='3.78' beta='0.0945632' > <virus e='7' f='11' d='0' SpVL='3.78' ImResp='8' />  </within_host_statesummary > 
+ <within_host_statesummary time='8.93647' V='3.85' beta='0.10582' > <virus e='7' f='10' d='0' SpVL='3.85' ImResp='8' />  </within_host_statesummary > 
+ <within_host_statesummary time='9.71639' V='3.98' beta='0.128311' > <virus e='8' f='10' d='0' SpVL='3.98' ImResp='7' />  </within_host_statesummary > 
+ <within_host_statesummary time='9.8576' V='4.05' beta='0.141038' > <virus e='8' f='9' d='0' SpVL='4.05' ImResp='7' />  </within_host_statesummary > 
+ <within_host_statesummary time='10.0341' V='4.18' beta='0.165159' > <virus e='9' f='9' d='0' SpVL='4.18' ImResp='6' />  </within_host_statesummary > 
+ <within_host_statesummary time='11.8915' V='4.25' beta='0.178092' > <virus e='9' f='8' d='0' SpVL='4.25' ImResp='6' />  </within_host_statesummary > 
+ <within_host_statesummary time='12.0049' V='4.38' beta='0.201301' > <virus e='10' f='8' d='0' SpVL='4.38' ImResp='5' />  </within_host_statesummary > 
+ <within_host_statesummary time='12.9043' V='4.51' beta='0.222686' > <virus e='11' f='8' d='0' SpVL='4.51' ImResp='4' />  </within_host_statesummary > 
+ <within_host_statesummary time='14.3728' V='4.51' beta='0.76' > <virus e='11' f='8' d='0' SpVL='4.51' ImResp='4' />  </within_host_statesummary > 
+ <within_host_statesummary time='14.4517' V='4.58' beta='0.76' > <virus e='11' f='7' d='0' SpVL='4.58' ImResp='4' />  </within_host_statesummary > 
+ <within_host_statesummary time='14.4815' V='4.71' beta='0.76' > <virus e='12' f='7' d='0' SpVL='4.71' ImResp='3' />  </within_host_statesummary > 
+ <within_host_statesummary time='14.7488' V='4.84' beta='0.76' > <virus e='13' f='7' d='0' SpVL='4.84' ImResp='2' />  </within_host_statesummary > 
+ <within_host_statesummary time='14.9565' V='4.91' beta='0.76' > <virus e='13' f='6' d='0' SpVL='4.91' ImResp='2' />  </within_host_statesummary > 
+ <within_host_statesummary time='15.1228' V='4.91' beta='0' > <virus e='13' f='6' d='0' SpVL='4.91' ImResp='2' />  </within_host_statesummary > 
+ </within_host_history >
+</whed_simulation >
+<transmitted_virus number='2' > <virus e='7' f='11' d='0' SpVL='3.78' ImResp='8' />  <virus e='10' f='8' d='0' SpVL='4.38' ImResp='5' />  </transmitted_virus >
+</single_host_simulation >
+<single_host_simulation >
+<whed_simulation TOI='0' TOD='6.00069' spVLmin='4.25' spVLtav='4.3736' k='10' >
+<within_host_history >
+<within_host_statesummary time='0' V='3.79' beta='2.76' > <virus e='1' f='14' d='0' SpVL='3.79' ImResp='9' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.0137319' V='3.86' beta='2.76' > <virus e='1' f='13' d='0' SpVL='3.86' ImResp='9' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.0437674' V='3.99' beta='2.76' > <virus e='2' f='13' d='0' SpVL='3.99' ImResp='8' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.0543267' V='4.12' beta='2.76' > <virus e='3' f='13' d='0' SpVL='4.12' ImResp='7' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.118215' V='4.25' beta='2.76' > <virus e='4' f='13' d='0' SpVL='4.25' ImResp='6' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.24' V='4.25' beta='0.178092' > <virus e='4' f='13' d='0' SpVL='4.25' ImResp='6' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.654998' V='4.32' beta='0.190764' > <virus e='4' f='12' d='0' SpVL='4.32' ImResp='6' />  </within_host_statesummary > 
+ <within_host_statesummary time='3.68132' V='4.45' beta='0.213092' > <virus e='5' f='12' d='0' SpVL='4.45' ImResp='5' />  </within_host_statesummary > 
+ <within_host_statesummary time='4.88477' V='4.58' beta='0.233204' > <virus e='6' f='12' d='0' SpVL='4.58' ImResp='4' />  </within_host_statesummary > 
+ <within_host_statesummary time='5.25069' V='4.58' beta='0.76' > <virus e='6' f='12' d='0' SpVL='4.58' ImResp='4' />  </within_host_statesummary > 
+ <within_host_statesummary time='5.55775' V='4.71' beta='0.76' > <virus e='7' f='12' d='0' SpVL='4.71' ImResp='3' />  </within_host_statesummary > 
+ <within_host_statesummary time='5.60145' V='4.78' beta='0.76' > <virus e='7' f='11' d='0' SpVL='4.78' ImResp='3' />  </within_host_statesummary > 
+ <within_host_statesummary time='5.64869' V='4.85' beta='0.76' > <virus e='7' f='10' d='0' SpVL='4.85' ImResp='3' />  </within_host_statesummary > 
+ <within_host_statesummary time='6.00069' V='4.85' beta='0' > <virus e='7' f='10' d='0' SpVL='4.85' ImResp='3' />  </within_host_statesummary > 
+ </within_host_history >
+</whed_simulation >
+<transmitted_virus number='2' > <virus e='3' f='13' d='0' SpVL='4.12' ImResp='7' />  <virus e='5' f='12' d='0' SpVL='4.45' ImResp='5' />  </transmitted_virus >
+</single_host_simulation >
+<single_host_simulation >
+<whed_simulation TOI='0' TOD='10.0398' spVLmin='3.66' spVLtav='4.27337' k='12' >
+<within_host_history >
+<within_host_statesummary time='0' V='3.39' beta='2.76' > <virus e='1' f='14' d='0' SpVL='3.39' ImResp='11' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.00468471' V='3.46' beta='2.76' > <virus e='1' f='13' d='0' SpVL='3.46' ImResp='11' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.0631106' V='3.53' beta='2.76' > <virus e='1' f='12' d='0' SpVL='3.53' ImResp='11' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.126964' V='3.66' beta='2.76' > <virus e='2' f='12' d='0' SpVL='3.66' ImResp='10' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.24' V='3.66' beta='0.076978' > <virus e='2' f='12' d='0' SpVL='3.66' ImResp='10' />  </within_host_statesummary > 
+ <within_host_statesummary time='1.41755' V='3.73' beta='0.0869599' > <virus e='2' f='11' d='0' SpVL='3.73' ImResp='10' />  </within_host_statesummary > 
+ <within_host_statesummary time='2.96459' V='3.8' beta='0.0977093' > <virus e='2' f='10' d='0' SpVL='3.8' ImResp='10' />  </within_host_statesummary > 
+ <within_host_statesummary time='3.24358' V='3.93' beta='0.119451' > <virus e='3' f='10' d='0' SpVL='3.93' ImResp='9' />  </within_host_statesummary > 
+ <within_host_statesummary time='3.84624' V='4.06' beta='0.142879' > <virus e='4' f='10' d='0' SpVL='4.06' ImResp='8' />  </within_host_statesummary > 
+ <within_host_statesummary time='4.91082' V='4.13' beta='0.155857' > <virus e='4' f='9' d='0' SpVL='4.13' ImResp='8' />  </within_host_statesummary > 
+ <within_host_statesummary time='5.65158' V='4.2' beta='0.168871' > <virus e='4' f='8' d='0' SpVL='4.2' ImResp='8' />  </within_host_statesummary > 
+ <within_host_statesummary time='6.75059' V='4.27' beta='0.181746' > <virus e='4' f='7' d='0' SpVL='4.27' ImResp='8' />  </within_host_statesummary > 
+ <within_host_statesummary time='6.88646' V='4.4' beta='0.20473' > <virus e='5' f='7' d='0' SpVL='4.4' ImResp='7' />  </within_host_statesummary > 
+ <within_host_statesummary time='6.92018' V='4.53' beta='0.225768' > <virus e='6' f='7' d='0' SpVL='4.53' ImResp='6' />  </within_host_statesummary > 
+ <within_host_statesummary time='7.09568' V='4.66' beta='0.244265' > <virus e='7' f='7' d='0' SpVL='4.66' ImResp='5' />  </within_host_statesummary > 
+ <within_host_statesummary time='9.28979' V='4.66' beta='0.76' > <virus e='7' f='7' d='0' SpVL='4.66' ImResp='5' />  </within_host_statesummary > 
+ <within_host_statesummary time='9.32244' V='4.79' beta='0.76' > <virus e='8' f='7' d='0' SpVL='4.79' ImResp='4' />  </within_host_statesummary > 
+ <within_host_statesummary time='10.0398' V='4.79' beta='0' > <virus e='8' f='7' d='0' SpVL='4.79' ImResp='4' />  </within_host_statesummary > 
+ </within_host_history >
+</whed_simulation >
+<transmitted_virus number='0' > </transmitted_virus >
+</single_host_simulation >
+<single_host_simulation >
+<whed_simulation TOI='0' TOD='7.09607' spVLmin='3.05' spVLtav='3.3117' k='17' >
+<within_host_history >
+<within_host_statesummary time='0' V='2.59' beta='2.76' > <virus e='2' f='13' d='0' SpVL='2.59' ImResp='15' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.130301' V='2.72' beta='2.76' > <virus e='3' f='13' d='0' SpVL='2.72' ImResp='14' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.155064' V='2.85' beta='2.76' > <virus e='4' f='13' d='0' SpVL='2.85' ImResp='13' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.212539' V='2.92' beta='2.76' > <virus e='4' f='12' d='0' SpVL='2.92' ImResp='13' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.217141' V='3.05' beta='2.76' > <virus e='5' f='12' d='0' SpVL='3.05' ImResp='12' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.24' V='3.05' beta='0.0225394' > <virus e='5' f='12' d='0' SpVL='3.05' ImResp='12' />  </within_host_statesummary > 
+ <within_host_statesummary time='2.99146' V='3.18' beta='0.0298301' > <virus e='6' f='12' d='0' SpVL='3.18' ImResp='11' />  </within_host_statesummary > 
+ <within_host_statesummary time='3.56595' V='3.31' beta='0.0391653' > <virus e='7' f='12' d='0' SpVL='3.31' ImResp='10' />  </within_host_statesummary > 
+ <within_host_statesummary time='5.01641' V='3.38' beta='0.0451667' > <virus e='7' f='11' d='0' SpVL='3.38' ImResp='10' />  </within_host_statesummary > 
+ <within_host_statesummary time='5.27519' V='3.45' beta='0.0519158' > <virus e='7' f='10' d='0' SpVL='3.45' ImResp='10' />  </within_host_statesummary > 
+ <within_host_statesummary time='5.41874' V='3.58' beta='0.0665607' > <virus e='8' f='10' d='0' SpVL='3.58' ImResp='9' />  </within_host_statesummary > 
+ <within_host_statesummary time='5.55711' V='3.71' beta='0.0840273' > <virus e='9' f='10' d='0' SpVL='3.71' ImResp='8' />  </within_host_statesummary > 
+ <within_host_statesummary time='6.34607' V='3.71' beta='0.76' > <virus e='9' f='10' d='0' SpVL='3.71' ImResp='8' />  </within_host_statesummary > 
+ <within_host_statesummary time='6.36131' V='3.78' beta='0.76' > <virus e='9' f='9' d='0' SpVL='3.78' ImResp='8' />  </within_host_statesummary > 
+ <within_host_statesummary time='6.52301' V='3.91' beta='0.76' > <virus e='10' f='9' d='0' SpVL='3.91' ImResp='7' />  </within_host_statesummary > 
+ <within_host_statesummary time='6.78058' V='4.04' beta='0.76' > <virus e='11' f='9' d='0' SpVL='4.04' ImResp='6' />  </within_host_statesummary > 
+ <within_host_statesummary time='6.82551' V='4.17' beta='0.76' > <virus e='12' f='9' d='0' SpVL='4.17' ImResp='5' />  </within_host_statesummary > 
+ <within_host_statesummary time='6.89522' V='4.24' beta='0.76' > <virus e='12' f='8' d='0' SpVL='4.24' ImResp='5' />  </within_host_statesummary > 
+ <within_host_statesummary time='7.09607' V='4.24' beta='0' > <virus e='12' f='8' d='0' SpVL='4.24' ImResp='5' />  </within_host_statesummary > 
+ </within_host_history >
+</whed_simulation >
+<transmitted_virus number='2' > <virus e='4' f='13' d='0' SpVL='2.85' ImResp='13' />  <virus e='12' f='9' d='0' SpVL='4.17' ImResp='5' />  </transmitted_virus >
+</single_host_simulation >
+<single_host_simulation >
+<whed_simulation TOI='0' TOD='14.0547' spVLmin='3.73' spVLtav='4.46436' k='10' >
+<within_host_history >
+<within_host_statesummary time='0' V='3.59' beta='2.76' > <virus e='0' f='15' d='0' SpVL='3.59' ImResp='10' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.0544188' V='3.66' beta='2.76' > <virus e='0' f='14' d='0' SpVL='3.66' ImResp='10' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.23998' V='3.73' beta='2.76' > <virus e='0' f='13' d='0' SpVL='3.73' ImResp='10' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.24' V='3.73' beta='0.0869599' > <virus e='0' f='13' d='0' SpVL='3.73' ImResp='10' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.395071' V='3.86' beta='0.107482' > <virus e='1' f='13' d='0' SpVL='3.86' ImResp='9' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.694117' V='3.99' beta='0.130108' > <virus e='2' f='13' d='0' SpVL='3.99' ImResp='8' />  </within_host_statesummary > 
+ <within_host_statesummary time='2.46778' V='4.06' beta='0.142879' > <virus e='2' f='12' d='0' SpVL='4.06' ImResp='8' />  </within_host_statesummary > 
+ <within_host_statesummary time='2.62138' V='4.13' beta='0.155857' > <virus e='2' f='11' d='0' SpVL='4.13' ImResp='8' />  </within_host_statesummary > 
+ <within_host_statesummary time='4.25711' V='4.2' beta='0.168871' > <virus e='2' f='10' d='0' SpVL='4.2' ImResp='8' />  </within_host_statesummary > 
+ <within_host_statesummary time='4.36107' V='4.33' beta='0.192544' > <virus e='3' f='10' d='0' SpVL='4.33' ImResp='7' />  </within_host_statesummary > 
+ <within_host_statesummary time='5.17112' V='4.4' beta='0.20473' > <virus e='3' f='9' d='0' SpVL='4.4' ImResp='7' />  </within_host_statesummary > 
+ <within_host_statesummary time='8.51944' V='4.53' beta='0.225768' > <virus e='4' f='9' d='0' SpVL='4.53' ImResp='6' />  </within_host_statesummary > 
+ <within_host_statesummary time='11.6468' V='4.66' beta='0.244265' > <virus e='5' f='9' d='0' SpVL='4.66' ImResp='5' />  </within_host_statesummary > 
+ <within_host_statesummary time='12.2674' V='4.79' beta='0.259959' > <virus e='6' f='9' d='0' SpVL='4.79' ImResp='4' />  </within_host_statesummary > 
+ <within_host_statesummary time='12.3008' V='4.86' beta='0.267249' > <virus e='6' f='8' d='0' SpVL='4.86' ImResp='4' />  </within_host_statesummary > 
+ <within_host_statesummary time='12.3459' V='4.99' beta='0.27876' > <virus e='7' f='8' d='0' SpVL='4.99' ImResp='3' />  </within_host_statesummary > 
+ <within_host_statesummary time='13.3047' V='4.99' beta='0.76' > <virus e='7' f='8' d='0' SpVL='4.99' ImResp='3' />  </within_host_statesummary > 
+ <within_host_statesummary time='13.3953' V='5.12' beta='0.76' > <virus e='8' f='8' d='0' SpVL='5.12' ImResp='2' />  </within_host_statesummary > 
+ <within_host_statesummary time='13.7308' V='5.19' beta='0.76' > <virus e='8' f='7' d='0' SpVL='5.19' ImResp='2' />  </within_host_statesummary > 
+ <within_host_statesummary time='13.8583' V='5.26' beta='0.76' > <virus e='8' f='6' d='0' SpVL='5.26' ImResp='2' />  </within_host_statesummary > 
+ <within_host_statesummary time='14.0547' V='5.26' beta='0' > <virus e='8' f='6' d='0' SpVL='5.26' ImResp='2' />  </within_host_statesummary > 
+ </within_host_history >
+</whed_simulation >
+<transmitted_virus number='2' > <virus e='0' f='14' d='0' SpVL='3.66' ImResp='10' />  <virus e='4' f='9' d='0' SpVL='4.53' ImResp='6' />  </transmitted_virus >
+</single_host_simulation >
+<single_host_simulation >
+<whed_simulation TOI='0' TOD='8.1716' spVLmin='3.66' spVLtav='4.51103' k='11' >
+<within_host_history >
+<within_host_statesummary time='0' V='3.39' beta='2.76' > <virus e='0' f='15' d='0' SpVL='3.39' ImResp='11' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.0642699' V='3.52' beta='2.76' > <virus e='1' f='15' d='0' SpVL='3.52' ImResp='10' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.174582' V='3.59' beta='2.76' > <virus e='1' f='14' d='0' SpVL='3.59' ImResp='10' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.188099' V='3.66' beta='2.76' > <virus e='1' f='13' d='0' SpVL='3.66' ImResp='10' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.24' V='3.66' beta='0.076978' > <virus e='1' f='13' d='0' SpVL='3.66' ImResp='10' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.283089' V='3.79' beta='0.096129' > <virus e='2' f='13' d='0' SpVL='3.79' ImResp='9' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.988067' V='3.92' beta='0.117708' > <virus e='3' f='13' d='0' SpVL='3.92' ImResp='8' />  </within_host_statesummary > 
+ <within_host_statesummary time='2.15912' V='4.05' beta='0.141038' > <virus e='4' f='13' d='0' SpVL='4.05' ImResp='7' />  </within_host_statesummary > 
+ <within_host_statesummary time='2.35944' V='4.18' beta='0.165159' > <virus e='5' f='13' d='0' SpVL='4.18' ImResp='6' />  </within_host_statesummary > 
+ <within_host_statesummary time='2.3733' V='4.31' beta='0.188976' > <virus e='6' f='13' d='0' SpVL='4.31' ImResp='5' />  </within_host_statesummary > 
+ <within_host_statesummary time='2.6031' V='4.44' beta='0.211445' > <virus e='7' f='13' d='0' SpVL='4.44' ImResp='4' />  </within_host_statesummary > 
+ <within_host_statesummary time='2.71873' V='4.51' beta='0.222686' > <virus e='7' f='12' d='0' SpVL='4.51' ImResp='4' />  </within_host_statesummary > 
+ <within_host_statesummary time='3.79725' V='4.58' beta='0.233204' > <virus e='7' f='11' d='0' SpVL='4.58' ImResp='4' />  </within_host_statesummary > 
+ <within_host_statesummary time='5.04472' V='4.65' beta='0.24294' > <virus e='7' f='10' d='0' SpVL='4.65' ImResp='4' />  </within_host_statesummary > 
+ <within_host_statesummary time='6.14969' V='4.78' beta='0.258852' > <virus e='8' f='10' d='0' SpVL='4.78' ImResp='3' />  </within_host_statesummary > 
+ <within_host_statesummary time='7.4216' V='4.78' beta='0.76' > <virus e='8' f='10' d='0' SpVL='4.78' ImResp='3' />  </within_host_statesummary > 
+ <within_host_statesummary time='7.67985' V='4.91' beta='0.76' > <virus e='9' f='10' d='0' SpVL='4.91' ImResp='2' />  </within_host_statesummary > 
+ <within_host_statesummary time='7.69792' V='4.98' beta='0.76' > <virus e='9' f='9' d='0' SpVL='4.98' ImResp='2' />  </within_host_statesummary > 
+ <within_host_statesummary time='7.71569' V='5.05' beta='0.76' > <virus e='9' f='8' d='0' SpVL='5.05' ImResp='2' />  </within_host_statesummary > 
+ <within_host_statesummary time='7.77368' V='5.18' beta='0.76' > <virus e='10' f='8' d='0' SpVL='5.18' ImResp='1' />  </within_host_statesummary > 
+ <within_host_statesummary time='7.89287' V='5.25' beta='0.76' > <virus e='10' f='7' d='0' SpVL='5.25' ImResp='1' />  </within_host_statesummary > 
+ <within_host_statesummary time='8.09933' V='5.38' beta='0.76' > <virus e='11' f='7' d='0' SpVL='5.38' ImResp='0' />  </within_host_statesummary > 
+ <within_host_statesummary time='8.1716' V='5.38' beta='0' > <virus e='11' f='7' d='0' SpVL='5.38' ImResp='0' />  </within_host_statesummary > 
+ </within_host_history >
+</whed_simulation >
+<transmitted_virus number='3' > <virus e='7' f='11' d='0' SpVL='4.58' ImResp='4' />  <virus e='8' f='10' d='0' SpVL='4.78' ImResp='3' />  <virus e='8' f='10' d='0' SpVL='4.78' ImResp='3' />  </transmitted_virus >
+</single_host_simulation >
+<single_host_simulation >
+<whed_simulation TOI='0' TOD='5.5203' spVLmin='2.45' spVLtav='2.92961' k='18' >
+<within_host_history >
+<within_host_statesummary time='0' V='1.99' beta='2.76' > <virus e='0' f='15' d='0' SpVL='1.99' ImResp='18' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.00825592' V='2.06' beta='2.76' > <virus e='0' f='14' d='0' SpVL='2.06' ImResp='18' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.0168135' V='2.19' beta='2.76' > <virus e='1' f='14' d='0' SpVL='2.19' ImResp='17' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.113983' V='2.32' beta='2.76' > <virus e='2' f='14' d='0' SpVL='2.32' ImResp='16' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.140103' V='2.45' beta='2.76' > <virus e='3' f='14' d='0' SpVL='2.45' ImResp='15' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.24' V='2.45' beta='0.00582006' > <virus e='3' f='14' d='0' SpVL='2.45' ImResp='15' />  </within_host_statesummary > 
+ <within_host_statesummary time='1.27816' V='2.58' beta='0.00784674' > <virus e='4' f='14' d='0' SpVL='2.58' ImResp='14' />  </within_host_statesummary > 
+ <within_host_statesummary time='1.28952' V='2.65' beta='0.00920816' > <virus e='4' f='13' d='0' SpVL='2.65' ImResp='14' />  </within_host_statesummary > 
+ <within_host_statesummary time='1.84972' V='2.72' beta='0.0107975' > <virus e='4' f='12' d='0' SpVL='2.72' ImResp='14' />  </within_host_statesummary > 
+ <within_host_statesummary time='2.3693' V='2.79' beta='0.01265' > <virus e='4' f='11' d='0' SpVL='2.79' ImResp='14' />  </within_host_statesummary > 
+ <within_host_statesummary time='2.44533' V='2.92' beta='0.0169256' > <virus e='5' f='11' d='0' SpVL='2.92' ImResp='13' />  </within_host_statesummary > 
+ <within_host_statesummary time='2.73156' V='3.05' beta='0.0225394' > <virus e='6' f='11' d='0' SpVL='3.05' ImResp='12' />  </within_host_statesummary > 
+ <within_host_statesummary time='3.98046' V='3.18' beta='0.0298301' > <virus e='7' f='11' d='0' SpVL='3.18' ImResp='11' />  </within_host_statesummary > 
+ <within_host_statesummary time='4.48451' V='3.31' beta='0.0391653' > <virus e='8' f='11' d='0' SpVL='3.31' ImResp='10' />  </within_host_statesummary > 
+ <within_host_statesummary time='4.7703' V='3.31' beta='0.76' > <virus e='8' f='11' d='0' SpVL='3.31' ImResp='10' />  </within_host_statesummary > 
+ <within_host_statesummary time='4.79614' V='3.38' beta='0.76' > <virus e='8' f='10' d='0' SpVL='3.38' ImResp='10' />  </within_host_statesummary > 
+ <within_host_statesummary time='4.8021' V='3.51' beta='0.76' > <virus e='9' f='10' d='0' SpVL='3.51' ImResp='9' />  </within_host_statesummary > 
+ <within_host_statesummary time='4.93644' V='3.64' beta='0.76' > <virus e='10' f='10' d='0' SpVL='3.64' ImResp='8' />  </within_host_statesummary > 
+ <within_host_statesummary time='5.00194' V='3.71' beta='0.76' > <virus e='10' f='9' d='0' SpVL='3.71' ImResp='8' />  </within_host_statesummary > 
+ <within_host_statesummary time='5.18137' V='3.78' beta='0.76' > <virus e='10' f='8' d='0' SpVL='3.78' ImResp='8' />  </within_host_statesummary > 
+ <within_host_statesummary time='5.5203' V='3.78' beta='0' > <virus e='10' f='8' d='0' SpVL='3.78' ImResp='8' />  </within_host_statesummary > 
+ </within_host_history >
+</whed_simulation >
+<transmitted_virus number='0' > </transmitted_virus >
+</single_host_simulation >
+<single_host_simulation >
+<whed_simulation TOI='0' TOD='18.9689' spVLmin='3.39' spVLtav='4.33942' k='14' >
+<within_host_history >
+<within_host_statesummary time='0' V='2.99' beta='2.76' > <virus e='1' f='14' d='0' SpVL='2.99' ImResp='13' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.006589' V='3.12' beta='2.76' > <virus e='2' f='14' d='0' SpVL='3.12' ImResp='12' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.0439421' V='3.19' beta='2.76' > <virus e='2' f='13' d='0' SpVL='3.19' ImResp='12' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.0584798' V='3.32' beta='2.76' > <virus e='3' f='13' d='0' SpVL='3.32' ImResp='11' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.227946' V='3.39' beta='2.76' > <virus e='3' f='12' d='0' SpVL='3.39' ImResp='11' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.24' V='3.39' beta='0.046084' > <virus e='3' f='12' d='0' SpVL='3.39' ImResp='11' />  </within_host_statesummary > 
+ <within_host_statesummary time='1.301' V='3.52' beta='0.0594528' > <virus e='4' f='12' d='0' SpVL='3.52' ImResp='10' />  </within_host_statesummary > 
+ <within_host_statesummary time='1.79133' V='3.65' beta='0.0756174' > <virus e='5' f='12' d='0' SpVL='3.65' ImResp='9' />  </within_host_statesummary > 
+ <within_host_statesummary time='2.38758' V='3.78' beta='0.0945632' > <virus e='6' f='12' d='0' SpVL='3.78' ImResp='8' />  </within_host_statesummary > 
+ <within_host_statesummary time='3.81335' V='3.91' beta='0.115975' > <virus e='7' f='12' d='0' SpVL='3.91' ImResp='7' />  </within_host_statesummary > 
+ <within_host_statesummary time='6.04065' V='4.04' beta='0.139201' > <virus e='8' f='12' d='0' SpVL='4.04' ImResp='6' />  </within_host_statesummary > 
+ <within_host_statesummary time='7.23256' V='4.17' beta='0.163301' > <virus e='9' f='12' d='0' SpVL='4.17' ImResp='5' />  </within_host_statesummary > 
+ <within_host_statesummary time='8.30405' V='4.3' beta='0.18718' > <virus e='10' f='12' d='0' SpVL='4.3' ImResp='4' />  </within_host_statesummary > 
+ <within_host_statesummary time='8.80656' V='4.43' beta='0.209784' > <virus e='11' f='12' d='0' SpVL='4.43' ImResp='3' />  </within_host_statesummary > 
+ <within_host_statesummary time='14.0023' V='4.5' beta='0.221122' > <virus e='11' f='11' d='0' SpVL='4.5' ImResp='3' />  </within_host_statesummary > 
+ <within_host_statesummary time='15.5097' V='4.63' beta='0.240241' > <virus e='12' f='11' d='0' SpVL='4.63' ImResp='2' />  </within_host_statesummary > 
+ <within_host_statesummary time='17.3538' V='4.76' beta='0.256588' > <virus e='13' f='11' d='0' SpVL='4.76' ImResp='1' />  </within_host_statesummary > 
+ <within_host_statesummary time='17.7894' V='4.83' beta='0.264222' > <virus e='13' f='10' d='0' SpVL='4.83' ImResp='1' />  </within_host_statesummary > 
+ <within_host_statesummary time='18.2189' V='4.83' beta='0.76' > <virus e='13' f='10' d='0' SpVL='4.83' ImResp='1' />  </within_host_statesummary > 
+ <within_host_statesummary time='18.4157' V='4.9' beta='0.76' > <virus e='13' f='9' d='0' SpVL='4.9' ImResp='1' />  </within_host_statesummary > 
+ <within_host_statesummary time='18.7435' V='4.97' beta='0.76' > <virus e='13' f='8' d='0' SpVL='4.97' ImResp='1' />  </within_host_statesummary > 
+ <within_host_statesummary time='18.9689' V='4.97' beta='0' > <virus e='13' f='8' d='0' SpVL='4.97' ImResp='1' />  </within_host_statesummary > 
+ </within_host_history >
+</whed_simulation >
+<transmitted_virus number='5' > <virus e='3' f='13' d='0' SpVL='3.32' ImResp='11' />  <virus e='7' f='12' d='0' SpVL='3.91' ImResp='7' />  <virus e='10' f='12' d='0' SpVL='4.3' ImResp='4' />  <virus e='11' f='12' d='0' SpVL='4.43' ImResp='3' />  <virus e='11' f='11' d='0' SpVL='4.5' ImResp='3' />  </transmitted_virus >
+</single_host_simulation >
+<single_host_simulation >
+<whed_simulation TOI='0' TOD='7.97117' spVLmin='3.65' spVLtav='3.88817' k='15' >
+<within_host_history >
+<within_host_statesummary time='0' V='2.79' beta='2.76' > <virus e='1' f='14' d='0' SpVL='2.79' ImResp='14' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.0129071' V='2.92' beta='2.76' > <virus e='2' f='14' d='0' SpVL='2.92' ImResp='13' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.0821155' V='2.99' beta='2.76' > <virus e='2' f='13' d='0' SpVL='2.99' ImResp='13' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.0942162' V='3.06' beta='2.76' > <virus e='2' f='12' d='0' SpVL='3.06' ImResp='13' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.0956388' V='3.19' beta='2.76' > <virus e='3' f='12' d='0' SpVL='3.19' ImResp='12' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.157181' V='3.32' beta='2.76' > <virus e='4' f='12' d='0' SpVL='3.32' ImResp='11' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.228858' V='3.39' beta='2.76' > <virus e='4' f='11' d='0' SpVL='3.39' ImResp='11' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.231706' V='3.52' beta='2.76' > <virus e='5' f='11' d='0' SpVL='3.52' ImResp='10' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.237156' V='3.65' beta='2.76' > <virus e='6' f='11' d='0' SpVL='3.65' ImResp='9' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.24' V='3.65' beta='0.0756174' > <virus e='6' f='11' d='0' SpVL='3.65' ImResp='9' />  </within_host_statesummary > 
+ <within_host_statesummary time='1.06297' V='3.78' beta='0.0945632' > <virus e='7' f='11' d='0' SpVL='3.78' ImResp='8' />  </within_host_statesummary > 
+ <within_host_statesummary time='1.73463' V='3.85' beta='0.10582' > <virus e='7' f='10' d='0' SpVL='3.85' ImResp='8' />  </within_host_statesummary > 
+ <within_host_statesummary time='5.29284' V='3.92' beta='0.117708' > <virus e='7' f='9' d='0' SpVL='3.92' ImResp='8' />  </within_host_statesummary > 
+ <within_host_statesummary time='5.86644' V='4.05' beta='0.141038' > <virus e='8' f='9' d='0' SpVL='4.05' ImResp='7' />  </within_host_statesummary > 
+ <within_host_statesummary time='6.93352' V='4.12' beta='0.153997' > <virus e='8' f='8' d='0' SpVL='4.12' ImResp='7' />  </within_host_statesummary > 
+ <within_host_statesummary time='6.99834' V='4.19' beta='0.167016' > <virus e='8' f='7' d='0' SpVL='4.19' ImResp='7' />  </within_host_statesummary > 
+ <within_host_statesummary time='7.22117' V='4.19' beta='0.76' > <virus e='8' f='7' d='0' SpVL='4.19' ImResp='7' />  </within_host_statesummary > 
+ <within_host_statesummary time='7.8624' V='4.26' beta='0.76' > <virus e='8' f='6' d='0' SpVL='4.26' ImResp='7' />  </within_host_statesummary > 
+ <within_host_statesummary time='7.91644' V='4.39' beta='0.76' > <virus e='9' f='6' d='0' SpVL='4.39' ImResp='6' />  </within_host_statesummary > 
+ <within_host_statesummary time='7.97117' V='4.39' beta='0' > <virus e='9' f='6' d='0' SpVL='4.39' ImResp='6' />  </within_host_statesummary > 
+ </within_host_history >
+</whed_simulation >
+<transmitted_virus number='2' > <virus e='8' f='9' d='0' SpVL='4.05' ImResp='7' />  <virus e='8' f='7' d='0' SpVL='4.19' ImResp='7' />  </transmitted_virus >
+</single_host_simulation >
+<single_host_simulation >
+<whed_simulation TOI='0' TOD='11.4329' spVLmin='2.25' spVLtav='3.54076' k='20' >
+<within_host_history >
+<within_host_statesummary time='0' V='1.99' beta='2.76' > <virus e='2' f='13' d='0' SpVL='1.99' ImResp='18' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.198296' V='2.12' beta='2.76' > <virus e='3' f='13' d='0' SpVL='2.12' ImResp='17' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.228295' V='2.25' beta='2.76' > <virus e='4' f='13' d='0' SpVL='2.25' ImResp='16' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.24' V='2.25' beta='0.00366375' > <virus e='4' f='13' d='0' SpVL='2.25' ImResp='16' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.606258' V='2.38' beta='0.00495151' > <virus e='5' f='13' d='0' SpVL='2.38' ImResp='15' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.711943' V='2.45' beta='0.00582006' > <virus e='5' f='12' d='0' SpVL='2.45' ImResp='15' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.738244' V='2.58' beta='0.00784674' > <virus e='6' f='12' d='0' SpVL='2.58' ImResp='14' />  </within_host_statesummary > 
+ <within_host_statesummary time='2.97268' V='2.71' beta='0.0105552' > <virus e='7' f='12' d='0' SpVL='2.71' ImResp='13' />  </within_host_statesummary > 
+ <within_host_statesummary time='3.04504' V='2.78' beta='0.0123678' > <virus e='7' f='11' d='0' SpVL='2.78' ImResp='13' />  </within_host_statesummary > 
+ <within_host_statesummary time='4.81707' V='2.91' beta='0.0165532' > <virus e='8' f='11' d='0' SpVL='2.91' ImResp='12' />  </within_host_statesummary > 
+ <within_host_statesummary time='4.99592' V='3.04' beta='0.0220526' > <virus e='9' f='11' d='0' SpVL='3.04' ImResp='11' />  </within_host_statesummary > 
+ <within_host_statesummary time='5.00556' V='3.11' beta='0.0256741' > <virus e='9' f='10' d='0' SpVL='3.11' ImResp='11' />  </within_host_statesummary > 
+ <within_host_statesummary time='5.03407' V='3.18' beta='0.0298301' > <virus e='9' f='9' d='0' SpVL='3.18' ImResp='11' />  </within_host_statesummary > 
+ <within_host_statesummary time='5.36103' V='3.31' beta='0.0391653' > <virus e='10' f='9' d='0' SpVL='3.31' ImResp='10' />  </within_host_statesummary > 
+ <within_host_statesummary time='6.2261' V='3.38' beta='0.0451667' > <virus e='10' f='8' d='0' SpVL='3.38' ImResp='10' />  </within_host_statesummary > 
+ <within_host_statesummary time='7.00304' V='3.51' beta='0.0583267' > <virus e='11' f='8' d='0' SpVL='3.51' ImResp='9' />  </within_host_statesummary > 
+ <within_host_statesummary time='7.57073' V='3.58' beta='0.0665607' > <virus e='11' f='7' d='0' SpVL='3.58' ImResp='9' />  </within_host_statesummary > 
+ <within_host_statesummary time='8.4092' V='3.65' beta='0.0756174' > <virus e='11' f='6' d='0' SpVL='3.65' ImResp='9' />  </within_host_statesummary > 
+ <within_host_statesummary time='8.7877' V='3.78' beta='0.0945632' > <virus e='12' f='6' d='0' SpVL='3.78' ImResp='8' />  </within_host_statesummary > 
+ <within_host_statesummary time='8.86218' V='3.85' beta='0.10582' > <virus e='12' f='5' d='0' SpVL='3.85' ImResp='8' />  </within_host_statesummary > 
+ <within_host_statesummary time='8.93829' V='3.92' beta='0.117708' > <virus e='12' f='4' d='0' SpVL='3.92' ImResp='8' />  </within_host_statesummary > 
+ <within_host_statesummary time='9.37286' V='4.05' beta='0.141038' > <virus e='13' f='4' d='0' SpVL='4.05' ImResp='7' />  </within_host_statesummary > 
+ <within_host_statesummary time='9.69025' V='4.18' beta='0.165159' > <virus e='14' f='4' d='0' SpVL='4.18' ImResp='6' />  </within_host_statesummary > 
+ <within_host_statesummary time='10.6829' V='4.18' beta='0.76' > <virus e='14' f='4' d='0' SpVL='4.18' ImResp='6' />  </within_host_statesummary > 
+ <within_host_statesummary time='10.6883' V='4.25' beta='0.76' > <virus e='14' f='3' d='0' SpVL='4.25' ImResp='6' />  </within_host_statesummary > 
+ <within_host_statesummary time='10.8733' V='4.38' beta='0.76' > <virus e='15' f='3' d='0' SpVL='4.38' ImResp='5' />  </within_host_statesummary > 
+ <within_host_statesummary time='11.3107' V='4.51' beta='0.76' > <virus e='16' f='3' d='0' SpVL='4.51' ImResp='4' />  </within_host_statesummary > 
+ <within_host_statesummary time='11.4329' V='4.51' beta='0' > <virus e='16' f='3' d='0' SpVL='4.51' ImResp='4' />  </within_host_statesummary > 
+ </within_host_history >
+</whed_simulation >
+<transmitted_virus number='3' > <virus e='13' f='4' d='0' SpVL='4.05' ImResp='7' />  <virus e='14' f='4' d='0' SpVL='4.18' ImResp='6' />  <virus e='15' f='3' d='0' SpVL='4.38' ImResp='5' />  </transmitted_virus >
+</single_host_simulation >
+<single_host_simulation >
+<whed_simulation TOI='0' TOD='9.57356' spVLmin='4.32' spVLtav='4.73971' k='10' >
+<within_host_history >
+<within_host_statesummary time='0' V='3.99' beta='2.76' > <virus e='2' f='13' d='0' SpVL='3.99' ImResp='8' />  </within_host_statesummary > 
+ <within_host_statesummary time='7.13255e-05' V='4.12' beta='2.76' > <virus e='3' f='13' d='0' SpVL='4.12' ImResp='7' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.120594' V='4.25' beta='2.76' > <virus e='4' f='13' d='0' SpVL='4.25' ImResp='6' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.193156' V='4.32' beta='2.76' > <virus e='4' f='12' d='0' SpVL='4.32' ImResp='6' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.24' V='4.32' beta='0.190764' > <virus e='4' f='12' d='0' SpVL='4.32' ImResp='6' />  </within_host_statesummary > 
+ <within_host_statesummary time='1.23755' V='4.45' beta='0.213092' > <virus e='5' f='12' d='0' SpVL='4.45' ImResp='5' />  </within_host_statesummary > 
+ <within_host_statesummary time='2.44335' V='4.52' beta='0.224234' > <virus e='5' f='11' d='0' SpVL='4.52' ImResp='5' />  </within_host_statesummary > 
+ <within_host_statesummary time='4.55606' V='4.65' beta='0.24294' > <virus e='6' f='11' d='0' SpVL='4.65' ImResp='4' />  </within_host_statesummary > 
+ <within_host_statesummary time='4.66733' V='4.72' beta='0.25186' > <virus e='6' f='10' d='0' SpVL='4.72' ImResp='4' />  </within_host_statesummary > 
+ <within_host_statesummary time='5.5911' V='4.85' beta='0.266256' > <virus e='7' f='10' d='0' SpVL='4.85' ImResp='3' />  </within_host_statesummary > 
+ <within_host_statesummary time='6.22032' V='4.98' beta='0.277963' > <virus e='8' f='10' d='0' SpVL='4.98' ImResp='2' />  </within_host_statesummary > 
+ <within_host_statesummary time='8.82356' V='4.98' beta='0.76' > <virus e='8' f='10' d='0' SpVL='4.98' ImResp='2' />  </within_host_statesummary > 
+ <within_host_statesummary time='9.5421' V='5.05' beta='0.76' > <virus e='8' f='9' d='0' SpVL='5.05' ImResp='2' />  </within_host_statesummary > 
+ <within_host_statesummary time='9.57356' V='5.05' beta='0' > <virus e='8' f='9' d='0' SpVL='5.05' ImResp='2' />  </within_host_statesummary > 
+ </within_host_history >
+</whed_simulation >
+<transmitted_virus number='1' > <virus e='8' f='10' d='0' SpVL='4.98' ImResp='2' />  </transmitted_virus >
+</single_host_simulation >
+<single_host_simulation >
+<whed_simulation TOI='0' TOD='8.53078' spVLmin='4.85' spVLtav='4.99886' k='5' >
+<within_host_history >
+<within_host_statesummary time='0' V='4.59' beta='2.76' > <virus e='0' f='15' d='0' SpVL='4.59' ImResp='5' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.0555955' V='4.72' beta='2.76' > <virus e='1' f='15' d='0' SpVL='4.72' ImResp='4' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.164974' V='4.85' beta='2.76' > <virus e='2' f='15' d='0' SpVL='4.85' ImResp='3' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.24' V='4.85' beta='0.266256' > <virus e='2' f='15' d='0' SpVL='4.85' ImResp='3' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.865714' V='4.92' beta='0.272878' > <virus e='2' f='14' d='0' SpVL='4.92' ImResp='3' />  </within_host_statesummary > 
+ <within_host_statesummary time='3.25217' V='4.99' beta='0.27876' > <virus e='2' f='13' d='0' SpVL='4.99' ImResp='3' />  </within_host_statesummary > 
+ <within_host_statesummary time='5.37947' V='5.06' beta='0.283953' > <virus e='2' f='12' d='0' SpVL='5.06' ImResp='3' />  </within_host_statesummary > 
+ <within_host_statesummary time='6.50032' V='5.13' beta='0.288513' > <virus e='2' f='11' d='0' SpVL='5.13' ImResp='3' />  </within_host_statesummary > 
+ <within_host_statesummary time='7.78078' V='5.13' beta='0.76' > <virus e='2' f='11' d='0' SpVL='5.13' ImResp='3' />  </within_host_statesummary > 
+ <within_host_statesummary time='8.10187' V='5.26' beta='0.76' > <virus e='3' f='11' d='0' SpVL='5.26' ImResp='2' />  </within_host_statesummary > 
+ <within_host_statesummary time='8.17357' V='5.33' beta='0.76' > <virus e='3' f='10' d='0' SpVL='5.33' ImResp='2' />  </within_host_statesummary > 
+ <within_host_statesummary time='8.28594' V='5.46' beta='0.76' > <virus e='4' f='10' d='0' SpVL='5.46' ImResp='1' />  </within_host_statesummary > 
+ <within_host_statesummary time='8.42911' V='5.53' beta='0.76' > <virus e='4' f='9' d='0' SpVL='5.53' ImResp='1' />  </within_host_statesummary > 
+ <within_host_statesummary time='8.53078' V='5.53' beta='0' > <virus e='4' f='9' d='0' SpVL='5.53' ImResp='1' />  </within_host_statesummary > 
+ </within_host_history >
+</whed_simulation >
+<transmitted_virus number='1' > <virus e='2' f='14' d='0' SpVL='4.92' ImResp='3' />  </transmitted_virus >
+</single_host_simulation >
+<single_host_simulation >
+<whed_simulation TOI='0' TOD='15.6588' spVLmin='3.52' spVLtav='4.17715' k='16' >
+<within_host_history >
+<within_host_statesummary time='0' V='2.99' beta='2.76' > <virus e='3' f='12' d='0' SpVL='2.99' ImResp='13' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.00391522' V='3.12' beta='2.76' > <virus e='4' f='12' d='0' SpVL='3.12' ImResp='12' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.0350283' V='3.25' beta='2.76' > <virus e='5' f='12' d='0' SpVL='3.25' ImResp='11' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.0893995' V='3.32' beta='2.76' > <virus e='5' f='11' d='0' SpVL='3.32' ImResp='11' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.153519' V='3.45' beta='2.76' > <virus e='6' f='11' d='0' SpVL='3.45' ImResp='10' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.199572' V='3.52' beta='2.76' > <virus e='6' f='10' d='0' SpVL='3.52' ImResp='10' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.24' V='3.52' beta='0.0594528' > <virus e='6' f='10' d='0' SpVL='3.52' ImResp='10' />  </within_host_statesummary > 
+ <within_host_statesummary time='1.44863' V='3.65' beta='0.0756174' > <virus e='7' f='10' d='0' SpVL='3.65' ImResp='9' />  </within_host_statesummary > 
+ <within_host_statesummary time='1.56911' V='3.78' beta='0.0945632' > <virus e='8' f='10' d='0' SpVL='3.78' ImResp='8' />  </within_host_statesummary > 
+ <within_host_statesummary time='1.9066' V='3.85' beta='0.10582' > <virus e='8' f='9' d='0' SpVL='3.85' ImResp='8' />  </within_host_statesummary > 
+ <within_host_statesummary time='4.94881' V='3.98' beta='0.128311' > <virus e='9' f='9' d='0' SpVL='3.98' ImResp='7' />  </within_host_statesummary > 
+ <within_host_statesummary time='8.66584' V='4.05' beta='0.141038' > <virus e='9' f='8' d='0' SpVL='4.05' ImResp='7' />  </within_host_statesummary > 
+ <within_host_statesummary time='8.83672' V='4.18' beta='0.165159' > <virus e='10' f='8' d='0' SpVL='4.18' ImResp='6' />  </within_host_statesummary > 
+ <within_host_statesummary time='8.98057' V='4.31' beta='0.188976' > <virus e='11' f='8' d='0' SpVL='4.31' ImResp='5' />  </within_host_statesummary > 
+ <within_host_statesummary time='10.4421' V='4.44' beta='0.211445' > <virus e='12' f='8' d='0' SpVL='4.44' ImResp='4' />  </within_host_statesummary > 
+ <within_host_statesummary time='14.9088' V='4.44' beta='0.76' > <virus e='12' f='8' d='0' SpVL='4.44' ImResp='4' />  </within_host_statesummary > 
+ <within_host_statesummary time='14.9203' V='4.51' beta='0.76' > <virus e='12' f='7' d='0' SpVL='4.51' ImResp='4' />  </within_host_statesummary > 
+ <within_host_statesummary time='15.05' V='4.64' beta='0.76' > <virus e='13' f='7' d='0' SpVL='4.64' ImResp='3' />  </within_host_statesummary > 
+ <within_host_statesummary time='15.5567' V='4.77' beta='0.76' > <virus e='14' f='7' d='0' SpVL='4.77' ImResp='2' />  </within_host_statesummary > 
+ <within_host_statesummary time='15.6588' V='4.77' beta='0' > <virus e='14' f='7' d='0' SpVL='4.77' ImResp='2' />  </within_host_statesummary > 
+ </within_host_history >
+</whed_simulation >
+<transmitted_virus number='3' > <virus e='4' f='12' d='0' SpVL='3.12' ImResp='12' />  <virus e='5' f='12' d='0' SpVL='3.25' ImResp='11' />  <virus e='13' f='7' d='0' SpVL='4.64' ImResp='3' />  </transmitted_virus >
+</single_host_simulation >
+<single_host_simulation >
+<whed_simulation TOI='0' TOD='5.64319' spVLmin='2.65' spVLtav='3.55214' k='18' >
+<within_host_history >
+<within_host_statesummary time='0' V='2.19' beta='2.76' > <virus e='1' f='14' d='0' SpVL='2.19' ImResp='17' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.0114961' V='2.26' beta='2.76' > <virus e='1' f='13' d='0' SpVL='2.26' ImResp='17' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.0179759' V='2.39' beta='2.76' > <virus e='2' f='13' d='0' SpVL='2.39' ImResp='16' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.0693864' V='2.52' beta='2.76' > <virus e='3' f='13' d='0' SpVL='2.52' ImResp='15' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.095429' V='2.65' beta='2.76' > <virus e='4' f='13' d='0' SpVL='2.65' ImResp='14' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.24' V='2.65' beta='0.00920816' > <virus e='4' f='13' d='0' SpVL='2.65' ImResp='14' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.743839' V='2.72' beta='0.0107975' > <virus e='4' f='12' d='0' SpVL='2.72' ImResp='14' />  </within_host_statesummary > 
+ <within_host_statesummary time='1.15621' V='2.85' beta='0.0144769' > <virus e='5' f='12' d='0' SpVL='2.85' ImResp='13' />  </within_host_statesummary > 
+ <within_host_statesummary time='1.15827' V='2.98' beta='0.0193308' > <virus e='6' f='12' d='0' SpVL='2.98' ImResp='12' />  </within_host_statesummary > 
+ <within_host_statesummary time='1.42769' V='3.11' beta='0.0256741' > <virus e='7' f='12' d='0' SpVL='3.11' ImResp='11' />  </within_host_statesummary > 
+ <within_host_statesummary time='2.25263' V='3.24' beta='0.0338621' > <virus e='8' f='12' d='0' SpVL='3.24' ImResp='10' />  </within_host_statesummary > 
+ <within_host_statesummary time='2.25729' V='3.37' beta='0.0442646' > <virus e='9' f='12' d='0' SpVL='3.37' ImResp='9' />  </within_host_statesummary > 
+ <within_host_statesummary time='2.56205' V='3.5' beta='0.0572171' > <virus e='10' f='12' d='0' SpVL='3.5' ImResp='8' />  </within_host_statesummary > 
+ <within_host_statesummary time='3.28922' V='3.63' beta='0.072946' > <virus e='11' f='12' d='0' SpVL='3.63' ImResp='7' />  </within_host_statesummary > 
+ <within_host_statesummary time='3.55869' V='3.7' beta='0.082585' > <virus e='11' f='11' d='0' SpVL='3.7' ImResp='7' />  </within_host_statesummary > 
+ <within_host_statesummary time='3.78245' V='3.83' beta='0.102535' > <virus e='12' f='11' d='0' SpVL='3.83' ImResp='6' />  </within_host_statesummary > 
+ <within_host_statesummary time='4.03437' V='3.96' beta='0.12474' > <virus e='13' f='11' d='0' SpVL='3.96' ImResp='5' />  </within_host_statesummary > 
+ <within_host_statesummary time='4.89319' V='3.96' beta='0.76' > <virus e='13' f='11' d='0' SpVL='3.96' ImResp='5' />  </within_host_statesummary > 
+ <within_host_statesummary time='4.96147' V='4.09' beta='0.76' > <virus e='14' f='11' d='0' SpVL='4.09' ImResp='4' />  </within_host_statesummary > 
+ <within_host_statesummary time='5.44335' V='4.22' beta='0.76' > <virus e='15' f='11' d='0' SpVL='4.22' ImResp='3' />  </within_host_statesummary > 
+ <within_host_statesummary time='5.64319' V='4.22' beta='0' > <virus e='15' f='11' d='0' SpVL='4.22' ImResp='3' />  </within_host_statesummary > 
+ </within_host_history >
+</whed_simulation >
+<transmitted_virus number='1' > <virus e='2' f='13' d='0' SpVL='2.39' ImResp='16' />  </transmitted_virus >
+</single_host_simulation >
+<single_host_simulation >
+<whed_simulation TOI='0' TOD='6.79528' spVLmin='3.65' spVLtav='4.06532' k='14' >
+<within_host_history >
+<within_host_statesummary time='0' V='2.99' beta='2.76' > <virus e='1' f='14' d='0' SpVL='2.99' ImResp='13' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.0139895' V='3.12' beta='2.76' > <virus e='2' f='14' d='0' SpVL='3.12' ImResp='12' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.0171437' V='3.19' beta='2.76' > <virus e='2' f='13' d='0' SpVL='3.19' ImResp='12' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.0939287' V='3.32' beta='2.76' > <virus e='3' f='13' d='0' SpVL='3.32' ImResp='11' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.101529' V='3.45' beta='2.76' > <virus e='4' f='13' d='0' SpVL='3.45' ImResp='10' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.136011' V='3.58' beta='2.76' > <virus e='5' f='13' d='0' SpVL='3.58' ImResp='9' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.2126' V='3.65' beta='2.76' > <virus e='5' f='12' d='0' SpVL='3.65' ImResp='9' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.24' V='3.65' beta='0.0756174' > <virus e='5' f='12' d='0' SpVL='3.65' ImResp='9' />  </within_host_statesummary > 
+ <within_host_statesummary time='2.32146' V='3.78' beta='0.0945632' > <virus e='6' f='12' d='0' SpVL='3.78' ImResp='8' />  </within_host_statesummary > 
+ <within_host_statesummary time='3.00764' V='3.91' beta='0.115975' > <virus e='7' f='12' d='0' SpVL='3.91' ImResp='7' />  </within_host_statesummary > 
+ <within_host_statesummary time='3.89126' V='4.04' beta='0.139201' > <virus e='8' f='12' d='0' SpVL='4.04' ImResp='6' />  </within_host_statesummary > 
+ <within_host_statesummary time='4.06772' V='4.17' beta='0.163301' > <virus e='9' f='12' d='0' SpVL='4.17' ImResp='5' />  </within_host_statesummary > 
+ <within_host_statesummary time='4.32418' V='4.3' beta='0.18718' > <virus e='10' f='12' d='0' SpVL='4.3' ImResp='4' />  </within_host_statesummary > 
+ <within_host_statesummary time='5.25944' V='4.43' beta='0.209784' > <virus e='11' f='12' d='0' SpVL='4.43' ImResp='3' />  </within_host_statesummary > 
+ <within_host_statesummary time='5.76495' V='4.5' beta='0.221122' > <virus e='11' f='11' d='0' SpVL='4.5' ImResp='3' />  </within_host_statesummary > 
+ <within_host_statesummary time='6.04528' V='4.5' beta='0.76' > <virus e='11' f='11' d='0' SpVL='4.5' ImResp='3' />  </within_host_statesummary > 
+ <within_host_statesummary time='6.65508' V='4.57' beta='0.76' > <virus e='11' f='10' d='0' SpVL='4.57' ImResp='3' />  </within_host_statesummary > 
+ <within_host_statesummary time='6.67685' V='4.7' beta='0.76' > <virus e='12' f='10' d='0' SpVL='4.7' ImResp='2' />  </within_host_statesummary > 
+ <within_host_statesummary time='6.79528' V='4.7' beta='0' > <virus e='12' f='10' d='0' SpVL='4.7' ImResp='2' />  </within_host_statesummary > 
+ </within_host_history >
+</whed_simulation >
+<transmitted_virus number='4' > <virus e='2' f='13' d='0' SpVL='3.19' ImResp='12' />  <virus e='10' f='12' d='0' SpVL='4.3' ImResp='4' />  <virus e='11' f='11' d='0' SpVL='4.5' ImResp='3' />  <virus e='11' f='11' d='0' SpVL='4.5' ImResp='3' />  </transmitted_virus >
+</single_host_simulation >
+<single_host_simulation >
+<whed_simulation TOI='0' TOD='15.359' spVLmin='2.44' spVLtav='3.6745' k='21' >
+<within_host_history >
+<within_host_statesummary time='0' V='1.59' beta='2.76' > <virus e='1' f='14' d='0' SpVL='1.59' ImResp='20' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.0391375' V='1.72' beta='2.76' > <virus e='2' f='14' d='0' SpVL='1.72' ImResp='19' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.110448' V='1.85' beta='2.76' > <virus e='3' f='14' d='0' SpVL='1.85' ImResp='18' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.166117' V='1.92' beta='2.76' > <virus e='3' f='13' d='0' SpVL='1.92' ImResp='18' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.178373' V='2.05' beta='2.76' > <virus e='4' f='13' d='0' SpVL='2.05' ImResp='17' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.188068' V='2.18' beta='2.76' > <virus e='5' f='13' d='0' SpVL='2.18' ImResp='16' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.222272' V='2.31' beta='2.76' > <virus e='6' f='13' d='0' SpVL='2.31' ImResp='15' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.230124' V='2.44' beta='2.76' > <virus e='7' f='13' d='0' SpVL='2.44' ImResp='14' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.24' V='2.44' beta='0.00568738' > <virus e='7' f='13' d='0' SpVL='2.44' ImResp='14' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.462611' V='2.57' beta='0.007669' > <virus e='8' f='13' d='0' SpVL='2.57' ImResp='13' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.500709' V='2.7' beta='0.0103182' > <virus e='9' f='13' d='0' SpVL='2.7' ImResp='12' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.625268' V='2.83' beta='0.0138416' > <virus e='10' f='13' d='0' SpVL='2.83' ImResp='11' />  </within_host_statesummary > 
+ <within_host_statesummary time='1.35958' V='2.9' beta='0.0161886' > <virus e='10' f='12' d='0' SpVL='2.9' ImResp='11' />  </within_host_statesummary > 
+ <within_host_statesummary time='2.10408' V='2.97' beta='0.0189088' > <virus e='10' f='11' d='0' SpVL='2.97' ImResp='11' />  </within_host_statesummary > 
+ <within_host_statesummary time='2.61482' V='3.1' beta='0.0251253' > <virus e='11' f='11' d='0' SpVL='3.1' ImResp='10' />  </within_host_statesummary > 
+ <within_host_statesummary time='2.93459' V='3.17' beta='0.0292014' > <virus e='11' f='10' d='0' SpVL='3.17' ImResp='10' />  </within_host_statesummary > 
+ <within_host_statesummary time='3.01307' V='3.24' beta='0.0338621' > <virus e='11' f='9' d='0' SpVL='3.24' ImResp='10' />  </within_host_statesummary > 
+ <within_host_statesummary time='3.95268' V='3.37' beta='0.0442646' > <virus e='12' f='9' d='0' SpVL='3.37' ImResp='9' />  </within_host_statesummary > 
+ <within_host_statesummary time='4.13802' V='3.5' beta='0.0572171' > <virus e='13' f='9' d='0' SpVL='3.5' ImResp='8' />  </within_host_statesummary > 
+ <within_host_statesummary time='6.22994' V='3.63' beta='0.072946' > <virus e='14' f='9' d='0' SpVL='3.63' ImResp='7' />  </within_host_statesummary > 
+ <within_host_statesummary time='6.39527' V='3.7' beta='0.082585' > <virus e='14' f='8' d='0' SpVL='3.7' ImResp='7' />  </within_host_statesummary > 
+ <within_host_statesummary time='9.3032' V='3.83' beta='0.102535' > <virus e='15' f='8' d='0' SpVL='3.83' ImResp='6' />  </within_host_statesummary > 
+ <within_host_statesummary time='9.6581' V='3.9' beta='0.114253' > <virus e='15' f='7' d='0' SpVL='3.9' ImResp='6' />  </within_host_statesummary > 
+ <within_host_statesummary time='14.609' V='3.9' beta='0.76' > <virus e='15' f='7' d='0' SpVL='3.9' ImResp='6' />  </within_host_statesummary > 
+ <within_host_statesummary time='14.7629' V='3.97' beta='0.76' > <virus e='15' f='6' d='0' SpVL='3.97' ImResp='6' />  </within_host_statesummary > 
+ <within_host_statesummary time='14.9657' V='4.1' beta='0.76' > <virus e='16' f='6' d='0' SpVL='4.1' ImResp='5' />  </within_host_statesummary > 
+ <within_host_statesummary time='14.9763' V='4.23' beta='0.76' > <virus e='17' f='6' d='0' SpVL='4.23' ImResp='4' />  </within_host_statesummary > 
+ <within_host_statesummary time='14.9968' V='4.36' beta='0.76' > <virus e='18' f='6' d='0' SpVL='4.36' ImResp='3' />  </within_host_statesummary > 
+ <within_host_statesummary time='15.0048' V='4.43' beta='0.76' > <virus e='18' f='5' d='0' SpVL='4.43' ImResp='3' />  </within_host_statesummary > 
+ <within_host_statesummary time='15.0572' V='4.56' beta='0.76' > <virus e='19' f='5' d='0' SpVL='4.56' ImResp='2' />  </within_host_statesummary > 
+ <within_host_statesummary time='15.359' V='4.56' beta='0' > <virus e='19' f='5' d='0' SpVL='4.56' ImResp='2' />  </within_host_statesummary > 
+ </within_host_history >
+</whed_simulation >
+<transmitted_virus number='2' > <virus e='3' f='14' d='0' SpVL='1.85' ImResp='18' />  <virus e='15' f='8' d='0' SpVL='3.83' ImResp='6' />  </transmitted_virus >
+</single_host_simulation >
+<single_host_simulation >
+<whed_simulation TOI='0' TOD='13.3164' spVLmin='3.06' spVLtav='4.74957' k='15' >
+<within_host_history >
+<within_host_statesummary time='0' V='2.59' beta='2.76' > <virus e='0' f='15' d='0' SpVL='2.59' ImResp='15' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.00678564' V='2.66' beta='2.76' > <virus e='0' f='14' d='0' SpVL='2.66' ImResp='15' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.0808464' V='2.79' beta='2.76' > <virus e='1' f='14' d='0' SpVL='2.79' ImResp='14' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.0850446' V='2.86' beta='2.76' > <virus e='1' f='13' d='0' SpVL='2.86' ImResp='14' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.171843' V='2.93' beta='2.76' > <virus e='1' f='12' d='0' SpVL='2.93' ImResp='14' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.184174' V='3.06' beta='2.76' > <virus e='2' f='12' d='0' SpVL='3.06' ImResp='13' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.24' V='3.06' beta='0.0230361' > <virus e='2' f='12' d='0' SpVL='3.06' ImResp='13' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.267964' V='3.19' beta='0.0304708' > <virus e='3' f='12' d='0' SpVL='3.19' ImResp='12' />  </within_host_statesummary > 
+ <within_host_statesummary time='1.40207' V='3.32' beta='0.0399787' > <virus e='4' f='12' d='0' SpVL='3.32' ImResp='11' />  </within_host_statesummary > 
+ <within_host_statesummary time='2.25272' V='3.45' beta='0.0519158' > <virus e='5' f='12' d='0' SpVL='3.45' ImResp='10' />  </within_host_statesummary > 
+ <within_host_statesummary time='2.30959' V='3.58' beta='0.0665607' > <virus e='6' f='12' d='0' SpVL='3.58' ImResp='9' />  </within_host_statesummary > 
+ <within_host_statesummary time='2.82653' V='3.65' beta='0.0756174' > <virus e='6' f='11' d='0' SpVL='3.65' ImResp='9' />  </within_host_statesummary > 
+ <within_host_statesummary time='3.87909' V='3.72' beta='0.0854857' > <virus e='6' f='10' d='0' SpVL='3.72' ImResp='9' />  </within_host_statesummary > 
+ <within_host_statesummary time='4.05251' V='3.85' beta='0.10582' > <virus e='7' f='10' d='0' SpVL='3.85' ImResp='8' />  </within_host_statesummary > 
+ <within_host_statesummary time='4.08917' V='3.98' beta='0.128311' > <virus e='8' f='10' d='0' SpVL='3.98' ImResp='7' />  </within_host_statesummary > 
+ <within_host_statesummary time='4.14942' V='4.05' beta='0.141038' > <virus e='8' f='9' d='0' SpVL='4.05' ImResp='7' />  </within_host_statesummary > 
+ <within_host_statesummary time='4.37081' V='4.18' beta='0.165159' > <virus e='9' f='9' d='0' SpVL='4.18' ImResp='6' />  </within_host_statesummary > 
+ <within_host_statesummary time='4.79077' V='4.31' beta='0.188976' > <virus e='10' f='9' d='0' SpVL='4.31' ImResp='5' />  </within_host_statesummary > 
+ <within_host_statesummary time='4.87347' V='4.44' beta='0.211445' > <virus e='11' f='9' d='0' SpVL='4.44' ImResp='4' />  </within_host_statesummary > 
+ <within_host_statesummary time='5.21911' V='4.51' beta='0.222686' > <virus e='11' f='8' d='0' SpVL='4.51' ImResp='4' />  </within_host_statesummary > 
+ <within_host_statesummary time='5.72632' V='4.64' beta='0.241599' > <virus e='12' f='8' d='0' SpVL='4.64' ImResp='3' />  </within_host_statesummary > 
+ <within_host_statesummary time='5.95155' V='4.71' beta='0.250637' > <virus e='12' f='7' d='0' SpVL='4.71' ImResp='3' />  </within_host_statesummary > 
+ <within_host_statesummary time='7.63154' V='4.78' beta='0.258852' > <virus e='12' f='6' d='0' SpVL='4.78' ImResp='3' />  </within_host_statesummary > 
+ <within_host_statesummary time='8.66789' V='4.91' beta='0.271979' > <virus e='13' f='6' d='0' SpVL='4.91' ImResp='2' />  </within_host_statesummary > 
+ <within_host_statesummary time='9.14843' V='5.04' beta='0.282537' > <virus e='14' f='6' d='0' SpVL='5.04' ImResp='1' />  </within_host_statesummary > 
+ <within_host_statesummary time='9.86922' V='5.11' beta='0.287271' > <virus e='14' f='5' d='0' SpVL='5.11' ImResp='1' />  </within_host_statesummary > 
+ <within_host_statesummary time='11.6838' V='5.18' beta='0.291414' > <virus e='14' f='4' d='0' SpVL='5.18' ImResp='1' />  </within_host_statesummary > 
+ <within_host_statesummary time='12.5664' V='5.18' beta='0.76' > <virus e='14' f='4' d='0' SpVL='5.18' ImResp='1' />  </within_host_statesummary > 
+ <within_host_statesummary time='12.6271' V='5.25' beta='0.76' > <virus e='14' f='3' d='0' SpVL='5.25' ImResp='1' />  </within_host_statesummary > 
+ <within_host_statesummary time='12.7542' V='5.38' beta='0.76' > <virus e='15' f='3' d='0' SpVL='5.38' ImResp='0' />  </within_host_statesummary > 
+ <within_host_statesummary time='13.3164' V='5.38' beta='0' > <virus e='15' f='3' d='0' SpVL='5.38' ImResp='0' />  </within_host_statesummary > 
+ </within_host_history >
+</whed_simulation >
+<transmitted_virus number='4' > <virus e='0' f='14' d='0' SpVL='2.66' ImResp='15' />  <virus e='3' f='12' d='0' SpVL='3.19' ImResp='12' />  <virus e='14' f='5' d='0' SpVL='5.11' ImResp='1' />  <virus e='14' f='4' d='0' SpVL='5.18' ImResp='1' />  </transmitted_virus >
+</single_host_simulation >
+<single_host_simulation >
+<whed_simulation TOI='0' TOD='6.32519' spVLmin='2.04' spVLtav='2.55127' k='23' >
+<within_host_history >
+<within_host_statesummary time='0' V='1.39' beta='2.76' > <virus e='2' f='13' d='0' SpVL='1.39' ImResp='21' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.0526972' V='1.52' beta='2.76' > <virus e='3' f='13' d='0' SpVL='1.52' ImResp='20' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.0761886' V='1.65' beta='2.76' > <virus e='4' f='13' d='0' SpVL='1.65' ImResp='19' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.144853' V='1.78' beta='2.76' > <virus e='5' f='13' d='0' SpVL='1.78' ImResp='18' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.160601' V='1.91' beta='2.76' > <virus e='6' f='13' d='0' SpVL='1.91' ImResp='17' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.178853' V='2.04' beta='2.76' > <virus e='7' f='13' d='0' SpVL='2.04' ImResp='16' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.24' V='2.04' beta='0.00224742' > <virus e='7' f='13' d='0' SpVL='2.04' ImResp='16' />  </within_host_statesummary > 
+ <within_host_statesummary time='1.8642' V='2.17' beta='0.00304219' > <virus e='8' f='13' d='0' SpVL='2.17' ImResp='15' />  </within_host_statesummary > 
+ <within_host_statesummary time='1.94814' V='2.3' beta='0.00411435' > <virus e='9' f='13' d='0' SpVL='2.3' ImResp='14' />  </within_host_statesummary > 
+ <within_host_statesummary time='2.46466' V='2.37' beta='0.00483833' > <virus e='9' f='12' d='0' SpVL='2.37' ImResp='14' />  </within_host_statesummary > 
+ <within_host_statesummary time='2.87456' V='2.5' beta='0.00653032' > <virus e='10' f='12' d='0' SpVL='2.5' ImResp='13' />  </within_host_statesummary > 
+ <within_host_statesummary time='3.50776' V='2.57' beta='0.007669' > <virus e='10' f='11' d='0' SpVL='2.57' ImResp='13' />  </within_host_statesummary > 
+ <within_host_statesummary time='3.98879' V='2.7' beta='0.0103182' > <virus e='11' f='11' d='0' SpVL='2.7' ImResp='12' />  </within_host_statesummary > 
+ <within_host_statesummary time='4.6609' V='2.83' beta='0.0138416' > <virus e='12' f='11' d='0' SpVL='2.83' ImResp='11' />  </within_host_statesummary > 
+ <within_host_statesummary time='4.83366' V='2.96' beta='0.0184955' > <virus e='13' f='11' d='0' SpVL='2.96' ImResp='10' />  </within_host_statesummary > 
+ <within_host_statesummary time='5.57519' V='2.96' beta='0.76' > <virus e='13' f='11' d='0' SpVL='2.96' ImResp='10' />  </within_host_statesummary > 
+ <within_host_statesummary time='5.60392' V='3.09' beta='0.76' > <virus e='14' f='11' d='0' SpVL='3.09' ImResp='9' />  </within_host_statesummary > 
+ <within_host_statesummary time='5.80042' V='3.22' beta='0.76' > <virus e='15' f='11' d='0' SpVL='3.22' ImResp='8' />  </within_host_statesummary > 
+ <within_host_statesummary time='5.84411' V='3.35' beta='0.76' > <virus e='16' f='11' d='0' SpVL='3.35' ImResp='7' />  </within_host_statesummary > 
+ <within_host_statesummary time='5.98962' V='3.42' beta='0.76' > <virus e='16' f='10' d='0' SpVL='3.42' ImResp='7' />  </within_host_statesummary > 
+ <within_host_statesummary time='6.02' V='3.49' beta='0.76' > <virus e='16' f='9' d='0' SpVL='3.49' ImResp='7' />  </within_host_statesummary > 
+ <within_host_statesummary time='6.32519' V='3.49' beta='0' > <virus e='16' f='9' d='0' SpVL='3.49' ImResp='7' />  </within_host_statesummary > 
+ </within_host_history >
+</whed_simulation >
+<transmitted_virus number='2' > <virus e='5' f='13' d='0' SpVL='1.78' ImResp='18' />  <virus e='7' f='13' d='0' SpVL='2.04' ImResp='16' />  </transmitted_virus >
+</single_host_simulation >
+<single_host_simulation >
+<whed_simulation TOI='0' TOD='10.8022' spVLmin='2.12' spVLtav='3.38584' k='21' >
+<within_host_history >
+<within_host_statesummary time='0' V='1.59' beta='2.76' > <virus e='1' f='14' d='0' SpVL='1.59' ImResp='20' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.0210041' V='1.72' beta='2.76' > <virus e='2' f='14' d='0' SpVL='1.72' ImResp='19' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.02913' V='1.85' beta='2.76' > <virus e='3' f='14' d='0' SpVL='1.85' ImResp='18' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.0542455' V='1.92' beta='2.76' > <virus e='3' f='13' d='0' SpVL='1.92' ImResp='18' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.102086' V='2.05' beta='2.76' > <virus e='4' f='13' d='0' SpVL='2.05' ImResp='17' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.234138' V='2.12' beta='2.76' > <virus e='4' f='12' d='0' SpVL='2.12' ImResp='17' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.24' V='2.12' beta='0.002708' > <virus e='4' f='12' d='0' SpVL='2.12' ImResp='17' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.285284' V='2.25' beta='0.00366375' > <virus e='5' f='12' d='0' SpVL='2.25' ImResp='16' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.606461' V='2.38' beta='0.00495151' > <virus e='6' f='12' d='0' SpVL='2.38' ImResp='15' />  </within_host_statesummary > 
+ <within_host_statesummary time='2.1651' V='2.51' beta='0.00668224' > <virus e='7' f='12' d='0' SpVL='2.51' ImResp='14' />  </within_host_statesummary > 
+ <within_host_statesummary time='2.28236' V='2.64' beta='0.00900048' > <virus e='8' f='12' d='0' SpVL='2.64' ImResp='13' />  </within_host_statesummary > 
+ <within_host_statesummary time='2.43963' V='2.71' beta='0.0105552' > <virus e='8' f='11' d='0' SpVL='2.71' ImResp='13' />  </within_host_statesummary > 
+ <within_host_statesummary time='3.1993' V='2.84' beta='0.0141558' > <virus e='9' f='11' d='0' SpVL='2.84' ImResp='12' />  </within_host_statesummary > 
+ <within_host_statesummary time='3.49842' V='2.91' beta='0.0165532' > <virus e='9' f='10' d='0' SpVL='2.91' ImResp='12' />  </within_host_statesummary > 
+ <within_host_statesummary time='3.90688' V='3.04' beta='0.0220526' > <virus e='10' f='10' d='0' SpVL='3.04' ImResp='11' />  </within_host_statesummary > 
+ <within_host_statesummary time='4.36348' V='3.17' beta='0.0292014' > <virus e='11' f='10' d='0' SpVL='3.17' ImResp='10' />  </within_host_statesummary > 
+ <within_host_statesummary time='5.33936' V='3.3' beta='0.0383662' > <virus e='12' f='10' d='0' SpVL='3.3' ImResp='9' />  </within_host_statesummary > 
+ <within_host_statesummary time='6.64045' V='3.37' beta='0.0442646' > <virus e='12' f='9' d='0' SpVL='3.37' ImResp='9' />  </within_host_statesummary > 
+ <within_host_statesummary time='7.06719' V='3.5' beta='0.0572171' > <virus e='13' f='9' d='0' SpVL='3.5' ImResp='8' />  </within_host_statesummary > 
+ <within_host_statesummary time='7.72003' V='3.63' beta='0.072946' > <virus e='14' f='9' d='0' SpVL='3.63' ImResp='7' />  </within_host_statesummary > 
+ <within_host_statesummary time='7.90913' V='3.76' beta='0.0914762' > <virus e='15' f='9' d='0' SpVL='3.76' ImResp='6' />  </within_host_statesummary > 
+ <within_host_statesummary time='8.42177' V='3.83' beta='0.102535' > <virus e='15' f='8' d='0' SpVL='3.83' ImResp='6' />  </within_host_statesummary > 
+ <within_host_statesummary time='10.0522' V='3.83' beta='0.76' > <virus e='15' f='8' d='0' SpVL='3.83' ImResp='6' />  </within_host_statesummary > 
+ <within_host_statesummary time='10.1815' V='3.96' beta='0.76' > <virus e='16' f='8' d='0' SpVL='3.96' ImResp='5' />  </within_host_statesummary > 
+ <within_host_statesummary time='10.5936' V='4.09' beta='0.76' > <virus e='17' f='8' d='0' SpVL='4.09' ImResp='4' />  </within_host_statesummary > 
+ <within_host_statesummary time='10.8022' V='4.09' beta='0' > <virus e='17' f='8' d='0' SpVL='4.09' ImResp='4' />  </within_host_statesummary > 
+ </within_host_history >
+</whed_simulation >
+<transmitted_virus number='0' > </transmitted_virus >
+</single_host_simulation >
+<single_host_simulation >
+<whed_simulation TOI='0' TOD='10.5897' spVLmin='3.85' spVLtav='4.2623' k='10' >
+<within_host_history >
+<within_host_statesummary time='0' V='3.59' beta='2.76' > <virus e='0' f='15' d='0' SpVL='3.59' ImResp='10' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.0433196' V='3.72' beta='2.76' > <virus e='1' f='15' d='0' SpVL='3.72' ImResp='9' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.106645' V='3.85' beta='2.76' > <virus e='2' f='15' d='0' SpVL='3.85' ImResp='8' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.24' V='3.85' beta='0.10582' > <virus e='2' f='15' d='0' SpVL='3.85' ImResp='8' />  </within_host_statesummary > 
+ <within_host_statesummary time='1.14836' V='3.92' beta='0.117708' > <virus e='2' f='14' d='0' SpVL='3.92' ImResp='8' />  </within_host_statesummary > 
+ <within_host_statesummary time='1.65689' V='3.99' beta='0.130108' > <virus e='2' f='13' d='0' SpVL='3.99' ImResp='8' />  </within_host_statesummary > 
+ <within_host_statesummary time='4.65053' V='4.12' beta='0.153997' > <virus e='3' f='13' d='0' SpVL='4.12' ImResp='7' />  </within_host_statesummary > 
+ <within_host_statesummary time='5.30385' V='4.25' beta='0.178092' > <virus e='4' f='13' d='0' SpVL='4.25' ImResp='6' />  </within_host_statesummary > 
+ <within_host_statesummary time='5.90128' V='4.32' beta='0.190764' > <virus e='4' f='12' d='0' SpVL='4.32' ImResp='6' />  </within_host_statesummary > 
+ <within_host_statesummary time='6.9239' V='4.39' beta='0.203021' > <virus e='4' f='11' d='0' SpVL='4.39' ImResp='6' />  </within_host_statesummary > 
+ <within_host_statesummary time='8.5895' V='4.46' beta='0.214725' > <virus e='4' f='10' d='0' SpVL='4.46' ImResp='6' />  </within_host_statesummary > 
+ <within_host_statesummary time='8.85283' V='4.59' beta='0.234644' > <virus e='5' f='10' d='0' SpVL='4.59' ImResp='5' />  </within_host_statesummary > 
+ <within_host_statesummary time='9.23385' V='4.72' beta='0.25186' > <virus e='6' f='10' d='0' SpVL='4.72' ImResp='4' />  </within_host_statesummary > 
+ <within_host_statesummary time='9.83966' V='4.72' beta='0.76' > <virus e='6' f='10' d='0' SpVL='4.72' ImResp='4' />  </within_host_statesummary > 
+ <within_host_statesummary time='10.396' V='4.79' beta='0.76' > <virus e='6' f='9' d='0' SpVL='4.79' ImResp='4' />  </within_host_statesummary > 
+ <within_host_statesummary time='10.5897' V='4.79' beta='0' > <virus e='6' f='9' d='0' SpVL='4.79' ImResp='4' />  </within_host_statesummary > 
+ </within_host_history >
+</whed_simulation >
+<transmitted_virus number='3' > <virus e='4' f='11' d='0' SpVL='4.39' ImResp='6' />  <virus e='4' f='11' d='0' SpVL='4.39' ImResp='6' />  <virus e='6' f='10' d='0' SpVL='4.72' ImResp='4' />  </transmitted_virus >
+</single_host_simulation >
+<single_host_simulation >
+<whed_simulation TOI='0' TOD='7.66493' spVLmin='3.86' spVLtav='4.55851' k='9' >
+<within_host_history >
+<within_host_statesummary time='0' V='3.79' beta='2.76' > <virus e='0' f='15' d='0' SpVL='3.79' ImResp='9' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.0212099' V='3.86' beta='2.76' > <virus e='0' f='14' d='0' SpVL='3.86' ImResp='9' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.24' V='3.86' beta='0.107482' > <virus e='0' f='14' d='0' SpVL='3.86' ImResp='9' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.258285' V='3.99' beta='0.130108' > <virus e='1' f='14' d='0' SpVL='3.99' ImResp='8' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.850431' V='4.12' beta='0.153997' > <virus e='2' f='14' d='0' SpVL='4.12' ImResp='7' />  </within_host_statesummary > 
+ <within_host_statesummary time='1.12746' V='4.19' beta='0.167016' > <virus e='2' f='13' d='0' SpVL='4.19' ImResp='7' />  </within_host_statesummary > 
+ <within_host_statesummary time='1.89967' V='4.32' beta='0.190764' > <virus e='3' f='13' d='0' SpVL='4.32' ImResp='6' />  </within_host_statesummary > 
+ <within_host_statesummary time='2.53284' V='4.39' beta='0.203021' > <virus e='3' f='12' d='0' SpVL='4.39' ImResp='6' />  </within_host_statesummary > 
+ <within_host_statesummary time='3.67636' V='4.52' beta='0.224234' > <virus e='4' f='12' d='0' SpVL='4.52' ImResp='5' />  </within_host_statesummary > 
+ <within_host_statesummary time='3.99854' V='4.65' beta='0.24294' > <virus e='5' f='12' d='0' SpVL='4.65' ImResp='4' />  </within_host_statesummary > 
+ <within_host_statesummary time='4.66718' V='4.72' beta='0.25186' > <virus e='5' f='11' d='0' SpVL='4.72' ImResp='4' />  </within_host_statesummary > 
+ <within_host_statesummary time='6.03168' V='4.79' beta='0.259959' > <virus e='5' f='10' d='0' SpVL='4.79' ImResp='4' />  </within_host_statesummary > 
+ <within_host_statesummary time='6.3532' V='4.92' beta='0.272878' > <virus e='6' f='10' d='0' SpVL='4.92' ImResp='3' />  </within_host_statesummary > 
+ <within_host_statesummary time='6.91493' V='4.92' beta='0.76' > <virus e='6' f='10' d='0' SpVL='4.92' ImResp='3' />  </within_host_statesummary > 
+ <within_host_statesummary time='7.09101' V='5.05' beta='0.76' > <virus e='7' f='10' d='0' SpVL='5.05' ImResp='2' />  </within_host_statesummary > 
+ <within_host_statesummary time='7.43824' V='5.12' beta='0.76' > <virus e='7' f='9' d='0' SpVL='5.12' ImResp='2' />  </within_host_statesummary > 
+ <within_host_statesummary time='7.66493' V='5.12' beta='0' > <virus e='7' f='9' d='0' SpVL='5.12' ImResp='2' />  </within_host_statesummary > 
+ </within_host_history >
+</whed_simulation >
+<transmitted_virus number='4' > <virus e='3' f='13' d='0' SpVL='4.32' ImResp='6' />  <virus e='5' f='11' d='0' SpVL='4.72' ImResp='4' />  <virus e='5' f='11' d='0' SpVL='4.72' ImResp='4' />  <virus e='6' f='10' d='0' SpVL='4.92' ImResp='3' />  </transmitted_virus >
+</single_host_simulation >
+<single_host_simulation >
+<whed_simulation TOI='0' TOD='11.4134' spVLmin='2.79' spVLtav='3.91244' k='15' >
+<within_host_history >
+<within_host_statesummary time='0' V='2.59' beta='2.76' > <virus e='0' f='15' d='0' SpVL='2.59' ImResp='15' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.124319' V='2.72' beta='2.76' > <virus e='1' f='15' d='0' SpVL='2.72' ImResp='14' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.156102' V='2.79' beta='2.76' > <virus e='1' f='14' d='0' SpVL='2.79' ImResp='14' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.24' V='2.79' beta='0.01265' > <virus e='1' f='14' d='0' SpVL='2.79' ImResp='14' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.321691' V='2.92' beta='0.0169256' > <virus e='2' f='14' d='0' SpVL='2.92' ImResp='13' />  </within_host_statesummary > 
+ <within_host_statesummary time='1.10427' V='2.99' beta='0.0197615' > <virus e='2' f='13' d='0' SpVL='2.99' ImResp='13' />  </within_host_statesummary > 
+ <within_host_statesummary time='1.77136' V='3.12' beta='0.0262337' > <virus e='3' f='13' d='0' SpVL='3.12' ImResp='12' />  </within_host_statesummary > 
+ <within_host_statesummary time='1.9052' V='3.25' beta='0.034579' > <virus e='4' f='13' d='0' SpVL='3.25' ImResp='11' />  </within_host_statesummary > 
+ <within_host_statesummary time='1.93517' V='3.38' beta='0.0451667' > <virus e='5' f='13' d='0' SpVL='3.38' ImResp='10' />  </within_host_statesummary > 
+ <within_host_statesummary time='3.07392' V='3.51' beta='0.0583267' > <virus e='6' f='13' d='0' SpVL='3.51' ImResp='9' />  </within_host_statesummary > 
+ <within_host_statesummary time='3.25718' V='3.58' beta='0.0665607' > <virus e='6' f='12' d='0' SpVL='3.58' ImResp='9' />  </within_host_statesummary > 
+ <within_host_statesummary time='3.38602' V='3.65' beta='0.0756174' > <virus e='6' f='11' d='0' SpVL='3.65' ImResp='9' />  </within_host_statesummary > 
+ <within_host_statesummary time='5.43319' V='3.72' beta='0.0854857' > <virus e='6' f='10' d='0' SpVL='3.72' ImResp='9' />  </within_host_statesummary > 
+ <within_host_statesummary time='6.21998' V='3.79' beta='0.096129' > <virus e='6' f='9' d='0' SpVL='3.79' ImResp='9' />  </within_host_statesummary > 
+ <within_host_statesummary time='7.02847' V='3.86' beta='0.107482' > <virus e='6' f='8' d='0' SpVL='3.86' ImResp='9' />  </within_host_statesummary > 
+ <within_host_statesummary time='7.4199' V='3.99' beta='0.130108' > <virus e='7' f='8' d='0' SpVL='3.99' ImResp='8' />  </within_host_statesummary > 
+ <within_host_statesummary time='8.36746' V='4.12' beta='0.153997' > <virus e='8' f='8' d='0' SpVL='4.12' ImResp='7' />  </within_host_statesummary > 
+ <within_host_statesummary time='8.57708' V='4.25' beta='0.178092' > <virus e='9' f='8' d='0' SpVL='4.25' ImResp='6' />  </within_host_statesummary > 
+ <within_host_statesummary time='9.11851' V='4.38' beta='0.201301' > <virus e='10' f='8' d='0' SpVL='4.38' ImResp='5' />  </within_host_statesummary > 
+ <within_host_statesummary time='10.6634' V='4.38' beta='0.76' > <virus e='10' f='8' d='0' SpVL='4.38' ImResp='5' />  </within_host_statesummary > 
+ <within_host_statesummary time='10.8498' V='4.51' beta='0.76' > <virus e='11' f='8' d='0' SpVL='4.51' ImResp='4' />  </within_host_statesummary > 
+ <within_host_statesummary time='10.9413' V='4.64' beta='0.76' > <virus e='12' f='8' d='0' SpVL='4.64' ImResp='3' />  </within_host_statesummary > 
+ <within_host_statesummary time='11.1044' V='4.77' beta='0.76' > <virus e='13' f='8' d='0' SpVL='4.77' ImResp='2' />  </within_host_statesummary > 
+ <within_host_statesummary time='11.1744' V='4.84' beta='0.76' > <virus e='13' f='7' d='0' SpVL='4.84' ImResp='2' />  </within_host_statesummary > 
+ <within_host_statesummary time='11.4134' V='4.84' beta='0' > <virus e='13' f='7' d='0' SpVL='4.84' ImResp='2' />  </within_host_statesummary > 
+ </within_host_history >
+</whed_simulation >
+<transmitted_virus number='3' > <virus e='1' f='14' d='0' SpVL='2.79' ImResp='14' />  <virus e='10' f='8' d='0' SpVL='4.38' ImResp='5' />  <virus e='13' f='7' d='0' SpVL='4.84' ImResp='2' />  </transmitted_virus >
+</single_host_simulation >
+<single_host_simulation >
+<whed_simulation TOI='0' TOD='10.6122' spVLmin='3.44' spVLtav='4.18482' k='14' >
+<within_host_history >
+<within_host_statesummary time='0' V='2.79' beta='2.76' > <virus e='0' f='15' d='0' SpVL='2.79' ImResp='14' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.00552612' V='2.92' beta='2.76' > <virus e='1' f='15' d='0' SpVL='2.92' ImResp='13' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.0376561' V='3.05' beta='2.76' > <virus e='2' f='15' d='0' SpVL='3.05' ImResp='12' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.0526824' V='3.18' beta='2.76' > <virus e='3' f='15' d='0' SpVL='3.18' ImResp='11' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.128117' V='3.31' beta='2.76' > <virus e='4' f='15' d='0' SpVL='3.31' ImResp='10' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.157725' V='3.44' beta='2.76' > <virus e='5' f='15' d='0' SpVL='3.44' ImResp='9' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.24' V='3.44' beta='0.0509042' > <virus e='5' f='15' d='0' SpVL='3.44' ImResp='9' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.344234' V='3.57' beta='0.0653341' > <virus e='6' f='15' d='0' SpVL='3.57' ImResp='8' />  </within_host_statesummary > 
+ <within_host_statesummary time='1.15551' V='3.64' beta='0.0742733' > <virus e='6' f='14' d='0' SpVL='3.64' ImResp='8' />  </within_host_statesummary > 
+ <within_host_statesummary time='1.15905' V='3.77' beta='0.0930122' > <virus e='7' f='14' d='0' SpVL='3.77' ImResp='7' />  </within_host_statesummary > 
+ <within_host_statesummary time='1.33264' V='3.9' beta='0.114253' > <virus e='8' f='14' d='0' SpVL='3.9' ImResp='6' />  </within_host_statesummary > 
+ <within_host_statesummary time='1.61025' V='4.03' beta='0.13737' > <virus e='9' f='14' d='0' SpVL='4.03' ImResp='5' />  </within_host_statesummary > 
+ <within_host_statesummary time='3.36319' V='4.1' beta='0.15028' > <virus e='9' f='13' d='0' SpVL='4.1' ImResp='5' />  </within_host_statesummary > 
+ <within_host_statesummary time='3.55927' V='4.23' beta='0.174416' > <virus e='10' f='13' d='0' SpVL='4.23' ImResp='4' />  </within_host_statesummary > 
+ <within_host_statesummary time='7.02963' V='4.3' beta='0.18718' > <virus e='10' f='12' d='0' SpVL='4.3' ImResp='4' />  </within_host_statesummary > 
+ <within_host_statesummary time='9.42542' V='4.37' beta='0.19957' > <virus e='10' f='11' d='0' SpVL='4.37' ImResp='4' />  </within_host_statesummary > 
+ <within_host_statesummary time='9.55786' V='4.5' beta='0.221122' > <virus e='11' f='11' d='0' SpVL='4.5' ImResp='3' />  </within_host_statesummary > 
+ <within_host_statesummary time='9.86221' V='4.5' beta='0.76' > <virus e='11' f='11' d='0' SpVL='4.5' ImResp='3' />  </within_host_statesummary > 
+ <within_host_statesummary time='9.89706' V='4.57' beta='0.76' > <virus e='11' f='10' d='0' SpVL='4.57' ImResp='3' />  </within_host_statesummary > 
+ <within_host_statesummary time='10.0862' V='4.7' beta='0.76' > <virus e='12' f='10' d='0' SpVL='4.7' ImResp='2' />  </within_host_statesummary > 
+ <within_host_statesummary time='10.6122' V='4.7' beta='0' > <virus e='12' f='10' d='0' SpVL='4.7' ImResp='2' />  </within_host_statesummary > 
+ </within_host_history >
+</whed_simulation >
+<transmitted_virus number='4' > <virus e='5' f='15' d='0' SpVL='3.44' ImResp='9' />  <virus e='9' f='14' d='0' SpVL='4.03' ImResp='5' />  <virus e='10' f='13' d='0' SpVL='4.23' ImResp='4' />  <virus e='12' f='10' d='0' SpVL='4.7' ImResp='2' />  </transmitted_virus >
+</single_host_simulation >
+<single_host_simulation >
+<whed_simulation TOI='0' TOD='17.1575' spVLmin='2.72' spVLtav='4.15664' k='17' >
+<within_host_history >
+<within_host_statesummary time='0' V='2.59' beta='2.76' > <virus e='2' f='13' d='0' SpVL='2.59' ImResp='15' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.130044' V='2.72' beta='2.76' > <virus e='3' f='13' d='0' SpVL='2.72' ImResp='14' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.24' V='2.72' beta='0.0107975' > <virus e='3' f='13' d='0' SpVL='2.72' ImResp='14' />  </within_host_statesummary > 
+ <within_host_statesummary time='1.35101' V='2.85' beta='0.0144769' > <virus e='4' f='13' d='0' SpVL='2.85' ImResp='13' />  </within_host_statesummary > 
+ <within_host_statesummary time='1.37408' V='2.98' beta='0.0193308' > <virus e='5' f='13' d='0' SpVL='2.98' ImResp='12' />  </within_host_statesummary > 
+ <within_host_statesummary time='1.63894' V='3.11' beta='0.0256741' > <virus e='6' f='13' d='0' SpVL='3.11' ImResp='11' />  </within_host_statesummary > 
+ <within_host_statesummary time='3.96644' V='3.24' beta='0.0338621' > <virus e='7' f='13' d='0' SpVL='3.24' ImResp='10' />  </within_host_statesummary > 
+ <within_host_statesummary time='4.33071' V='3.37' beta='0.0442646' > <virus e='8' f='13' d='0' SpVL='3.37' ImResp='9' />  </within_host_statesummary > 
+ <within_host_statesummary time='5.28894' V='3.5' beta='0.0572171' > <virus e='9' f='13' d='0' SpVL='3.5' ImResp='8' />  </within_host_statesummary > 
+ <within_host_statesummary time='5.86647' V='3.57' beta='0.0653341' > <virus e='9' f='12' d='0' SpVL='3.57' ImResp='8' />  </within_host_statesummary > 
+ <within_host_statesummary time='8.4833' V='3.64' beta='0.0742733' > <virus e='9' f='11' d='0' SpVL='3.64' ImResp='8' />  </within_host_statesummary > 
+ <within_host_statesummary time='10.0968' V='3.77' beta='0.0930122' > <virus e='10' f='11' d='0' SpVL='3.77' ImResp='7' />  </within_host_statesummary > 
+ <within_host_statesummary time='10.2402' V='3.9' beta='0.114253' > <virus e='11' f='11' d='0' SpVL='3.9' ImResp='6' />  </within_host_statesummary > 
+ <within_host_statesummary time='10.259' V='3.97' beta='0.126521' > <virus e='11' f='10' d='0' SpVL='3.97' ImResp='6' />  </within_host_statesummary > 
+ <within_host_statesummary time='10.8816' V='4.1' beta='0.15028' > <virus e='12' f='10' d='0' SpVL='4.1' ImResp='5' />  </within_host_statesummary > 
+ <within_host_statesummary time='11.0949' V='4.23' beta='0.174416' > <virus e='13' f='10' d='0' SpVL='4.23' ImResp='4' />  </within_host_statesummary > 
+ <within_host_statesummary time='12.4755' V='4.36' beta='0.197828' > <virus e='14' f='10' d='0' SpVL='4.36' ImResp='3' />  </within_host_statesummary > 
+ <within_host_statesummary time='13.6175' V='4.43' beta='0.209784' > <virus e='14' f='9' d='0' SpVL='4.43' ImResp='3' />  </within_host_statesummary > 
+ <within_host_statesummary time='13.6459' V='4.5' beta='0.221122' > <virus e='14' f='8' d='0' SpVL='4.5' ImResp='3' />  </within_host_statesummary > 
+ <within_host_statesummary time='14.0384' V='4.63' beta='0.240241' > <virus e='15' f='8' d='0' SpVL='4.63' ImResp='2' />  </within_host_statesummary > 
+ <within_host_statesummary time='14.1746' V='4.76' beta='0.256588' > <virus e='16' f='8' d='0' SpVL='4.76' ImResp='1' />  </within_host_statesummary > 
+ <within_host_statesummary time='16.4075' V='4.76' beta='0.76' > <virus e='16' f='8' d='0' SpVL='4.76' ImResp='1' />  </within_host_statesummary > 
+ <within_host_statesummary time='16.4418' V='4.83' beta='0.76' > <virus e='16' f='7' d='0' SpVL='4.83' ImResp='1' />  </within_host_statesummary > 
+ <within_host_statesummary time='16.4502' V='4.9' beta='0.76' > <virus e='16' f='6' d='0' SpVL='4.9' ImResp='1' />  </within_host_statesummary > 
+ <within_host_statesummary time='16.8343' V='4.97' beta='0.76' > <virus e='16' f='5' d='0' SpVL='4.97' ImResp='1' />  </within_host_statesummary > 
+ <within_host_statesummary time='17.0879' V='5.04' beta='0.76' > <virus e='16' f='4' d='0' SpVL='5.04' ImResp='1' />  </within_host_statesummary > 
+ <within_host_statesummary time='17.1575' V='5.04' beta='0' > <virus e='16' f='4' d='0' SpVL='5.04' ImResp='1' />  </within_host_statesummary > 
+ </within_host_history >
+</whed_simulation >
+<transmitted_virus number='3' > <virus e='2' f='13' d='0' SpVL='2.59' ImResp='15' />  <virus e='2' f='13' d='0' SpVL='2.59' ImResp='15' />  <virus e='9' f='12' d='0' SpVL='3.57' ImResp='8' />  </transmitted_virus >
+</single_host_simulation >
+<single_host_simulation >
+<whed_simulation TOI='0' TOD='4.08526' spVLmin='4.33' spVLtav='4.48138' k='8' >
+<within_host_history >
+<within_host_statesummary time='0' V='3.99' beta='2.76' > <virus e='0' f='15' d='0' SpVL='3.99' ImResp='8' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.0362452' V='4.06' beta='2.76' > <virus e='0' f='14' d='0' SpVL='4.06' ImResp='8' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.0624167' V='4.19' beta='2.76' > <virus e='1' f='14' d='0' SpVL='4.19' ImResp='7' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.114024' V='4.26' beta='2.76' > <virus e='1' f='13' d='0' SpVL='4.26' ImResp='7' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.165439' V='4.33' beta='2.76' > <virus e='1' f='12' d='0' SpVL='4.33' ImResp='7' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.24' V='4.33' beta='0.192544' > <virus e='1' f='12' d='0' SpVL='4.33' ImResp='7' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.396422' V='4.46' beta='0.214725' > <virus e='2' f='12' d='0' SpVL='4.46' ImResp='6' />  </within_host_statesummary > 
+ <within_host_statesummary time='2.21076' V='4.53' beta='0.225768' > <virus e='2' f='11' d='0' SpVL='4.53' ImResp='6' />  </within_host_statesummary > 
+ <within_host_statesummary time='3.33526' V='4.53' beta='0.76' > <virus e='2' f='11' d='0' SpVL='4.53' ImResp='6' />  </within_host_statesummary > 
+ <within_host_statesummary time='3.45822' V='4.66' beta='0.76' > <virus e='3' f='11' d='0' SpVL='4.66' ImResp='5' />  </within_host_statesummary > 
+ <within_host_statesummary time='3.47993' V='4.79' beta='0.76' > <virus e='4' f='11' d='0' SpVL='4.79' ImResp='4' />  </within_host_statesummary > 
+ <within_host_statesummary time='4.08526' V='4.79' beta='0' > <virus e='4' f='11' d='0' SpVL='4.79' ImResp='4' />  </within_host_statesummary > 
+ </within_host_history >
+</whed_simulation >
+<transmitted_virus number='6' > <virus e='0' f='14' d='0' SpVL='4.06' ImResp='8' />  <virus e='1' f='14' d='0' SpVL='4.19' ImResp='7' />  <virus e='1' f='13' d='0' SpVL='4.26' ImResp='7' />  <virus e='1' f='12' d='0' SpVL='4.33' ImResp='7' />  <virus e='4' f='11' d='0' SpVL='4.79' ImResp='4' />  <virus e='4' f='11' d='0' SpVL='4.79' ImResp='4' />  </transmitted_virus >
+</single_host_simulation >
+<single_host_simulation >
+<whed_simulation TOI='0' TOD='7.12983' spVLmin='2.31' spVLtav='3.02697' k='21' >
+<within_host_history >
+<within_host_statesummary time='0' V='1.39' beta='2.76' > <virus e='0' f='15' d='0' SpVL='1.39' ImResp='21' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.0232752' V='1.46' beta='2.76' > <virus e='0' f='14' d='0' SpVL='1.46' ImResp='21' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.0262077' V='1.59' beta='2.76' > <virus e='1' f='14' d='0' SpVL='1.59' ImResp='20' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.0729919' V='1.72' beta='2.76' > <virus e='2' f='14' d='0' SpVL='1.72' ImResp='19' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.11781' V='1.85' beta='2.76' > <virus e='3' f='14' d='0' SpVL='1.85' ImResp='18' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.151222' V='1.98' beta='2.76' > <virus e='4' f='14' d='0' SpVL='1.98' ImResp='17' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.158668' V='2.11' beta='2.76' > <virus e='5' f='14' d='0' SpVL='2.11' ImResp='16' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.163961' V='2.18' beta='2.76' > <virus e='5' f='13' d='0' SpVL='2.18' ImResp='16' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.210381' V='2.31' beta='2.76' > <virus e='6' f='13' d='0' SpVL='2.31' ImResp='15' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.24' V='2.31' beta='0.00421083' > <virus e='6' f='13' d='0' SpVL='2.31' ImResp='15' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.348423' V='2.38' beta='0.00495151' > <virus e='6' f='12' d='0' SpVL='2.38' ImResp='15' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.618205' V='2.51' beta='0.00668224' > <virus e='7' f='12' d='0' SpVL='2.51' ImResp='14' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.776616' V='2.64' beta='0.00900048' > <virus e='8' f='12' d='0' SpVL='2.64' ImResp='13' />  </within_host_statesummary > 
+ <within_host_statesummary time='1.38568' V='2.77' beta='0.0120916' > <virus e='9' f='12' d='0' SpVL='2.77' ImResp='12' />  </within_host_statesummary > 
+ <within_host_statesummary time='1.52517' V='2.9' beta='0.0161886' > <virus e='10' f='12' d='0' SpVL='2.9' ImResp='11' />  </within_host_statesummary > 
+ <within_host_statesummary time='3.36868' V='2.97' beta='0.0189088' > <virus e='10' f='11' d='0' SpVL='2.97' ImResp='11' />  </within_host_statesummary > 
+ <within_host_statesummary time='3.76394' V='3.1' beta='0.0251253' > <virus e='11' f='11' d='0' SpVL='3.1' ImResp='10' />  </within_host_statesummary > 
+ <within_host_statesummary time='4.28417' V='3.23' beta='0.0331583' > <virus e='12' f='11' d='0' SpVL='3.23' ImResp='9' />  </within_host_statesummary > 
+ <within_host_statesummary time='6.37983' V='3.23' beta='0.76' > <virus e='12' f='11' d='0' SpVL='3.23' ImResp='9' />  </within_host_statesummary > 
+ <within_host_statesummary time='6.74284' V='3.36' beta='0.76' > <virus e='13' f='11' d='0' SpVL='3.36' ImResp='8' />  </within_host_statesummary > 
+ <within_host_statesummary time='6.8552' V='3.43' beta='0.76' > <virus e='13' f='10' d='0' SpVL='3.43' ImResp='8' />  </within_host_statesummary > 
+ <within_host_statesummary time='6.93965' V='3.56' beta='0.76' > <virus e='14' f='10' d='0' SpVL='3.56' ImResp='7' />  </within_host_statesummary > 
+ <within_host_statesummary time='6.94006' V='3.69' beta='0.76' > <virus e='15' f='10' d='0' SpVL='3.69' ImResp='6' />  </within_host_statesummary > 
+ <within_host_statesummary time='7.0586' V='3.82' beta='0.76' > <virus e='16' f='10' d='0' SpVL='3.82' ImResp='5' />  </within_host_statesummary > 
+ <within_host_statesummary time='7.12983' V='3.82' beta='0' > <virus e='16' f='10' d='0' SpVL='3.82' ImResp='5' />  </within_host_statesummary > 
+ </within_host_history >
+</whed_simulation >
+<transmitted_virus number='2' > <virus e='12' f='11' d='0' SpVL='3.23' ImResp='9' />  <virus e='13' f='11' d='0' SpVL='3.36' ImResp='8' />  </transmitted_virus >
+</single_host_simulation >
+<single_host_simulation >
+<whed_simulation TOI='0' TOD='11.7115' spVLmin='1.65' spVLtav='3.38466' k='22' >
+<within_host_history >
+<within_host_statesummary time='0' V='1.39' beta='2.76' > <virus e='1' f='14' d='0' SpVL='1.39' ImResp='21' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.0538842' V='1.52' beta='2.76' > <virus e='2' f='14' d='0' SpVL='1.52' ImResp='20' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.139266' V='1.65' beta='2.76' > <virus e='3' f='14' d='0' SpVL='1.65' ImResp='19' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.24' V='1.65' beta='0.0009031' > <virus e='3' f='14' d='0' SpVL='1.65' ImResp='19' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.32923' V='1.78' beta='0.00122432' > <virus e='4' f='14' d='0' SpVL='1.78' ImResp='18' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.586097' V='1.91' beta='0.00165919' > <virus e='5' f='14' d='0' SpVL='1.91' ImResp='17' />  </within_host_statesummary > 
+ <within_host_statesummary time='1.57263' V='2.04' beta='0.00224742' > <virus e='6' f='14' d='0' SpVL='2.04' ImResp='16' />  </within_host_statesummary > 
+ <within_host_statesummary time='1.61803' V='2.11' beta='0.00264567' > <virus e='6' f='13' d='0' SpVL='2.11' ImResp='16' />  </within_host_statesummary > 
+ <within_host_statesummary time='1.74173' V='2.18' beta='0.00311378' > <virus e='6' f='12' d='0' SpVL='2.18' ImResp='16' />  </within_host_statesummary > 
+ <within_host_statesummary time='1.8343' V='2.31' beta='0.00421083' > <virus e='7' f='12' d='0' SpVL='2.31' ImResp='15' />  </within_host_statesummary > 
+ <within_host_statesummary time='2.5254' V='2.44' beta='0.00568738' > <virus e='8' f='12' d='0' SpVL='2.44' ImResp='14' />  </within_host_statesummary > 
+ <within_host_statesummary time='2.768' V='2.57' beta='0.007669' > <virus e='9' f='12' d='0' SpVL='2.57' ImResp='13' />  </within_host_statesummary > 
+ <within_host_statesummary time='3.43848' V='2.7' beta='0.0103182' > <virus e='10' f='12' d='0' SpVL='2.7' ImResp='12' />  </within_host_statesummary > 
+ <within_host_statesummary time='3.44018' V='2.83' beta='0.0138416' > <virus e='11' f='12' d='0' SpVL='2.83' ImResp='11' />  </within_host_statesummary > 
+ <within_host_statesummary time='4.12539' V='2.9' beta='0.0161886' > <virus e='11' f='11' d='0' SpVL='2.9' ImResp='11' />  </within_host_statesummary > 
+ <within_host_statesummary time='4.18115' V='2.97' beta='0.0189088' > <virus e='11' f='10' d='0' SpVL='2.97' ImResp='11' />  </within_host_statesummary > 
+ <within_host_statesummary time='4.8255' V='3.1' beta='0.0251253' > <virus e='12' f='10' d='0' SpVL='3.1' ImResp='10' />  </within_host_statesummary > 
+ <within_host_statesummary time='5.63297' V='3.17' beta='0.0292014' > <virus e='12' f='9' d='0' SpVL='3.17' ImResp='10' />  </within_host_statesummary > 
+ <within_host_statesummary time='6.27034' V='3.3' beta='0.0383662' > <virus e='13' f='9' d='0' SpVL='3.3' ImResp='9' />  </within_host_statesummary > 
+ <within_host_statesummary time='6.63225' V='3.43' beta='0.0499086' > <virus e='14' f='9' d='0' SpVL='3.43' ImResp='8' />  </within_host_statesummary > 
+ <within_host_statesummary time='7.04651' V='3.56' beta='0.0641243' > <virus e='15' f='9' d='0' SpVL='3.56' ImResp='7' />  </within_host_statesummary > 
+ <within_host_statesummary time='8.01511' V='3.69' beta='0.0811587' > <virus e='16' f='9' d='0' SpVL='3.69' ImResp='6' />  </within_host_statesummary > 
+ <within_host_statesummary time='9.46898' V='3.82' beta='0.100913' > <virus e='17' f='9' d='0' SpVL='3.82' ImResp='5' />  </within_host_statesummary > 
+ <within_host_statesummary time='10.9615' V='3.82' beta='0.76' > <virus e='17' f='9' d='0' SpVL='3.82' ImResp='5' />  </within_host_statesummary > 
+ <within_host_statesummary time='11.2204' V='3.95' beta='0.76' > <virus e='18' f='9' d='0' SpVL='3.95' ImResp='4' />  </within_host_statesummary > 
+ <within_host_statesummary time='11.7115' V='3.95' beta='0' > <virus e='18' f='9' d='0' SpVL='3.95' ImResp='4' />  </within_host_statesummary > 
+ </within_host_history >
+</whed_simulation >
+<transmitted_virus number='2' > <virus e='2' f='14' d='0' SpVL='1.52' ImResp='20' />  <virus e='18' f='9' d='0' SpVL='3.95' ImResp='4' />  </transmitted_virus >
+</single_host_simulation >
+<single_host_simulation >
+<whed_simulation TOI='0' TOD='12.7905' spVLmin='3.71' spVLtav='4.467' k='13' >
+<within_host_history >
+<within_host_statesummary time='0' V='2.99' beta='2.76' > <virus e='0' f='15' d='0' SpVL='2.99' ImResp='13' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.000661182' V='3.06' beta='2.76' > <virus e='0' f='14' d='0' SpVL='3.06' ImResp='13' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.108144' V='3.19' beta='2.76' > <virus e='1' f='14' d='0' SpVL='3.19' ImResp='12' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.153084' V='3.32' beta='2.76' > <virus e='2' f='14' d='0' SpVL='3.32' ImResp='11' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.173574' V='3.45' beta='2.76' > <virus e='3' f='14' d='0' SpVL='3.45' ImResp='10' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.208498' V='3.58' beta='2.76' > <virus e='4' f='14' d='0' SpVL='3.58' ImResp='9' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.239544' V='3.71' beta='2.76' > <virus e='5' f='14' d='0' SpVL='3.71' ImResp='8' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.24' V='3.71' beta='0.0840273' > <virus e='5' f='14' d='0' SpVL='3.71' ImResp='8' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.381999' V='3.84' beta='0.104171' > <virus e='6' f='14' d='0' SpVL='3.84' ImResp='7' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.436645' V='3.97' beta='0.126521' > <virus e='7' f='14' d='0' SpVL='3.97' ImResp='6' />  </within_host_statesummary > 
+ <within_host_statesummary time='2.62026' V='4.04' beta='0.139201' > <virus e='7' f='13' d='0' SpVL='4.04' ImResp='6' />  </within_host_statesummary > 
+ <within_host_statesummary time='2.95931' V='4.17' beta='0.163301' > <virus e='8' f='13' d='0' SpVL='4.17' ImResp='5' />  </within_host_statesummary > 
+ <within_host_statesummary time='3.00509' V='4.3' beta='0.18718' > <virus e='9' f='13' d='0' SpVL='4.3' ImResp='4' />  </within_host_statesummary > 
+ <within_host_statesummary time='3.30542' V='4.37' beta='0.19957' > <virus e='9' f='12' d='0' SpVL='4.37' ImResp='4' />  </within_host_statesummary > 
+ <within_host_statesummary time='4.15979' V='4.5' beta='0.221122' > <virus e='10' f='12' d='0' SpVL='4.5' ImResp='3' />  </within_host_statesummary > 
+ <within_host_statesummary time='8.21341' V='4.63' beta='0.240241' > <virus e='11' f='12' d='0' SpVL='4.63' ImResp='2' />  </within_host_statesummary > 
+ <within_host_statesummary time='11.7031' V='4.7' beta='0.249396' > <virus e='11' f='11' d='0' SpVL='4.7' ImResp='2' />  </within_host_statesummary > 
+ <within_host_statesummary time='12.0405' V='4.7' beta='0.76' > <virus e='11' f='11' d='0' SpVL='4.7' ImResp='2' />  </within_host_statesummary > 
+ <within_host_statesummary time='12.1093' V='4.77' beta='0.76' > <virus e='11' f='10' d='0' SpVL='4.77' ImResp='2' />  </within_host_statesummary > 
+ <within_host_statesummary time='12.7905' V='4.77' beta='0' > <virus e='11' f='10' d='0' SpVL='4.77' ImResp='2' />  </within_host_statesummary > 
+ </within_host_history >
+</whed_simulation >
+<transmitted_virus number='5' > <virus e='0' f='14' d='0' SpVL='3.06' ImResp='13' />  <virus e='1' f='14' d='0' SpVL='3.19' ImResp='12' />  <virus e='10' f='12' d='0' SpVL='4.5' ImResp='3' />  <virus e='11' f='12' d='0' SpVL='4.63' ImResp='2' />  <virus e='11' f='11' d='0' SpVL='4.7' ImResp='2' />  </transmitted_virus >
+</single_host_simulation >
+<single_host_simulation >
+<whed_simulation TOI='0' TOD='8.98596' spVLmin='4.26' spVLtav='4.97066' k='7' >
+<within_host_history >
+<within_host_statesummary time='0' V='4.19' beta='2.76' > <virus e='0' f='15' d='0' SpVL='4.19' ImResp='7' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.0135207' V='4.26' beta='2.76' > <virus e='0' f='14' d='0' SpVL='4.26' ImResp='7' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.24' V='4.26' beta='0.179922' > <virus e='0' f='14' d='0' SpVL='4.26' ImResp='7' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.784585' V='4.33' beta='0.192544' > <virus e='0' f='13' d='0' SpVL='4.33' ImResp='7' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.952746' V='4.4' beta='0.20473' > <virus e='0' f='12' d='0' SpVL='4.4' ImResp='7' />  </within_host_statesummary > 
+ <within_host_statesummary time='1.07073' V='4.47' beta='0.216346' > <virus e='0' f='11' d='0' SpVL='4.47' ImResp='7' />  </within_host_statesummary > 
+ <within_host_statesummary time='1.42475' V='4.6' beta='0.236068' > <virus e='1' f='11' d='0' SpVL='4.6' ImResp='6' />  </within_host_statesummary > 
+ <within_host_statesummary time='1.93793' V='4.67' beta='0.245573' > <virus e='1' f='10' d='0' SpVL='4.67' ImResp='6' />  </within_host_statesummary > 
+ <within_host_statesummary time='2.24568' V='4.74' beta='0.254258' > <virus e='1' f='9' d='0' SpVL='4.74' ImResp='6' />  </within_host_statesummary > 
+ <within_host_statesummary time='2.43667' V='4.81' beta='0.262123' > <virus e='1' f='8' d='0' SpVL='4.81' ImResp='6' />  </within_host_statesummary > 
+ <within_host_statesummary time='4.24484' V='4.94' beta='0.274632' > <virus e='2' f='8' d='0' SpVL='4.94' ImResp='5' />  </within_host_statesummary > 
+ <within_host_statesummary time='4.58352' V='5.07' beta='0.284642' > <virus e='3' f='8' d='0' SpVL='5.07' ImResp='4' />  </within_host_statesummary > 
+ <within_host_statesummary time='5.24738' V='5.14' beta='0.289116' > <virus e='3' f='7' d='0' SpVL='5.14' ImResp='4' />  </within_host_statesummary > 
+ <within_host_statesummary time='6.64783' V='5.21' beta='0.293023' > <virus e='3' f='6' d='0' SpVL='5.21' ImResp='4' />  </within_host_statesummary > 
+ <within_host_statesummary time='8.23596' V='5.21' beta='0.76' > <virus e='3' f='6' d='0' SpVL='5.21' ImResp='4' />  </within_host_statesummary > 
+ <within_host_statesummary time='8.59752' V='5.28' beta='0.76' > <virus e='3' f='5' d='0' SpVL='5.28' ImResp='4' />  </within_host_statesummary > 
+ <within_host_statesummary time='8.98596' V='5.28' beta='0' > <virus e='3' f='5' d='0' SpVL='5.28' ImResp='4' />  </within_host_statesummary > 
+ </within_host_history >
+</whed_simulation >
+<transmitted_virus number='2' > <virus e='1' f='11' d='0' SpVL='4.6' ImResp='6' />  <virus e='3' f='5' d='0' SpVL='5.28' ImResp='4' />  </transmitted_virus >
+</single_host_simulation >
+<single_host_simulation >
+<whed_simulation TOI='0' TOD='8.06262' spVLmin='4.32' spVLtav='4.76883' k='11' >
+<within_host_history >
+<within_host_statesummary time='0' V='3.39' beta='2.76' > <virus e='0' f='15' d='0' SpVL='3.39' ImResp='11' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.00361249' V='3.46' beta='2.76' > <virus e='0' f='14' d='0' SpVL='3.46' ImResp='11' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.0191141' V='3.59' beta='2.76' > <virus e='1' f='14' d='0' SpVL='3.59' ImResp='10' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.021154' V='3.72' beta='2.76' > <virus e='2' f='14' d='0' SpVL='3.72' ImResp='9' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.0461343' V='3.85' beta='2.76' > <virus e='3' f='14' d='0' SpVL='3.85' ImResp='8' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.0717917' V='3.92' beta='2.76' > <virus e='3' f='13' d='0' SpVL='3.92' ImResp='8' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.138266' V='4.05' beta='2.76' > <virus e='4' f='13' d='0' SpVL='4.05' ImResp='7' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.14634' V='4.12' beta='2.76' > <virus e='4' f='12' d='0' SpVL='4.12' ImResp='7' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.204314' V='4.19' beta='2.76' > <virus e='4' f='11' d='0' SpVL='4.19' ImResp='7' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.219514' V='4.32' beta='2.76' > <virus e='5' f='11' d='0' SpVL='4.32' ImResp='6' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.24' V='4.32' beta='0.190764' > <virus e='5' f='11' d='0' SpVL='4.32' ImResp='6' />  </within_host_statesummary > 
+ <within_host_statesummary time='2.8306' V='4.45' beta='0.213092' > <virus e='6' f='11' d='0' SpVL='4.45' ImResp='5' />  </within_host_statesummary > 
+ <within_host_statesummary time='3.40271' V='4.58' beta='0.233204' > <virus e='7' f='11' d='0' SpVL='4.58' ImResp='4' />  </within_host_statesummary > 
+ <within_host_statesummary time='3.67396' V='4.71' beta='0.250637' > <virus e='8' f='11' d='0' SpVL='4.71' ImResp='3' />  </within_host_statesummary > 
+ <within_host_statesummary time='3.82773' V='4.78' beta='0.258852' > <virus e='8' f='10' d='0' SpVL='4.78' ImResp='3' />  </within_host_statesummary > 
+ <within_host_statesummary time='3.98644' V='4.85' beta='0.266256' > <virus e='8' f='9' d='0' SpVL='4.85' ImResp='3' />  </within_host_statesummary > 
+ <within_host_statesummary time='3.99917' V='4.98' beta='0.277963' > <virus e='9' f='9' d='0' SpVL='4.98' ImResp='2' />  </within_host_statesummary > 
+ <within_host_statesummary time='7.31262' V='4.98' beta='0.76' > <virus e='9' f='9' d='0' SpVL='4.98' ImResp='2' />  </within_host_statesummary > 
+ <within_host_statesummary time='7.51579' V='5.11' beta='0.76' > <virus e='10' f='9' d='0' SpVL='5.11' ImResp='1' />  </within_host_statesummary > 
+ <within_host_statesummary time='7.69623' V='5.24' beta='0.76' > <virus e='11' f='9' d='0' SpVL='5.24' ImResp='0' />  </within_host_statesummary > 
+ <within_host_statesummary time='7.82653' V='5.31' beta='0.76' > <virus e='11' f='8' d='0' SpVL='5.31' ImResp='0' />  </within_host_statesummary > 
+ <within_host_statesummary time='8.06262' V='5.31' beta='0' > <virus e='11' f='8' d='0' SpVL='5.31' ImResp='0' />  </within_host_statesummary > 
+ </within_host_history >
+</whed_simulation >
+<transmitted_virus number='3' > <virus e='2' f='14' d='0' SpVL='3.72' ImResp='9' />  <virus e='5' f='11' d='0' SpVL='4.32' ImResp='6' />  <virus e='6' f='11' d='0' SpVL='4.45' ImResp='5' />  </transmitted_virus >
+</single_host_simulation >
+<single_host_simulation >
+<whed_simulation TOI='0' TOD='8.81816' spVLmin='3.59' spVLtav='4.26206' k='13' >
+<within_host_history >
+<within_host_statesummary time='0' V='3.19' beta='2.76' > <virus e='1' f='14' d='0' SpVL='3.19' ImResp='12' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.0366809' V='3.26' beta='2.76' > <virus e='1' f='13' d='0' SpVL='3.26' ImResp='12' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.0515304' V='3.33' beta='2.76' > <virus e='1' f='12' d='0' SpVL='3.33' ImResp='12' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.104156' V='3.46' beta='2.76' > <virus e='2' f='12' d='0' SpVL='3.46' ImResp='11' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.190944' V='3.59' beta='2.76' > <virus e='3' f='12' d='0' SpVL='3.59' ImResp='10' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.24' V='3.59' beta='0.0678042' > <virus e='3' f='12' d='0' SpVL='3.59' ImResp='10' />  </within_host_statesummary > 
+ <within_host_statesummary time='1.46942' V='3.72' beta='0.0854857' > <virus e='4' f='12' d='0' SpVL='3.72' ImResp='9' />  </within_host_statesummary > 
+ <within_host_statesummary time='1.59042' V='3.85' beta='0.10582' > <virus e='5' f='12' d='0' SpVL='3.85' ImResp='8' />  </within_host_statesummary > 
+ <within_host_statesummary time='1.94284' V='3.98' beta='0.128311' > <virus e='6' f='12' d='0' SpVL='3.98' ImResp='7' />  </within_host_statesummary > 
+ <within_host_statesummary time='2.29175' V='4.05' beta='0.141038' > <virus e='6' f='11' d='0' SpVL='4.05' ImResp='7' />  </within_host_statesummary > 
+ <within_host_statesummary time='3.98289' V='4.18' beta='0.165159' > <virus e='7' f='11' d='0' SpVL='4.18' ImResp='6' />  </within_host_statesummary > 
+ <within_host_statesummary time='4.22237' V='4.31' beta='0.188976' > <virus e='8' f='11' d='0' SpVL='4.31' ImResp='5' />  </within_host_statesummary > 
+ <within_host_statesummary time='5.0105' V='4.38' beta='0.201301' > <virus e='8' f='10' d='0' SpVL='4.38' ImResp='5' />  </within_host_statesummary > 
+ <within_host_statesummary time='5.69781' V='4.51' beta='0.222686' > <virus e='9' f='10' d='0' SpVL='4.51' ImResp='4' />  </within_host_statesummary > 
+ <within_host_statesummary time='8.06816' V='4.51' beta='0.76' > <virus e='9' f='10' d='0' SpVL='4.51' ImResp='4' />  </within_host_statesummary > 
+ <within_host_statesummary time='8.1912' V='4.58' beta='0.76' > <virus e='9' f='9' d='0' SpVL='4.58' ImResp='4' />  </within_host_statesummary > 
+ <within_host_statesummary time='8.24381' V='4.65' beta='0.76' > <virus e='9' f='8' d='0' SpVL='4.65' ImResp='4' />  </within_host_statesummary > 
+ <within_host_statesummary time='8.27414' V='4.78' beta='0.76' > <virus e='10' f='8' d='0' SpVL='4.78' ImResp='3' />  </within_host_statesummary > 
+ <within_host_statesummary time='8.27956' V='4.91' beta='0.76' > <virus e='11' f='8' d='0' SpVL='4.91' ImResp='2' />  </within_host_statesummary > 
+ <within_host_statesummary time='8.59693' V='5.04' beta='0.76' > <virus e='12' f='8' d='0' SpVL='5.04' ImResp='1' />  </within_host_statesummary > 
+ <within_host_statesummary time='8.81816' V='5.04' beta='0' > <virus e='12' f='8' d='0' SpVL='5.04' ImResp='1' />  </within_host_statesummary > 
+ </within_host_history >
+</whed_simulation >
+<transmitted_virus number='3' > <virus e='1' f='12' d='0' SpVL='3.33' ImResp='12' />  <virus e='9' f='10' d='0' SpVL='4.51' ImResp='4' />  <virus e='11' f='8' d='0' SpVL='4.91' ImResp='2' />  </transmitted_virus >
+</single_host_simulation >
+<single_host_simulation >
+<whed_simulation TOI='0' TOD='13.2019' spVLmin='2.92' spVLtav='4.21658' k='15' >
+<within_host_history >
+<within_host_statesummary time='0' V='2.59' beta='2.76' > <virus e='0' f='15' d='0' SpVL='2.59' ImResp='15' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.0939525' V='2.72' beta='2.76' > <virus e='1' f='15' d='0' SpVL='2.72' ImResp='14' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.109492' V='2.79' beta='2.76' > <virus e='1' f='14' d='0' SpVL='2.79' ImResp='14' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.183628' V='2.92' beta='2.76' > <virus e='2' f='14' d='0' SpVL='2.92' ImResp='13' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.24' V='2.92' beta='0.0169256' > <virus e='2' f='14' d='0' SpVL='2.92' ImResp='13' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.624053' V='2.99' beta='0.0197615' > <virus e='2' f='13' d='0' SpVL='2.99' ImResp='13' />  </within_host_statesummary > 
+ <within_host_statesummary time='3.03909' V='3.12' beta='0.0262337' > <virus e='3' f='13' d='0' SpVL='3.12' ImResp='12' />  </within_host_statesummary > 
+ <within_host_statesummary time='4.17398' V='3.25' beta='0.034579' > <virus e='4' f='13' d='0' SpVL='3.25' ImResp='11' />  </within_host_statesummary > 
+ <within_host_statesummary time='4.42011' V='3.38' beta='0.0451667' > <virus e='5' f='13' d='0' SpVL='3.38' ImResp='10' />  </within_host_statesummary > 
+ <within_host_statesummary time='4.47241' V='3.45' beta='0.0519158' > <virus e='5' f='12' d='0' SpVL='3.45' ImResp='10' />  </within_host_statesummary > 
+ <within_host_statesummary time='5.18467' V='3.58' beta='0.0665607' > <virus e='6' f='12' d='0' SpVL='3.58' ImResp='9' />  </within_host_statesummary > 
+ <within_host_statesummary time='6.43422' V='3.65' beta='0.0756174' > <virus e='6' f='11' d='0' SpVL='3.65' ImResp='9' />  </within_host_statesummary > 
+ <within_host_statesummary time='6.60254' V='3.78' beta='0.0945632' > <virus e='7' f='11' d='0' SpVL='3.78' ImResp='8' />  </within_host_statesummary > 
+ <within_host_statesummary time='6.982' V='3.91' beta='0.115975' > <virus e='8' f='11' d='0' SpVL='3.91' ImResp='7' />  </within_host_statesummary > 
+ <within_host_statesummary time='7.80697' V='4.04' beta='0.139201' > <virus e='9' f='11' d='0' SpVL='4.04' ImResp='6' />  </within_host_statesummary > 
+ <within_host_statesummary time='7.82018' V='4.17' beta='0.163301' > <virus e='10' f='11' d='0' SpVL='4.17' ImResp='5' />  </within_host_statesummary > 
+ <within_host_statesummary time='8.00992' V='4.3' beta='0.18718' > <virus e='11' f='11' d='0' SpVL='4.3' ImResp='4' />  </within_host_statesummary > 
+ <within_host_statesummary time='8.01136' V='4.43' beta='0.209784' > <virus e='12' f='11' d='0' SpVL='4.43' ImResp='3' />  </within_host_statesummary > 
+ <within_host_statesummary time='9.74598' V='4.56' beta='0.230277' > <virus e='13' f='11' d='0' SpVL='4.56' ImResp='2' />  </within_host_statesummary > 
+ <within_host_statesummary time='10.1638' V='4.63' beta='0.240241' > <virus e='13' f='10' d='0' SpVL='4.63' ImResp='2' />  </within_host_statesummary > 
+ <within_host_statesummary time='10.8479' V='4.7' beta='0.249396' > <virus e='13' f='9' d='0' SpVL='4.7' ImResp='2' />  </within_host_statesummary > 
+ <within_host_statesummary time='11.8329' V='4.77' beta='0.257728' > <virus e='13' f='8' d='0' SpVL='4.77' ImResp='2' />  </within_host_statesummary > 
+ <within_host_statesummary time='12.4519' V='4.77' beta='0.76' > <virus e='13' f='8' d='0' SpVL='4.77' ImResp='2' />  </within_host_statesummary > 
+ <within_host_statesummary time='12.765' V='4.84' beta='0.76' > <virus e='13' f='7' d='0' SpVL='4.84' ImResp='2' />  </within_host_statesummary > 
+ <within_host_statesummary time='12.8929' V='4.97' beta='0.76' > <virus e='14' f='7' d='0' SpVL='4.97' ImResp='1' />  </within_host_statesummary > 
+ <within_host_statesummary time='12.9478' V='5.04' beta='0.76' > <virus e='14' f='6' d='0' SpVL='5.04' ImResp='1' />  </within_host_statesummary > 
+ <within_host_statesummary time='12.9754' V='5.11' beta='0.76' > <virus e='14' f='5' d='0' SpVL='5.11' ImResp='1' />  </within_host_statesummary > 
+ <within_host_statesummary time='13.2019' V='5.11' beta='0' > <virus e='14' f='5' d='0' SpVL='5.11' ImResp='1' />  </within_host_statesummary > 
+ </within_host_history >
+</whed_simulation >
+<transmitted_virus number='3' > <virus e='10' f='11' d='0' SpVL='4.17' ImResp='5' />  <virus e='13' f='11' d='0' SpVL='4.56' ImResp='2' />  <virus e='13' f='7' d='0' SpVL='4.84' ImResp='2' />  </transmitted_virus >
+</single_host_simulation >
+<single_host_simulation >
+<whed_simulation TOI='0' TOD='4.7211' spVLmin='4.46' spVLtav='4.53759' k='7' >
+<within_host_history >
+<within_host_statesummary time='0' V='4.39' beta='2.76' > <virus e='1' f='14' d='0' SpVL='4.39' ImResp='6' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.192515' V='4.46' beta='2.76' > <virus e='1' f='13' d='0' SpVL='4.46' ImResp='6' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.24' V='4.46' beta='0.214725' > <virus e='1' f='13' d='0' SpVL='4.46' ImResp='6' />  </within_host_statesummary > 
+ <within_host_statesummary time='2.17741' V='4.53' beta='0.225768' > <virus e='1' f='12' d='0' SpVL='4.53' ImResp='6' />  </within_host_statesummary > 
+ <within_host_statesummary time='2.87327' V='4.6' beta='0.236068' > <virus e='1' f='11' d='0' SpVL='4.6' ImResp='6' />  </within_host_statesummary > 
+ <within_host_statesummary time='3.57555' V='4.73' beta='0.253068' > <virus e='2' f='11' d='0' SpVL='4.73' ImResp='5' />  </within_host_statesummary > 
+ <within_host_statesummary time='3.9711' V='4.73' beta='0.76' > <virus e='2' f='11' d='0' SpVL='4.73' ImResp='5' />  </within_host_statesummary > 
+ <within_host_statesummary time='4.42737' V='4.86' beta='0.76' > <virus e='3' f='11' d='0' SpVL='4.86' ImResp='4' />  </within_host_statesummary > 
+ <within_host_statesummary time='4.7211' V='4.86' beta='0' > <virus e='3' f='11' d='0' SpVL='4.86' ImResp='4' />  </within_host_statesummary > 
+ </within_host_history >
+</whed_simulation >
+<transmitted_virus number='1' > <virus e='1' f='14' d='0' SpVL='4.39' ImResp='6' />  </transmitted_virus >
+</single_host_simulation >
+<single_host_simulation >
+<whed_simulation TOI='0' TOD='9.61818' spVLmin='4.53' spVLtav='5.2486' k='9' >
+<within_host_history >
+<within_host_statesummary time='0' V='4.19' beta='2.76' > <virus e='2' f='13' d='0' SpVL='4.19' ImResp='7' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.000897666' V='4.26' beta='2.76' > <virus e='2' f='12' d='0' SpVL='4.26' ImResp='7' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.041105' V='4.39' beta='2.76' > <virus e='3' f='12' d='0' SpVL='4.39' ImResp='6' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.0658374' V='4.46' beta='2.76' > <virus e='3' f='11' d='0' SpVL='4.46' ImResp='6' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.0710062' V='4.53' beta='2.76' > <virus e='3' f='10' d='0' SpVL='4.53' ImResp='6' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.24' V='4.53' beta='0.225768' > <virus e='3' f='10' d='0' SpVL='4.53' ImResp='6' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.644704' V='4.6' beta='0.236068' > <virus e='3' f='9' d='0' SpVL='4.6' ImResp='6' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.841394' V='4.73' beta='0.253068' > <virus e='4' f='9' d='0' SpVL='4.73' ImResp='5' />  </within_host_statesummary > 
+ <within_host_statesummary time='2.47862' V='4.86' beta='0.267249' > <virus e='5' f='9' d='0' SpVL='4.86' ImResp='4' />  </within_host_statesummary > 
+ <within_host_statesummary time='3.09555' V='4.99' beta='0.27876' > <virus e='6' f='9' d='0' SpVL='4.99' ImResp='3' />  </within_host_statesummary > 
+ <within_host_statesummary time='4.10553' V='5.06' beta='0.283953' > <virus e='6' f='8' d='0' SpVL='5.06' ImResp='3' />  </within_host_statesummary > 
+ <within_host_statesummary time='4.18691' V='5.19' beta='0.291961' > <virus e='7' f='8' d='0' SpVL='5.19' ImResp='2' />  </within_host_statesummary > 
+ <within_host_statesummary time='6.12982' V='5.26' beta='0.2955' > <virus e='7' f='7' d='0' SpVL='5.26' ImResp='2' />  </within_host_statesummary > 
+ <within_host_statesummary time='6.16525' V='5.39' beta='0.300869' > <virus e='8' f='7' d='0' SpVL='5.39' ImResp='1' />  </within_host_statesummary > 
+ <within_host_statesummary time='6.3253' V='5.52' beta='0.304952' > <virus e='9' f='7' d='0' SpVL='5.52' ImResp='0' />  </within_host_statesummary > 
+ <within_host_statesummary time='7.51238' V='5.59' beta='0.306719' > <virus e='9' f='6' d='0' SpVL='5.59' ImResp='0' />  </within_host_statesummary > 
+ <within_host_statesummary time='8.86818' V='5.59' beta='0.76' > <virus e='9' f='6' d='0' SpVL='5.59' ImResp='0' />  </within_host_statesummary > 
+ <within_host_statesummary time='9.03295' V='5.66' beta='0.76' > <virus e='9' f='5' d='0' SpVL='5.66' ImResp='0' />  </within_host_statesummary > 
+ <within_host_statesummary time='9.30295' V='5.73' beta='0.76' > <virus e='9' f='4' d='0' SpVL='5.73' ImResp='0' />  </within_host_statesummary > 
+ <within_host_statesummary time='9.61818' V='5.73' beta='0' > <virus e='9' f='4' d='0' SpVL='5.73' ImResp='0' />  </within_host_statesummary > 
+ </within_host_history >
+</whed_simulation >
+<transmitted_virus number='2' > <virus e='7' f='8' d='0' SpVL='5.19' ImResp='2' />  <virus e='9' f='6' d='0' SpVL='5.59' ImResp='0' />  </transmitted_virus >
+</single_host_simulation >
+<single_host_simulation >
+<whed_simulation TOI='0' TOD='13.5478' spVLmin='3.85' spVLtav='4.25638' k='14' >
+<within_host_history >
+<within_host_statesummary time='0' V='2.99' beta='2.76' > <virus e='1' f='14' d='0' SpVL='2.99' ImResp='13' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.00717998' V='3.12' beta='2.76' > <virus e='2' f='14' d='0' SpVL='3.12' ImResp='12' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.0556589' V='3.19' beta='2.76' > <virus e='2' f='13' d='0' SpVL='3.19' ImResp='12' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.0573236' V='3.32' beta='2.76' > <virus e='3' f='13' d='0' SpVL='3.32' ImResp='11' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.0743274' V='3.45' beta='2.76' > <virus e='4' f='13' d='0' SpVL='3.45' ImResp='10' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.0862054' V='3.58' beta='2.76' > <virus e='5' f='13' d='0' SpVL='3.58' ImResp='9' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.0891256' V='3.65' beta='2.76' > <virus e='5' f='12' d='0' SpVL='3.65' ImResp='9' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.173976' V='3.72' beta='2.76' > <virus e='5' f='11' d='0' SpVL='3.72' ImResp='9' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.210982' V='3.85' beta='2.76' > <virus e='6' f='11' d='0' SpVL='3.85' ImResp='8' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.24' V='3.85' beta='0.10582' > <virus e='6' f='11' d='0' SpVL='3.85' ImResp='8' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.447012' V='3.98' beta='0.128311' > <virus e='7' f='11' d='0' SpVL='3.98' ImResp='7' />  </within_host_statesummary > 
+ <within_host_statesummary time='1.02446' V='4.11' beta='0.152138' > <virus e='8' f='11' d='0' SpVL='4.11' ImResp='6' />  </within_host_statesummary > 
+ <within_host_statesummary time='6.04877' V='4.18' beta='0.165159' > <virus e='8' f='10' d='0' SpVL='4.18' ImResp='6' />  </within_host_statesummary > 
+ <within_host_statesummary time='8.92419' V='4.31' beta='0.188976' > <virus e='9' f='10' d='0' SpVL='4.31' ImResp='5' />  </within_host_statesummary > 
+ <within_host_statesummary time='9.68827' V='4.44' beta='0.211445' > <virus e='10' f='10' d='0' SpVL='4.44' ImResp='4' />  </within_host_statesummary > 
+ <within_host_statesummary time='11.2181' V='4.51' beta='0.222686' > <virus e='10' f='9' d='0' SpVL='4.51' ImResp='4' />  </within_host_statesummary > 
+ <within_host_statesummary time='12.5732' V='4.64' beta='0.241599' > <virus e='11' f='9' d='0' SpVL='4.64' ImResp='3' />  </within_host_statesummary > 
+ <within_host_statesummary time='12.7978' V='4.64' beta='0.76' > <virus e='11' f='9' d='0' SpVL='4.64' ImResp='3' />  </within_host_statesummary > 
+ <within_host_statesummary time='12.8094' V='4.71' beta='0.76' > <virus e='11' f='8' d='0' SpVL='4.71' ImResp='3' />  </within_host_statesummary > 
+ <within_host_statesummary time='12.823' V='4.78' beta='0.76' > <virus e='11' f='7' d='0' SpVL='4.78' ImResp='3' />  </within_host_statesummary > 
+ <within_host_statesummary time='13.5478' V='4.78' beta='0' > <virus e='11' f='7' d='0' SpVL='4.78' ImResp='3' />  </within_host_statesummary > 
+ </within_host_history >
+</whed_simulation >
+<transmitted_virus number='4' > <virus e='5' f='12' d='0' SpVL='3.65' ImResp='9' />  <virus e='10' f='10' d='0' SpVL='4.44' ImResp='4' />  <virus e='10' f='10' d='0' SpVL='4.44' ImResp='4' />  <virus e='10' f='9' d='0' SpVL='4.51' ImResp='4' />  </transmitted_virus >
+</single_host_simulation >
+<single_host_simulation >
+<whed_simulation TOI='0' TOD='10.5951' spVLmin='2.85' spVLtav='3.55425' k='17' >
+<within_host_history >
+<within_host_statesummary time='0' V='2.59' beta='2.76' > <virus e='2' f='13' d='0' SpVL='2.59' ImResp='15' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.0402278' V='2.72' beta='2.76' > <virus e='3' f='13' d='0' SpVL='2.72' ImResp='14' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.0480833' V='2.85' beta='2.76' > <virus e='4' f='13' d='0' SpVL='2.85' ImResp='13' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.24' V='2.85' beta='0.0144769' > <virus e='4' f='13' d='0' SpVL='2.85' ImResp='13' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.309077' V='2.98' beta='0.0193308' > <virus e='5' f='13' d='0' SpVL='2.98' ImResp='12' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.451188' V='3.11' beta='0.0256741' > <virus e='6' f='13' d='0' SpVL='3.11' ImResp='11' />  </within_host_statesummary > 
+ <within_host_statesummary time='2.83201' V='3.18' beta='0.0298301' > <virus e='6' f='12' d='0' SpVL='3.18' ImResp='11' />  </within_host_statesummary > 
+ <within_host_statesummary time='2.868' V='3.31' beta='0.0391653' > <virus e='7' f='12' d='0' SpVL='3.31' ImResp='10' />  </within_host_statesummary > 
+ <within_host_statesummary time='3.56656' V='3.38' beta='0.0451667' > <virus e='7' f='11' d='0' SpVL='3.38' ImResp='10' />  </within_host_statesummary > 
+ <within_host_statesummary time='6.7627' V='3.51' beta='0.0583267' > <virus e='8' f='11' d='0' SpVL='3.51' ImResp='9' />  </within_host_statesummary > 
+ <within_host_statesummary time='7.67543' V='3.64' beta='0.0742733' > <virus e='9' f='11' d='0' SpVL='3.64' ImResp='8' />  </within_host_statesummary > 
+ <within_host_statesummary time='7.85822' V='3.77' beta='0.0930122' > <virus e='10' f='11' d='0' SpVL='3.77' ImResp='7' />  </within_host_statesummary > 
+ <within_host_statesummary time='8.36059' V='3.9' beta='0.114253' > <virus e='11' f='11' d='0' SpVL='3.9' ImResp='6' />  </within_host_statesummary > 
+ <within_host_statesummary time='8.37033' V='3.97' beta='0.126521' > <virus e='11' f='10' d='0' SpVL='3.97' ImResp='6' />  </within_host_statesummary > 
+ <within_host_statesummary time='9.39495' V='4.1' beta='0.15028' > <virus e='12' f='10' d='0' SpVL='4.1' ImResp='5' />  </within_host_statesummary > 
+ <within_host_statesummary time='9.84508' V='4.1' beta='0.76' > <virus e='12' f='10' d='0' SpVL='4.1' ImResp='5' />  </within_host_statesummary > 
+ <within_host_statesummary time='9.97617' V='4.17' beta='0.76' > <virus e='12' f='9' d='0' SpVL='4.17' ImResp='5' />  </within_host_statesummary > 
+ <within_host_statesummary time='10.0792' V='4.3' beta='0.76' > <virus e='13' f='9' d='0' SpVL='4.3' ImResp='4' />  </within_host_statesummary > 
+ <within_host_statesummary time='10.277' V='4.43' beta='0.76' > <virus e='14' f='9' d='0' SpVL='4.43' ImResp='3' />  </within_host_statesummary > 
+ <within_host_statesummary time='10.5951' V='4.43' beta='0' > <virus e='14' f='9' d='0' SpVL='4.43' ImResp='3' />  </within_host_statesummary > 
+ </within_host_history >
+</whed_simulation >
+<transmitted_virus number='4' > <virus e='4' f='13' d='0' SpVL='2.85' ImResp='13' />  <virus e='7' f='11' d='0' SpVL='3.38' ImResp='10' />  <virus e='13' f='9' d='0' SpVL='4.3' ImResp='4' />  <virus e='13' f='9' d='0' SpVL='4.3' ImResp='4' />  </transmitted_virus >
+</single_host_simulation >
+<single_host_simulation >
+<whed_simulation TOI='0' TOD='5.51123' spVLmin='4.58' spVLtav='4.6605' k='7' >
+<within_host_history >
+<within_host_statesummary time='0' V='4.19' beta='2.76' > <virus e='0' f='15' d='0' SpVL='4.19' ImResp='7' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.0827696' V='4.32' beta='2.76' > <virus e='1' f='15' d='0' SpVL='4.32' ImResp='6' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.159609' V='4.45' beta='2.76' > <virus e='2' f='15' d='0' SpVL='4.45' ImResp='5' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.208826' V='4.58' beta='2.76' > <virus e='3' f='15' d='0' SpVL='4.58' ImResp='4' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.24' V='4.58' beta='0.233204' > <virus e='3' f='15' d='0' SpVL='4.58' ImResp='4' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.324719' V='4.65' beta='0.24294' > <virus e='3' f='14' d='0' SpVL='4.65' ImResp='4' />  </within_host_statesummary > 
+ <within_host_statesummary time='4.05676' V='4.72' beta='0.25186' > <virus e='3' f='13' d='0' SpVL='4.72' ImResp='4' />  </within_host_statesummary > 
+ <within_host_statesummary time='4.76123' V='4.72' beta='0.76' > <virus e='3' f='13' d='0' SpVL='4.72' ImResp='4' />  </within_host_statesummary > 
+ <within_host_statesummary time='5.51123' V='4.72' beta='0' > <virus e='3' f='13' d='0' SpVL='4.72' ImResp='4' />  </within_host_statesummary > 
+ </within_host_history >
+</whed_simulation >
+<transmitted_virus number='4' > <virus e='0' f='15' d='0' SpVL='4.19' ImResp='7' />  <virus e='0' f='15' d='0' SpVL='4.19' ImResp='7' />  <virus e='0' f='15' d='0' SpVL='4.19' ImResp='7' />  <virus e='3' f='13' d='0' SpVL='4.72' ImResp='4' />  </transmitted_virus >
+</single_host_simulation >
+<single_host_simulation >
+<whed_simulation TOI='0' TOD='3.53055' spVLmin='4.06' spVLtav='4.39295' k='10' >
+<within_host_history >
+<within_host_statesummary time='0' V='3.79' beta='2.76' > <virus e='1' f='14' d='0' SpVL='3.79' ImResp='9' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.050873' V='3.86' beta='2.76' > <virus e='1' f='13' d='0' SpVL='3.86' ImResp='9' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.0569179' V='3.93' beta='2.76' > <virus e='1' f='12' d='0' SpVL='3.93' ImResp='9' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.199225' V='4.06' beta='2.76' > <virus e='2' f='12' d='0' SpVL='4.06' ImResp='8' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.24' V='4.06' beta='0.142879' > <virus e='2' f='12' d='0' SpVL='4.06' ImResp='8' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.27374' V='4.19' beta='0.167016' > <virus e='3' f='12' d='0' SpVL='4.19' ImResp='7' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.665498' V='4.32' beta='0.190764' > <virus e='4' f='12' d='0' SpVL='4.32' ImResp='6' />  </within_host_statesummary > 
+ <within_host_statesummary time='1.11495' V='4.45' beta='0.213092' > <virus e='5' f='12' d='0' SpVL='4.45' ImResp='5' />  </within_host_statesummary > 
+ <within_host_statesummary time='2.78055' V='4.45' beta='0.76' > <virus e='5' f='12' d='0' SpVL='4.45' ImResp='5' />  </within_host_statesummary > 
+ <within_host_statesummary time='2.98799' V='4.58' beta='0.76' > <virus e='6' f='12' d='0' SpVL='4.58' ImResp='4' />  </within_host_statesummary > 
+ <within_host_statesummary time='3.37273' V='4.71' beta='0.76' > <virus e='7' f='12' d='0' SpVL='4.71' ImResp='3' />  </within_host_statesummary > 
+ <within_host_statesummary time='3.53055' V='4.71' beta='0' > <virus e='7' f='12' d='0' SpVL='4.71' ImResp='3' />  </within_host_statesummary > 
+ </within_host_history >
+</whed_simulation >
+<transmitted_virus number='2' > <virus e='5' f='12' d='0' SpVL='4.45' ImResp='5' />  <virus e='5' f='12' d='0' SpVL='4.45' ImResp='5' />  </transmitted_virus >
+</single_host_simulation >
+<single_host_simulation >
+<whed_simulation TOI='0' TOD='15.8498' spVLmin='3.85' spVLtav='4.87672' k='10' >
+<within_host_history >
+<within_host_statesummary time='0' V='3.59' beta='2.76' > <virus e='0' f='15' d='0' SpVL='3.59' ImResp='10' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.111442' V='3.72' beta='2.76' > <virus e='1' f='15' d='0' SpVL='3.72' ImResp='9' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.19356' V='3.85' beta='2.76' > <virus e='2' f='15' d='0' SpVL='3.85' ImResp='8' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.24' V='3.85' beta='0.10582' > <virus e='2' f='15' d='0' SpVL='3.85' ImResp='8' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.269329' V='3.98' beta='0.128311' > <virus e='3' f='15' d='0' SpVL='3.98' ImResp='7' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.487988' V='4.11' beta='0.152138' > <virus e='4' f='15' d='0' SpVL='4.11' ImResp='6' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.672748' V='4.24' beta='0.176256' > <virus e='5' f='15' d='0' SpVL='4.24' ImResp='5' />  </within_host_statesummary > 
+ <within_host_statesummary time='1.35759' V='4.37' beta='0.19957' > <virus e='6' f='15' d='0' SpVL='4.37' ImResp='4' />  </within_host_statesummary > 
+ <within_host_statesummary time='2.75019' V='4.5' beta='0.221122' > <virus e='7' f='15' d='0' SpVL='4.5' ImResp='3' />  </within_host_statesummary > 
+ <within_host_statesummary time='2.94625' V='4.57' beta='0.231749' > <virus e='7' f='14' d='0' SpVL='4.57' ImResp='3' />  </within_host_statesummary > 
+ <within_host_statesummary time='4.72886' V='4.64' beta='0.241599' > <virus e='7' f='13' d='0' SpVL='4.64' ImResp='3' />  </within_host_statesummary > 
+ <within_host_statesummary time='6.3972' V='4.71' beta='0.250637' > <virus e='7' f='12' d='0' SpVL='4.71' ImResp='3' />  </within_host_statesummary > 
+ <within_host_statesummary time='7.90503' V='4.78' beta='0.258852' > <virus e='7' f='11' d='0' SpVL='4.78' ImResp='3' />  </within_host_statesummary > 
+ <within_host_statesummary time='8.19559' V='4.91' beta='0.271979' > <virus e='8' f='11' d='0' SpVL='4.91' ImResp='2' />  </within_host_statesummary > 
+ <within_host_statesummary time='9.37594' V='5.04' beta='0.282537' > <virus e='9' f='11' d='0' SpVL='5.04' ImResp='1' />  </within_host_statesummary > 
+ <within_host_statesummary time='12.5065' V='5.11' beta='0.287271' > <virus e='9' f='10' d='0' SpVL='5.11' ImResp='1' />  </within_host_statesummary > 
+ <within_host_statesummary time='12.6077' V='5.18' beta='0.291414' > <virus e='9' f='9' d='0' SpVL='5.18' ImResp='1' />  </within_host_statesummary > 
+ <within_host_statesummary time='15.0998' V='5.18' beta='0.76' > <virus e='9' f='9' d='0' SpVL='5.18' ImResp='1' />  </within_host_statesummary > 
+ <within_host_statesummary time='15.2959' V='5.25' beta='0.76' > <virus e='9' f='8' d='0' SpVL='5.25' ImResp='1' />  </within_host_statesummary > 
+ <within_host_statesummary time='15.3457' V='5.32' beta='0.76' > <virus e='9' f='7' d='0' SpVL='5.32' ImResp='1' />  </within_host_statesummary > 
+ <within_host_statesummary time='15.6634' V='5.39' beta='0.76' > <virus e='9' f='6' d='0' SpVL='5.39' ImResp='1' />  </within_host_statesummary > 
+ <within_host_statesummary time='15.67' V='5.46' beta='0.76' > <virus e='9' f='5' d='0' SpVL='5.46' ImResp='1' />  </within_host_statesummary > 
+ <within_host_statesummary time='15.7506' V='5.53' beta='0.76' > <virus e='9' f='4' d='0' SpVL='5.53' ImResp='1' />  </within_host_statesummary > 
+ <within_host_statesummary time='15.8498' V='5.53' beta='0' > <virus e='9' f='4' d='0' SpVL='5.53' ImResp='1' />  </within_host_statesummary > 
+ </within_host_history >
+</whed_simulation >
+<transmitted_virus number='5' > <virus e='1' f='15' d='0' SpVL='3.72' ImResp='9' />  <virus e='6' f='15' d='0' SpVL='4.37' ImResp='4' />  <virus e='9' f='11' d='0' SpVL='5.04' ImResp='1' />  <virus e='9' f='11' d='0' SpVL='5.04' ImResp='1' />  <virus e='9' f='9' d='0' SpVL='5.18' ImResp='1' />  </transmitted_virus >
+</single_host_simulation >
+<single_host_simulation >
+<whed_simulation TOI='0' TOD='6.93694' spVLmin='2.65' spVLtav='3.62872' k='17' >
+<within_host_history >
+<within_host_statesummary time='0' V='2.19' beta='2.76' > <virus e='0' f='15' d='0' SpVL='2.19' ImResp='17' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.0709618' V='2.32' beta='2.76' > <virus e='1' f='15' d='0' SpVL='2.32' ImResp='16' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.135289' V='2.45' beta='2.76' > <virus e='2' f='15' d='0' SpVL='2.45' ImResp='15' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.180505' V='2.58' beta='2.76' > <virus e='3' f='15' d='0' SpVL='2.58' ImResp='14' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.219449' V='2.65' beta='2.76' > <virus e='3' f='14' d='0' SpVL='2.65' ImResp='14' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.24' V='2.65' beta='0.00920816' > <virus e='3' f='14' d='0' SpVL='2.65' ImResp='14' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.679488' V='2.78' beta='0.0123678' > <virus e='4' f='14' d='0' SpVL='2.78' ImResp='13' />  </within_host_statesummary > 
+ <within_host_statesummary time='1.17711' V='2.91' beta='0.0165532' > <virus e='5' f='14' d='0' SpVL='2.91' ImResp='12' />  </within_host_statesummary > 
+ <within_host_statesummary time='1.35767' V='3.04' beta='0.0220526' > <virus e='6' f='14' d='0' SpVL='3.04' ImResp='11' />  </within_host_statesummary > 
+ <within_host_statesummary time='1.39274' V='3.17' beta='0.0292014' > <virus e='7' f='14' d='0' SpVL='3.17' ImResp='10' />  </within_host_statesummary > 
+ <within_host_statesummary time='1.81677' V='3.24' beta='0.0338621' > <virus e='7' f='13' d='0' SpVL='3.24' ImResp='10' />  </within_host_statesummary > 
+ <within_host_statesummary time='2.12077' V='3.37' beta='0.0442646' > <virus e='8' f='13' d='0' SpVL='3.37' ImResp='9' />  </within_host_statesummary > 
+ <within_host_statesummary time='2.5881' V='3.5' beta='0.0572171' > <virus e='9' f='13' d='0' SpVL='3.5' ImResp='8' />  </within_host_statesummary > 
+ <within_host_statesummary time='2.61473' V='3.57' beta='0.0653341' > <virus e='9' f='12' d='0' SpVL='3.57' ImResp='8' />  </within_host_statesummary > 
+ <within_host_statesummary time='2.78184' V='3.7' beta='0.082585' > <virus e='10' f='12' d='0' SpVL='3.7' ImResp='7' />  </within_host_statesummary > 
+ <within_host_statesummary time='4.93824' V='3.83' beta='0.102535' > <virus e='11' f='12' d='0' SpVL='3.83' ImResp='6' />  </within_host_statesummary > 
+ <within_host_statesummary time='5.16699' V='3.96' beta='0.12474' > <virus e='12' f='12' d='0' SpVL='3.96' ImResp='5' />  </within_host_statesummary > 
+ <within_host_statesummary time='6.18694' V='3.96' beta='0.76' > <virus e='12' f='12' d='0' SpVL='3.96' ImResp='5' />  </within_host_statesummary > 
+ <within_host_statesummary time='6.41214' V='4.09' beta='0.76' > <virus e='13' f='12' d='0' SpVL='4.09' ImResp='4' />  </within_host_statesummary > 
+ <within_host_statesummary time='6.70278' V='4.16' beta='0.76' > <virus e='13' f='11' d='0' SpVL='4.16' ImResp='4' />  </within_host_statesummary > 
+ <within_host_statesummary time='6.93694' V='4.16' beta='0' > <virus e='13' f='11' d='0' SpVL='4.16' ImResp='4' />  </within_host_statesummary > 
+ </within_host_history >
+</whed_simulation >
+<transmitted_virus number='2' > <virus e='2' f='15' d='0' SpVL='2.45' ImResp='15' />  <virus e='13' f='12' d='0' SpVL='4.09' ImResp='4' />  </transmitted_virus >
+</single_host_simulation >
+<single_host_simulation >
+<whed_simulation TOI='0' TOD='19.7572' spVLmin='1.23' spVLtav='3.19159' k='29' >
+<within_host_history >
+<within_host_statesummary time='0' V='-0.01' beta='2.76' > <virus e='1' f='14' d='0' SpVL='-0.01' ImResp='28' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.0525316' V='0.12' beta='2.76' > <virus e='2' f='14' d='0' SpVL='0.12' ImResp='27' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.0550279' V='0.25' beta='2.76' > <virus e='3' f='14' d='0' SpVL='0.25' ImResp='26' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.0567611' V='0.38' beta='2.76' > <virus e='4' f='14' d='0' SpVL='0.38' ImResp='25' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.0658596' V='0.45' beta='2.76' > <virus e='4' f='13' d='0' SpVL='0.45' ImResp='25' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.0754738' V='0.58' beta='2.76' > <virus e='5' f='13' d='0' SpVL='0.58' ImResp='24' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.177129' V='0.71' beta='2.76' > <virus e='6' f='13' d='0' SpVL='0.71' ImResp='23' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.190792' V='0.84' beta='2.76' > <virus e='7' f='13' d='0' SpVL='0.84' ImResp='22' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.199403' V='0.97' beta='2.76' > <virus e='8' f='13' d='0' SpVL='0.97' ImResp='21' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.203521' V='1.1' beta='2.76' > <virus e='9' f='13' d='0' SpVL='1.1' ImResp='20' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.236318' V='1.23' beta='2.76' > <virus e='10' f='13' d='0' SpVL='1.23' ImResp='19' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.24' V='1.23' beta='0.000337375' > <virus e='10' f='13' d='0' SpVL='1.23' ImResp='19' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.379909' V='1.36' beta='0.000457665' > <virus e='11' f='13' d='0' SpVL='1.36' ImResp='18' />  </within_host_statesummary > 
+ <within_host_statesummary time='1.00905' V='1.49' beta='0.00062076' > <virus e='12' f='13' d='0' SpVL='1.49' ImResp='17' />  </within_host_statesummary > 
+ <within_host_statesummary time='1.3798' V='1.56' beta='0.000731428' > <virus e='12' f='12' d='0' SpVL='1.56' ImResp='17' />  </within_host_statesummary > 
+ <within_host_statesummary time='1.673' V='1.63' beta='0.000861772' > <virus e='12' f='11' d='0' SpVL='1.63' ImResp='17' />  </within_host_statesummary > 
+ <within_host_statesummary time='2.43857' V='1.76' beta='0.00116835' > <virus e='13' f='11' d='0' SpVL='1.76' ImResp='16' />  </within_host_statesummary > 
+ <within_host_statesummary time='2.74468' V='1.89' beta='0.00158343' > <virus e='14' f='11' d='0' SpVL='1.89' ImResp='15' />  </within_host_statesummary > 
+ <within_host_statesummary time='3.34152' V='2.02' beta='0.00214499' > <virus e='15' f='11' d='0' SpVL='2.02' ImResp='14' />  </within_host_statesummary > 
+ <within_host_statesummary time='3.50407' V='2.15' beta='0.00290388' > <virus e='16' f='11' d='0' SpVL='2.15' ImResp='13' />  </within_host_statesummary > 
+ <within_host_statesummary time='3.89421' V='2.22' beta='0.00341718' > <virus e='16' f='10' d='0' SpVL='2.22' ImResp='13' />  </within_host_statesummary > 
+ <within_host_statesummary time='4.24122' V='2.29' beta='0.00402006' > <virus e='16' f='9' d='0' SpVL='2.29' ImResp='13' />  </within_host_statesummary > 
+ <within_host_statesummary time='4.4997' V='2.42' beta='0.00543088' > <virus e='17' f='9' d='0' SpVL='2.42' ImResp='12' />  </within_host_statesummary > 
+ <within_host_statesummary time='4.80239' V='2.55' beta='0.00732523' > <virus e='18' f='9' d='0' SpVL='2.55' ImResp='11' />  </within_host_statesummary > 
+ <within_host_statesummary time='4.90991' V='2.68' beta='0.00985945' > <virus e='19' f='9' d='0' SpVL='2.68' ImResp='10' />  </within_host_statesummary > 
+ <within_host_statesummary time='5.07757' V='2.81' beta='0.0132329' > <virus e='20' f='9' d='0' SpVL='2.81' ImResp='9' />  </within_host_statesummary > 
+ <within_host_statesummary time='8.08748' V='2.94' beta='0.0176942' > <virus e='21' f='9' d='0' SpVL='2.94' ImResp='8' />  </within_host_statesummary > 
+ <within_host_statesummary time='8.80537' V='3.07' beta='0.0235429' > <virus e='22' f='9' d='0' SpVL='3.07' ImResp='7' />  </within_host_statesummary > 
+ <within_host_statesummary time='9.97457' V='3.2' beta='0.0311239' > <virus e='23' f='9' d='0' SpVL='3.2' ImResp='6' />  </within_host_statesummary > 
+ <within_host_statesummary time='11.3514' V='3.27' beta='0.0360529' > <virus e='23' f='8' d='0' SpVL='3.27' ImResp='6' />  </within_host_statesummary > 
+ <within_host_statesummary time='12.4309' V='3.34' beta='0.0416488' > <virus e='23' f='7' d='0' SpVL='3.34' ImResp='6' />  </within_host_statesummary > 
+ <within_host_statesummary time='14.2139' V='3.47' beta='0.0539874' > <virus e='24' f='7' d='0' SpVL='3.47' ImResp='5' />  </within_host_statesummary > 
+ <within_host_statesummary time='16.9498' V='3.54' beta='0.0617551' > <virus e='24' f='6' d='0' SpVL='3.54' ImResp='5' />  </within_host_statesummary > 
+ <within_host_statesummary time='17.8366' V='3.67' beta='0.0783552' > <virus e='25' f='6' d='0' SpVL='3.67' ImResp='4' />  </within_host_statesummary > 
+ <within_host_statesummary time='19.0072' V='3.67' beta='0.76' > <virus e='25' f='6' d='0' SpVL='3.67' ImResp='4' />  </within_host_statesummary > 
+ <within_host_statesummary time='19.7572' V='3.67' beta='0' > <virus e='25' f='6' d='0' SpVL='3.67' ImResp='4' />  </within_host_statesummary > 
+ </within_host_history >
+</whed_simulation >
+<transmitted_virus number='0' > </transmitted_virus >
+</single_host_simulation >
+<single_host_simulation >
+<whed_simulation TOI='0' TOD='10.4284' spVLmin='2.18' spVLtav='3.32457' k='25' >
+<within_host_history >
+<within_host_statesummary time='0' V='1.39' beta='2.76' > <virus e='4' f='11' d='0' SpVL='1.39' ImResp='21' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.00937712' V='1.52' beta='2.76' > <virus e='5' f='11' d='0' SpVL='1.52' ImResp='20' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.064245' V='1.65' beta='2.76' > <virus e='6' f='11' d='0' SpVL='1.65' ImResp='19' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.100141' V='1.78' beta='2.76' > <virus e='7' f='11' d='0' SpVL='1.78' ImResp='18' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.114174' V='1.85' beta='2.76' > <virus e='7' f='10' d='0' SpVL='1.85' ImResp='18' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.180444' V='1.98' beta='2.76' > <virus e='8' f='10' d='0' SpVL='1.98' ImResp='17' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.199907' V='2.05' beta='2.76' > <virus e='8' f='9' d='0' SpVL='2.05' ImResp='17' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.21694' V='2.18' beta='2.76' > <virus e='9' f='9' d='0' SpVL='2.18' ImResp='16' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.24' V='2.18' beta='0.00311378' > <virus e='9' f='9' d='0' SpVL='2.18' ImResp='16' />  </within_host_statesummary > 
+ <within_host_statesummary time='1.4932' V='2.31' beta='0.00421083' > <virus e='10' f='9' d='0' SpVL='2.31' ImResp='15' />  </within_host_statesummary > 
+ <within_host_statesummary time='2.15668' V='2.44' beta='0.00568738' > <virus e='11' f='9' d='0' SpVL='2.44' ImResp='14' />  </within_host_statesummary > 
+ <within_host_statesummary time='2.34272' V='2.57' beta='0.007669' > <virus e='12' f='9' d='0' SpVL='2.57' ImResp='13' />  </within_host_statesummary > 
+ <within_host_statesummary time='2.59653' V='2.7' beta='0.0103182' > <virus e='13' f='9' d='0' SpVL='2.7' ImResp='12' />  </within_host_statesummary > 
+ <within_host_statesummary time='2.924' V='2.83' beta='0.0138416' > <virus e='14' f='9' d='0' SpVL='2.83' ImResp='11' />  </within_host_statesummary > 
+ <within_host_statesummary time='3.2337' V='2.96' beta='0.0184955' > <virus e='15' f='9' d='0' SpVL='2.96' ImResp='10' />  </within_host_statesummary > 
+ <within_host_statesummary time='3.60155' V='3.09' beta='0.0245873' > <virus e='16' f='9' d='0' SpVL='3.09' ImResp='9' />  </within_host_statesummary > 
+ <within_host_statesummary time='3.65191' V='3.22' beta='0.0324674' > <virus e='17' f='9' d='0' SpVL='3.22' ImResp='8' />  </within_host_statesummary > 
+ <within_host_statesummary time='5.10776' V='3.35' beta='0.0425058' > <virus e='18' f='9' d='0' SpVL='3.35' ImResp='7' />  </within_host_statesummary > 
+ <within_host_statesummary time='6.76412' V='3.48' beta='0.0550476' > <virus e='19' f='9' d='0' SpVL='3.48' ImResp='6' />  </within_host_statesummary > 
+ <within_host_statesummary time='8.33886' V='3.61' beta='0.0703415' > <virus e='20' f='9' d='0' SpVL='3.61' ImResp='5' />  </within_host_statesummary > 
+ <within_host_statesummary time='8.73137' V='3.74' beta='0.0884498' > <virus e='21' f='9' d='0' SpVL='3.74' ImResp='4' />  </within_host_statesummary > 
+ <within_host_statesummary time='9.15524' V='3.87' beta='0.109157' > <virus e='22' f='9' d='0' SpVL='3.87' ImResp='3' />  </within_host_statesummary > 
+ <within_host_statesummary time='9.67841' V='3.87' beta='0.76' > <virus e='22' f='9' d='0' SpVL='3.87' ImResp='3' />  </within_host_statesummary > 
+ <within_host_statesummary time='10.0174' V='3.94' beta='0.76' > <virus e='22' f='8' d='0' SpVL='3.94' ImResp='3' />  </within_host_statesummary > 
+ <within_host_statesummary time='10.136' V='4.01' beta='0.76' > <virus e='22' f='7' d='0' SpVL='4.01' ImResp='3' />  </within_host_statesummary > 
+ <within_host_statesummary time='10.2758' V='4.14' beta='0.76' > <virus e='23' f='7' d='0' SpVL='4.14' ImResp='2' />  </within_host_statesummary > 
+ <within_host_statesummary time='10.3368' V='4.27' beta='0.76' > <virus e='24' f='7' d='0' SpVL='4.27' ImResp='1' />  </within_host_statesummary > 
+ <within_host_statesummary time='10.4284' V='4.27' beta='0' > <virus e='24' f='7' d='0' SpVL='4.27' ImResp='1' />  </within_host_statesummary > 
+ </within_host_history >
+</whed_simulation >
+<transmitted_virus number='3' > <virus e='7' f='10' d='0' SpVL='1.85' ImResp='18' />  <virus e='7' f='10' d='0' SpVL='1.85' ImResp='18' />  <virus e='9' f='9' d='0' SpVL='2.18' ImResp='16' />  </transmitted_virus >
+</single_host_simulation >
+<single_host_simulation >
+<whed_simulation TOI='0' TOD='13.8567' spVLmin='2.24' spVLtav='3.6641' k='20' >
+<within_host_history >
+<within_host_statesummary time='0' V='1.59' beta='2.76' > <virus e='0' f='15' d='0' SpVL='1.59' ImResp='20' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.000331667' V='1.72' beta='2.76' > <virus e='1' f='15' d='0' SpVL='1.72' ImResp='19' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.0749172' V='1.85' beta='2.76' > <virus e='2' f='15' d='0' SpVL='1.85' ImResp='18' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.122348' V='1.98' beta='2.76' > <virus e='3' f='15' d='0' SpVL='1.98' ImResp='17' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.146254' V='2.11' beta='2.76' > <virus e='4' f='15' d='0' SpVL='2.11' ImResp='16' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.209449' V='2.24' beta='2.76' > <virus e='5' f='15' d='0' SpVL='2.24' ImResp='15' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.24' V='2.24' beta='0.00357967' > <virus e='5' f='15' d='0' SpVL='2.24' ImResp='15' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.615115' V='2.31' beta='0.00421083' > <virus e='5' f='14' d='0' SpVL='2.31' ImResp='15' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.669357' V='2.44' beta='0.00568738' > <virus e='6' f='14' d='0' SpVL='2.44' ImResp='14' />  </within_host_statesummary > 
+ <within_host_statesummary time='1.60424' V='2.57' beta='0.007669' > <virus e='7' f='14' d='0' SpVL='2.57' ImResp='13' />  </within_host_statesummary > 
+ <within_host_statesummary time='2.21411' V='2.64' beta='0.00900048' > <virus e='7' f='13' d='0' SpVL='2.64' ImResp='13' />  </within_host_statesummary > 
+ <within_host_statesummary time='3.13502' V='2.77' beta='0.0120916' > <virus e='8' f='13' d='0' SpVL='2.77' ImResp='12' />  </within_host_statesummary > 
+ <within_host_statesummary time='3.24964' V='2.9' beta='0.0161886' > <virus e='9' f='13' d='0' SpVL='2.9' ImResp='11' />  </within_host_statesummary > 
+ <within_host_statesummary time='3.93685' V='2.97' beta='0.0189088' > <virus e='9' f='12' d='0' SpVL='2.97' ImResp='11' />  </within_host_statesummary > 
+ <within_host_statesummary time='4.63128' V='3.1' beta='0.0251253' > <virus e='10' f='12' d='0' SpVL='3.1' ImResp='10' />  </within_host_statesummary > 
+ <within_host_statesummary time='5.66202' V='3.23' beta='0.0331583' > <virus e='11' f='12' d='0' SpVL='3.23' ImResp='9' />  </within_host_statesummary > 
+ <within_host_statesummary time='5.84394' V='3.3' beta='0.0383662' > <virus e='11' f='11' d='0' SpVL='3.3' ImResp='9' />  </within_host_statesummary > 
+ <within_host_statesummary time='7.28528' V='3.43' beta='0.0499086' > <virus e='12' f='11' d='0' SpVL='3.43' ImResp='8' />  </within_host_statesummary > 
+ <within_host_statesummary time='7.53565' V='3.5' beta='0.0572171' > <virus e='12' f='10' d='0' SpVL='3.5' ImResp='8' />  </within_host_statesummary > 
+ <within_host_statesummary time='7.86817' V='3.63' beta='0.072946' > <virus e='13' f='10' d='0' SpVL='3.63' ImResp='7' />  </within_host_statesummary > 
+ <within_host_statesummary time='9.66261' V='3.76' beta='0.0914762' > <virus e='14' f='10' d='0' SpVL='3.76' ImResp='6' />  </within_host_statesummary > 
+ <within_host_statesummary time='9.6669' V='3.83' beta='0.102535' > <virus e='14' f='9' d='0' SpVL='3.83' ImResp='6' />  </within_host_statesummary > 
+ <within_host_statesummary time='10.0537' V='3.96' beta='0.12474' > <virus e='15' f='9' d='0' SpVL='3.96' ImResp='5' />  </within_host_statesummary > 
+ <within_host_statesummary time='10.3816' V='4.03' beta='0.13737' > <virus e='15' f='8' d='0' SpVL='4.03' ImResp='5' />  </within_host_statesummary > 
+ <within_host_statesummary time='10.8456' V='4.16' beta='0.16144' > <virus e='16' f='8' d='0' SpVL='4.16' ImResp='4' />  </within_host_statesummary > 
+ <within_host_statesummary time='13.1067' V='4.16' beta='0.76' > <virus e='16' f='8' d='0' SpVL='4.16' ImResp='4' />  </within_host_statesummary > 
+ <within_host_statesummary time='13.1239' V='4.29' beta='0.76' > <virus e='17' f='8' d='0' SpVL='4.29' ImResp='3' />  </within_host_statesummary > 
+ <within_host_statesummary time='13.3093' V='4.42' beta='0.76' > <virus e='18' f='8' d='0' SpVL='4.42' ImResp='2' />  </within_host_statesummary > 
+ <within_host_statesummary time='13.8567' V='4.42' beta='0' > <virus e='18' f='8' d='0' SpVL='4.42' ImResp='2' />  </within_host_statesummary > 
+ </within_host_history >
+</whed_simulation >
+<transmitted_virus number='2' > <virus e='3' f='15' d='0' SpVL='1.98' ImResp='17' />  <virus e='12' f='10' d='0' SpVL='3.5' ImResp='8' />  </transmitted_virus >
+</single_host_simulation >
+<single_host_simulation >
+<whed_simulation TOI='0' TOD='7.09928' spVLmin='4.45' spVLtav='4.73707' k='9' >
+<within_host_history >
+<within_host_statesummary time='0' V='3.99' beta='2.76' > <virus e='1' f='14' d='0' SpVL='3.99' ImResp='8' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.0479877' V='4.12' beta='2.76' > <virus e='2' f='14' d='0' SpVL='4.12' ImResp='7' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.127754' V='4.19' beta='2.76' > <virus e='2' f='13' d='0' SpVL='4.19' ImResp='7' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.132977' V='4.32' beta='2.76' > <virus e='3' f='13' d='0' SpVL='4.32' ImResp='6' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.144955' V='4.45' beta='2.76' > <virus e='4' f='13' d='0' SpVL='4.45' ImResp='5' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.24' V='4.45' beta='0.213092' > <virus e='4' f='13' d='0' SpVL='4.45' ImResp='5' />  </within_host_statesummary > 
+ <within_host_statesummary time='1.6842' V='4.58' beta='0.233204' > <virus e='5' f='13' d='0' SpVL='4.58' ImResp='4' />  </within_host_statesummary > 
+ <within_host_statesummary time='2.49945' V='4.71' beta='0.250637' > <virus e='6' f='13' d='0' SpVL='4.71' ImResp='3' />  </within_host_statesummary > 
+ <within_host_statesummary time='2.75487' V='4.84' beta='0.265247' > <virus e='7' f='13' d='0' SpVL='4.84' ImResp='2' />  </within_host_statesummary > 
+ <within_host_statesummary time='6.34928' V='4.84' beta='0.76' > <virus e='7' f='13' d='0' SpVL='4.84' ImResp='2' />  </within_host_statesummary > 
+ <within_host_statesummary time='7.04732' V='4.97' beta='0.76' > <virus e='8' f='13' d='0' SpVL='4.97' ImResp='1' />  </within_host_statesummary > 
+ <within_host_statesummary time='7.09928' V='4.97' beta='0' > <virus e='8' f='13' d='0' SpVL='4.97' ImResp='1' />  </within_host_statesummary > 
+ </within_host_history >
+</whed_simulation >
+<transmitted_virus number='4' > <virus e='2' f='14' d='0' SpVL='4.12' ImResp='7' />  <virus e='4' f='13' d='0' SpVL='4.45' ImResp='5' />  <virus e='4' f='13' d='0' SpVL='4.45' ImResp='5' />  <virus e='7' f='13' d='0' SpVL='4.84' ImResp='2' />  </transmitted_virus >
+</single_host_simulation >
+<single_host_simulation >
+<whed_simulation TOI='0' TOD='13.972' spVLmin='2.92' spVLtav='4.2814' k='15' >
+<within_host_history >
+<within_host_statesummary time='0' V='2.79' beta='2.76' > <virus e='1' f='14' d='0' SpVL='2.79' ImResp='14' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.165478' V='2.92' beta='2.76' > <virus e='2' f='14' d='0' SpVL='2.92' ImResp='13' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.24' V='2.92' beta='0.0169256' > <virus e='2' f='14' d='0' SpVL='2.92' ImResp='13' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.35562' V='2.99' beta='0.0197615' > <virus e='2' f='13' d='0' SpVL='2.99' ImResp='13' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.578796' V='3.12' beta='0.0262337' > <virus e='3' f='13' d='0' SpVL='3.12' ImResp='12' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.750197' V='3.25' beta='0.034579' > <virus e='4' f='13' d='0' SpVL='3.25' ImResp='11' />  </within_host_statesummary > 
+ <within_host_statesummary time='1.46809' V='3.32' beta='0.0399787' > <virus e='4' f='12' d='0' SpVL='3.32' ImResp='11' />  </within_host_statesummary > 
+ <within_host_statesummary time='2.04673' V='3.39' beta='0.046084' > <virus e='4' f='11' d='0' SpVL='3.39' ImResp='11' />  </within_host_statesummary > 
+ <within_host_statesummary time='2.13833' V='3.46' beta='0.0529435' > <virus e='4' f='10' d='0' SpVL='3.46' ImResp='11' />  </within_host_statesummary > 
+ <within_host_statesummary time='2.92546' V='3.59' beta='0.0678042' > <virus e='5' f='10' d='0' SpVL='3.59' ImResp='10' />  </within_host_statesummary > 
+ <within_host_statesummary time='3.34759' V='3.72' beta='0.0854857' > <virus e='6' f='10' d='0' SpVL='3.72' ImResp='9' />  </within_host_statesummary > 
+ <within_host_statesummary time='4.28083' V='3.85' beta='0.10582' > <virus e='7' f='10' d='0' SpVL='3.85' ImResp='8' />  </within_host_statesummary > 
+ <within_host_statesummary time='4.47915' V='3.98' beta='0.128311' > <virus e='8' f='10' d='0' SpVL='3.98' ImResp='7' />  </within_host_statesummary > 
+ <within_host_statesummary time='4.66463' V='4.11' beta='0.152138' > <virus e='9' f='10' d='0' SpVL='4.11' ImResp='6' />  </within_host_statesummary > 
+ <within_host_statesummary time='4.81037' V='4.24' beta='0.176256' > <virus e='10' f='10' d='0' SpVL='4.24' ImResp='5' />  </within_host_statesummary > 
+ <within_host_statesummary time='5.92498' V='4.31' beta='0.188976' > <virus e='10' f='9' d='0' SpVL='4.31' ImResp='5' />  </within_host_statesummary > 
+ <within_host_statesummary time='7.81483' V='4.44' beta='0.211445' > <virus e='11' f='9' d='0' SpVL='4.44' ImResp='4' />  </within_host_statesummary > 
+ <within_host_statesummary time='11.6662' V='4.57' beta='0.231749' > <virus e='12' f='9' d='0' SpVL='4.57' ImResp='3' />  </within_host_statesummary > 
+ <within_host_statesummary time='11.8034' V='4.64' beta='0.241599' > <virus e='12' f='8' d='0' SpVL='4.64' ImResp='3' />  </within_host_statesummary > 
+ <within_host_statesummary time='13.222' V='4.64' beta='0.76' > <virus e='12' f='8' d='0' SpVL='4.64' ImResp='3' />  </within_host_statesummary > 
+ <within_host_statesummary time='13.5931' V='4.71' beta='0.76' > <virus e='12' f='7' d='0' SpVL='4.71' ImResp='3' />  </within_host_statesummary > 
+ <within_host_statesummary time='13.7029' V='4.78' beta='0.76' > <virus e='12' f='6' d='0' SpVL='4.78' ImResp='3' />  </within_host_statesummary > 
+ <within_host_statesummary time='13.708' V='4.91' beta='0.76' > <virus e='13' f='6' d='0' SpVL='4.91' ImResp='2' />  </within_host_statesummary > 
+ <within_host_statesummary time='13.7597' V='4.98' beta='0.76' > <virus e='13' f='5' d='0' SpVL='4.98' ImResp='2' />  </within_host_statesummary > 
+ <within_host_statesummary time='13.972' V='4.98' beta='0' > <virus e='13' f='5' d='0' SpVL='4.98' ImResp='2' />  </within_host_statesummary > 
+ </within_host_history >
+</whed_simulation >
+<transmitted_virus number='4' > <virus e='1' f='14' d='0' SpVL='2.79' ImResp='14' />  <virus e='1' f='14' d='0' SpVL='2.79' ImResp='14' />  <virus e='10' f='10' d='0' SpVL='4.24' ImResp='5' />  <virus e='12' f='8' d='0' SpVL='4.64' ImResp='3' />  </transmitted_virus >
+</single_host_simulation >
+<single_host_simulation >
+<whed_simulation TOI='0' TOD='12.7704' spVLmin='2.45' spVLtav='4.0302' k='17' >
+<within_host_history >
+<within_host_statesummary time='0' V='2.19' beta='2.76' > <virus e='0' f='15' d='0' SpVL='2.19' ImResp='17' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.0827804' V='2.32' beta='2.76' > <virus e='1' f='15' d='0' SpVL='2.32' ImResp='16' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.15235' V='2.45' beta='2.76' > <virus e='2' f='15' d='0' SpVL='2.45' ImResp='15' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.24' V='2.45' beta='0.00582006' > <virus e='2' f='15' d='0' SpVL='2.45' ImResp='15' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.383346' V='2.58' beta='0.00784674' > <virus e='3' f='15' d='0' SpVL='2.58' ImResp='14' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.390511' V='2.65' beta='0.00920816' > <virus e='3' f='14' d='0' SpVL='2.65' ImResp='14' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.490156' V='2.78' beta='0.0123678' > <virus e='4' f='14' d='0' SpVL='2.78' ImResp='13' />  </within_host_statesummary > 
+ <within_host_statesummary time='0.596179' V='2.91' beta='0.0165532' > <virus e='5' f='14' d='0' SpVL='2.91' ImResp='12' />  </within_host_statesummary > 
+ <within_host_statesummary time='1.00417' V='3.04' beta='0.0220526' > <virus e='6' f='14' d='0' SpVL='3.04' ImResp='11' />  </within_host_statesummary > 
+ <within_host_statesummary time='2.39175' V='3.11' beta='0.0256741' > <virus e='6' f='13' d='0' SpVL='3.11' ImResp='11' />  </within_host_statesummary > 
+ <within_host_statesummary time='2.59052' V='3.24' beta='0.0338621' > <virus e='7' f='13' d='0' SpVL='3.24' ImResp='10' />  </within_host_statesummary > 
+ <within_host_statesummary time='2.62287' V='3.37' beta='0.0442646' > <virus e='8' f='13' d='0' SpVL='3.37' ImResp='9' />  </within_host_statesummary > 
+ <within_host_statesummary time='2.87867' V='3.44' beta='0.0509042' > <virus e='8' f='12' d='0' SpVL='3.44' ImResp='9' />  </within_host_statesummary > 
+ <within_host_statesummary time='3.61895' V='3.51' beta='0.0583267' > <virus e='8' f='11' d='0' SpVL='3.51' ImResp='9' />  </within_host_statesummary > 
+ <within_host_statesummary time='3.74305' V='3.64' beta='0.0742733' > <virus e='9' f='11' d='0' SpVL='3.64' ImResp='8' />  </within_host_statesummary > 
+ <within_host_statesummary time='3.99208' V='3.71' beta='0.0840273' > <virus e='9' f='10' d='0' SpVL='3.71' ImResp='8' />  </within_host_statesummary > 
+ <within_host_statesummary time='4.70402' V='3.84' beta='0.104171' > <virus e='10' f='10' d='0' SpVL='3.84' ImResp='7' />  </within_host_statesummary > 
+ <within_host_statesummary time='6.24151' V='3.97' beta='0.126521' > <virus e='11' f='10' d='0' SpVL='3.97' ImResp='6' />  </within_host_statesummary > 
+ <within_host_statesummary time='6.75498' V='4.1' beta='0.15028' > <virus e='12' f='10' d='0' SpVL='4.1' ImResp='5' />  </within_host_statesummary > 
+ <within_host_statesummary time='7.38964' V='4.23' beta='0.174416' > <virus e='13' f='10' d='0' SpVL='4.23' ImResp='4' />  </within_host_statesummary > 
+ <within_host_statesummary time='9.02675' V='4.3' beta='0.18718' > <virus e='13' f='9' d='0' SpVL='4.3' ImResp='4' />  </within_host_statesummary > 
+ <within_host_statesummary time='11.2676' V='4.43' beta='0.209784' > <virus e='14' f='9' d='0' SpVL='4.43' ImResp='3' />  </within_host_statesummary > 
+ <within_host_statesummary time='12.0204' V='4.43' beta='0.76' > <virus e='14' f='9' d='0' SpVL='4.43' ImResp='3' />  </within_host_statesummary > 
+ <within_host_statesummary time='12.0471' V='4.5' beta='0.76' > <virus e='14' f='8' d='0' SpVL='4.5' ImResp='3' />  </within_host_statesummary > 
+ <within_host_statesummary time='12.0755' V='4.57' beta='0.76' > <virus e='14' f='7' d='0' SpVL='4.57' ImResp='3' />  </within_host_statesummary > 
+ <within_host_statesummary time='12.0844' V='4.64' beta='0.76' > <virus e='14' f='6' d='0' SpVL='4.64' ImResp='3' />  </within_host_statesummary > 
+ <within_host_statesummary time='12.3382' V='4.77' beta='0.76' > <virus e='15' f='6' d='0' SpVL='4.77' ImResp='2' />  </within_host_statesummary > 
+ <within_host_statesummary time='12.7704' V='4.77' beta='0' > <virus e='15' f='6' d='0' SpVL='4.77' ImResp='2' />  </within_host_statesummary > 
+ </within_host_history >
+</whed_simulation >
+<transmitted_virus number='2' > <virus e='10' f='10' d='0' SpVL='3.84' ImResp='7' />  <virus e='12' f='10' d='0' SpVL='4.1' ImResp='5' />  </transmitted_virus >
+</single_host_simulation >
+</stable_dist_sample > 

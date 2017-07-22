@@ -1,0 +1,74 @@
+## parameters for epidemic, parametersweep, and singlehost.
+############################################################
+## parameter names, flags and values must be separated by ##
+##            one or more \t (tab) character(s)           ##
+##  flags must be one of the following: (without quotes)  ## 
+##            "-d" for doubles                            ##
+##            "-i" for integers                           ##
+##            "-s" for strings                            ##
+##            "-r" for ranges                             ##
+############################################################
+## EXAMPLE_NAME			-FLAG	VALUE
+FRASERS_BETA1			-d	2.76
+FRASERS_BETAMAX			-d	0.317
+FRASERS_BETA50			-d	13938.0
+FRASERS_BETAK			-d	1.02
+FRASERS_BETA3			-d	0.76
+FRASERS_D1			-d	0.24
+FRASERS_DMAX			-d	25.4
+## DMIN is just a parameter to avoid division by zero, 
+## but could be used to model a minimal duration of the chronic phase.
+FRASERS_DMIN			-d	0.1
+FRASERS_D50			-d	3058.0
+FRASERS_DK			-d	0.41
+FRASERS_D3			-d	0.75
+FRASERS_RHO			-d	3.46
+## a switch to run the "shadow model" without between-host fitness differences
+FLAT_TP				-i	0
+LAMBDA1				-d	1e0
+LAMBDA2				-d	1e-1
+LAMBDA3				-d	5e-1
+VLMAX				-d	6.64
+SIGMA				-d	0.2
+PHI				-d	0.07
+## PESC should be set to 1, PREV is used to make reversion slower than escape
+PESC				-d	1e0
+PREV				-d	0.35e0
+## the population-level number of epitopes n
+PEPTIDES_N			-i	300
+## the model can be extended by allowing for deleterious mutations 
+## that are NEVER an escape (total NONEPITOPE_M, inital INITIAL_D)
+NONEPITOPE_M			-i	0
+MEAN_K				-i	15
+STANDARD_DEV_K			-i	5
+## SAMPLESIZE and SAMPLESIZE_LARGE are used for the NGM method
+SAMPLESIZE			-i	50
+SAMPLESIZE_LARGE		-i	50
+POPSIZE				-i	2000
+NATURAL_DEATH_RATE		-d	0.02222
+MAX_TIME			-d	500
+EPISIM_WRITE_FILENAME		-s	data/epidemicsimulation.xml
+EPISIM_SAMPLE_CONSTANT		-d	0.01
+EPISIM_ECHO_BOOL		-i	1
+INITIAL_E			-i	0
+INITIAL_F			-i	0
+INITIAL_D			-i	0
+## ranges for parameter sweep: minumum, maximum; number of points
+##############################################################
+##  NB: the program takes the defined PESC and PREV in the  ##
+##  parameter file and scales both values with the values   ##
+##  in the range so for instance, if PESC = 0.001586 and    ##
+##  PREV = 0.000559, and the range is given by              ##
+##  -8.0 ... 0.0, then the sweeped values of PESC are       ##
+##  0.001586 * 10^(-8.0) ... 0.001586 * 10^(0.0), and       ##
+##  0.000559 * 10^(-8.0) ... 0.000559 * 10^(0.0) for PREV   ##
+##############################################################
+RANGE_VLMAX			-r	4, 10; 10
+RANGE_LOGPESC			-r	-2.0, 2.0; 10
+RANGE_N				-r	300.0, 300.0; 1
+NGMPARSWEEP_WRITE_FILENAME	-s	data/parametersweepNGM.xml
+GENPARSWEEP_WRITE_FILENAME	-s	data/parametersweepGEN.xml
+PARSWEEP_CURVE_FILENAME		-s	data/contour-4.52-coords.dat
+## parameters used by parametersweepScript.py
+RANGE_DIVIDER			-i	1
+RANGE_REMAINDER			-i	0
